@@ -1,0 +1,12 @@
+{"name":"BM25","ndcg_cut.10":0.5094231361,"recall_1000":0.940701181,"dataset":"argsme-touche-2021-task-1-20230209-training","model":"flan-ul2"}
+{"name":"BM25+RM3","ndcg_cut.10":0.5217956321,"recall_1000":0.9459064854,"dataset":"argsme-touche-2021-task-1-20230209-training","model":"flan-ul2"}
+{"name":"BM25+KL","ndcg_cut.10":0.5399312521,"recall_1000":0.949642755,"dataset":"argsme-touche-2021-task-1-20230209-training","model":"flan-ul2"}
+{"name":"BM25+Q2E\/ZS","ndcg_cut.10":0.532583603,"recall_1000":0.9554699456,"dataset":"argsme-touche-2021-task-1-20230209-training","model":"flan-ul2"}
+{"name":"BM25","ndcg_cut.10":0.5094231361,"recall_1000":0.940701181,"dataset":"argsme-touche-2021-task-1-20230209-training","model":"llama"}
+{"name":"BM25+RM3","ndcg_cut.10":0.5217956321,"recall_1000":0.9459064854,"dataset":"argsme-touche-2021-task-1-20230209-training","model":"llama"}
+{"name":"BM25+KL","ndcg_cut.10":0.5399312521,"recall_1000":0.949642755,"dataset":"argsme-touche-2021-task-1-20230209-training","model":"llama"}
+{"name":"BM25+Q2E\/ZS","ndcg_cut.10":0.572952452,"recall_1000":0.9505097183,"dataset":"argsme-touche-2021-task-1-20230209-training","model":"llama"}
+{"name":"BM25","ndcg_cut.10":0.5094231361,"recall_1000":0.940701181,"dataset":"argsme-touche-2021-task-1-20230209-training","model":"gpt"}
+{"name":"BM25+RM3","ndcg_cut.10":0.5217956321,"recall_1000":0.9459064854,"dataset":"argsme-touche-2021-task-1-20230209-training","model":"gpt"}
+{"name":"BM25+KL","ndcg_cut.10":0.5399312521,"recall_1000":0.949642755,"dataset":"argsme-touche-2021-task-1-20230209-training","model":"gpt"}
+{"name":"BM25+Q2E\/ZS","ndcg_cut.10":0.5572278711,"recall_1000":0.9575808623,"dataset":"argsme-touche-2021-task-1-20230209-training","model":"gpt"}

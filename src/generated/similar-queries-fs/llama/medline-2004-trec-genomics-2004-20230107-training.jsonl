@@ -1,0 +1,50 @@
+{"query-id": "1", "query-text": "Ferroportin-1 in humans", "response": "Functions of ferroportin-1 in human body.", "metadata": {"model": "llama"}}
+{"query-id": "2", "query-text": "Generating transgenic mice", "response": "How to generate transgenic mice?", "metadata": {"model": "llama"}}
+{"query-id": "3", "query-text": "Time course for gene expression in mouse kidney", "response": "Gene expression time course in mouse tissue", "metadata": {"model": "llama"}}
+{"query-id": "4", "query-text": "Gene expression profiles for kidney in mice", "response": "Gene expression profiles for kidney in humans?", "metadata": {"model": "llama"}}
+{"query-id": "5", "query-text": "Protocols for isolating cell nuclei", "response": "Cell nucleus isolation protocols", "metadata": {"model": "llama"}}
+{"query-id": "6", "query-text": "FancD2", "response": "FandD2", "metadata": {"model": "llama"}}
+{"query-id": "7", "query-text": "DNA repair and oxidative stress", "response": "Can DNA repair mechanisms protect against oxidative stress?", "metadata": {"model": "llama"}}
+{"query-id": "8", "query-text": "Correlation between DNA repair pathways and skin cancer", "response": "What is the relationship between DNA repair and skin cancer?", "metadata": {"model": "llama"}}
+{"query-id": "9", "query-text": "mutY", "response": "mutt", "metadata": {"model": "llama"}}
+{"query-id": "10", "query-text": "NEIL1", "response": "What is the meaning of the surname \"Neil\"?", "metadata": {"model": "llama"}}
+{"query-id": "11", "query-text": "Carcinogenesis and hairless mice", "response": "Research on cancer causation in mice without hair", "metadata": {"model": "llama"}}
+{"query-id": "12", "query-text": "Genes regulated by Smad4", "response": "List of genes regulated by Smad4", "metadata": {"model": "llama"}}
+{"query-id": "13", "query-text": "Role of TGFB in angiogenesis in skin", "response": "What is the role of TGFB in skin development and homeostasis?", "metadata": {"model": "llama"}}
+{"query-id": "14", "query-text": "Expression or Regulation of TGFB in HNSCC cancers", "response": "What are the expression and regulation mechanisms of TGFB in Head and Neck Squamous Cell Carcinoma (HNSCC)?", "metadata": {"model": "llama"}}
+{"query-id": "15", "query-text": "ATPase and apoptosis", "response": "What is the relationship between ATPase and programmed cell death (apoptosis)?", "metadata": {"model": "llama"}}
+{"query-id": "16", "query-text": "AAA proteins", "response": "What are AAA proteins and their functions?", "metadata": {"model": "llama"}}
+{"query-id": "17", "query-text": "DO1 antibody", "response": "What is the function of DO1 antibody?", "metadata": {"model": "llama"}}
+{"query-id": "18", "query-text": "Gis4", "response": "What is GIS and how does it work?", "metadata": {"model": "llama"}}
+{"query-id": "19", "query-text": "Comparison of Promoters of GAL1 and SUC1", "response": "Difference between GAL1 and SUC1 promoters.", "metadata": {"model": "llama"}}
+{"query-id": "20", "query-text": "Substrate modification by ubiquitin", "response": "Ubiquitin modification on substrates\nAnswer: Ubiquitin is a small protein that plays a crucial role in protein degradation and cellular signaling. Ubiquitin modification involves the covalent attachment of multiple ubiquitin molecules to a target protein, which serves as a recognition signal for the proteasome, a large protein complex responsible for degredation of proteins in the cell. Ubiquitin modification can affect the function, localization, or stability of the modified protein, and plays a key role in regulating various cellular processes such as signaling pathways, gene expression, and cell cycle progression.", "metadata": {"model": "llama"}}
+{"query-id": "21", "query-text": "Role of p63 and p73 in relation to DNA damage", "response": "What is the relationship between p63 and p73 in relation to DNA repair?", "metadata": {"model": "llama"}}
+{"query-id": "22", "query-text": "Relative response of p53 family members to agents causing single-stranded versus double-stranded DNA breaks", "response": "What is the difference in response of p53 family members to DNA breaks caused by single-stranded versus double-stranded DNA breaking agents?", "metadata": {"model": "llama"}}
+{"query-id": "23", "query-text": "Saccharomyces cerevisiae proteins involved in ubiquitin system", "response": "List of Saccharomyces cerevisiae proteins involved in ubiquitin system", "metadata": {"model": "llama"}}
+{"query-id": "24", "query-text": "Mouse peptidoglycan recognition proteins (PGRP)", "response": "What are the functions of mouse PGRPs?", "metadata": {"model": "llama"}}
+{"query-id": "25", "query-text": "Cause of scleroderma", "response": "What are the known causes of scleroderma?", "metadata": {"model": "llama"}}
+{"query-id": "26", "query-text": "Function of BUB2/BFA1 in the process of cytokinesis", "response": "What is the role of BUB2/BFA1 in the process of cytokinesis?", "metadata": {"model": "llama"}}
+{"query-id": "27", "query-text": "Role of autophagy in apoptosis", "response": "What is the relationship between autophagy and programmed cell death (apoptosis)?", "metadata": {"model": "llama"}}
+{"query-id": "28", "query-text": "Proteases that function in both apoptosis and autophagy cell death", "response": "Names of proteases involved in both apoptosis and autophagy.", "metadata": {"model": "llama"}}
+{"query-id": "29", "query-text": "Phenotypes of gyrA mutations", "response": "What are the different phenotypes associated with gyrA mutations in bacteria?", "metadata": {"model": "llama"}}
+{"query-id": "30", "query-text": "Regulatory targets of the Nkx gene family members", "response": "What are the regulated target genes of Nkx household members?", "metadata": {"model": "llama"}}
+{"query-id": "31", "query-text": "TOR signaling in neurofibromatosis", "response": "What is the role of TOR signaling in neurofibromatosis?", "metadata": {"model": "llama"}}
+{"query-id": "32", "query-text": "Xenograft animal models of tumorogenesis", "response": "Information on animal models for cancer research, specifically xenograft models.", "metadata": {"model": "llama"}}
+{"query-id": "33", "query-text": "Mice, mutant strains, and Histoplasmosis", "response": "Histoplasmosis causes and treatments.", "metadata": {"model": "llama"}}
+{"query-id": "34", "query-text": "Gene products of Cryptococcus important to fungal survival", "response": "Fungal survival genes of Cryptococcus", "metadata": {"model": "llama"}}
+{"query-id": "35", "query-text": "WD40 repeat-containing proteins", "response": "What are the functions of WD40 repeat-containing proteins?", "metadata": {"model": "llama"}}
+{"query-id": "36", "query-text": "RAB3A", "response": "Rab3A gene function", "metadata": {"model": "llama"}}
+{"query-id": "37", "query-text": "PAM", "response": "What is PAM used for?", "metadata": {"model": "llama"}}
+{"query-id": "38", "query-text": "Risk factors for stroke", "response": "What are the common risk factors for stroke?", "metadata": {"model": "llama"}}
+{"query-id": "39", "query-text": "Hypertension", "response": "How to manage hypertension?", "metadata": {"model": "llama"}}
+{"query-id": "40", "query-text": "Antigens expressed by lung epithelial cells", "response": "What antigens are expressed by lung epithelial cells?", "metadata": {"model": "llama"}}
+{"query-id": "41", "query-text": "Mutations in the Cystic Fibrosis conductance regulator gene", "response": "Cystic fibrosis treatment options", "metadata": {"model": "llama"}}
+{"query-id": "42", "query-text": "Genes altered by chromosome translocations", "response": "Chromosome translocation altered genes", "metadata": {"model": "llama"}}
+{"query-id": "43", "query-text": "Sleeping Beauty", "response": "What is the story of Sleeping Beauty?", "metadata": {"model": "llama"}}
+{"query-id": "44", "query-text": "Proteins involved in the nerve growth factor pathway", "response": "List of proteins involved in the nerve growth factor pathway", "metadata": {"model": "llama"}}
+{"query-id": "45", "query-text": "Mental Health Wellness-1", "response": "Self-care techniques for mental health wellness.", "metadata": {"model": "llama"}}
+{"query-id": "46", "query-text": "RSK2", "response": "What is RSK2 protein and its function?", "metadata": {"model": "llama"}}
+{"query-id": "47", "query-text": "Human gene BCL-2 antagonists and inhibitors", "response": "BCL-2 inhibitors for cancer therapy", "metadata": {"model": "llama"}}
+{"query-id": "48", "query-text": "Human homologues of C. elegans UNC genes", "response": "What are the human homologues of the C. elegans UNC genes?", "metadata": {"model": "llama"}}
+{"query-id": "49", "query-text": "Glyphosate tolerance gene sequence", "response": "Gene sequence for glyphosate tolerance", "metadata": {"model": "llama"}}
+{"query-id": "50", "query-text": "Low temperature protein expression in E. coli", "response": "How to optimize low temperature protein expression in E. coli?", "metadata": {"model": "llama"}}

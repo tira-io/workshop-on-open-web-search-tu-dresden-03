@@ -1,0 +1,50 @@
+{"query-id": "1", "query-text": "melanoma BRAF (V600E) 64-year-old male", "response": ["melanoma BRAF (V600E) 64-year-old male?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "2", "query-text": "melanoma BRAF (V600K) 54-year-old male", "response": ["54 year old male with melanoma"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "3", "query-text": "melanoma BRAF (V600R) 80-year-old male", "response": ["melanoma BRAF (V600E) 80-year-old male"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "4", "query-text": "melanoma BRAF (K601E) 38-year-old male", "response": ["melanoma BRAF (K601E) 38-year-old male"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "5", "query-text": "melanoma BRAF (V600E), PTEN loss of function 57-year-old male", "response": ["melanoma BRAF (V600E), PTEN loss of function 57-year-old male?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "6", "query-text": "melanoma BRAF (V600E), NRAS (Q61R) 67-year-old male", "response": ["melanoma bRAF (v600e), nras (q61r) 67-year-old male"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "7", "query-text": "melanoma BRAF amplification 61-year-old male", "response": ["BRAF mutations and melanoma?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "8", "query-text": "melanoma NRAS (Q61R) 63-year-old female", "response": ["melanoma nras q61r"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "9", "query-text": "melanoma NRAS (Q61L) 34-year-old female", "response": ["melanoma nras q61l"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "10", "query-text": "melanoma KIT (L576P) 65-year-old female", "response": ["melanoma KIT (L576P) 65-year-old male"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "11", "query-text": "melanoma KIT (L576P), KIT amplification 56-year-old female", "response": ["melanoma kIT (L576P)"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "12", "query-text": "melanoma KIT (K642E) 62-year-old female", "response": ["melanoma - KIT (K642E) 62-year-old female"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "13", "query-text": "melanoma KIT (N822Y) 39-year-old female", "response": ["melanoma kit (n822y) 39-year-old female"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "14", "query-text": "melanoma KIT amplification 66-year-old female", "response": ["melanoma kit amplification 66-year-old female"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "15", "query-text": "melanoma NF1 truncation 70-year-old male", "response": ["What is the cause of NF1 truncation?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "16", "query-text": "melanoma NTRK1 rearrangement 60-year-old male", "response": ["What is the clinical significance of NTRK1 rearrangement?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "17", "query-text": "melanoma TP53 loss of function 72-year-old male", "response": ["What is the function of p53?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "18", "query-text": "melanoma tumor cells with >50% membranous PD-L1 expression 48-year-old female", "response": ["What is PD-L1? Is it a molecule?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "19", "query-text": "melanoma tumor cells negative for PD-L1 expression 73-year-old male", "response": ["73 year old male? 73 year old female? 73 year old male? 73 year old female?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "20", "query-text": "melanoma high tumor mutational burden 86-year-old female", "response": ["86 year old female? 86 year old female? 86 year old female? 86 year old female?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "21", "query-text": "melanoma extensive tumor infiltrating lymphocytes 49-year-old male", "response": ["melanoma skin cancer? melanoma skin cancer? melanoma skin cancer?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "22", "query-text": "melanoma no tumor infiltrating lymphocytes 74-year-old female", "response": ["74-year-old female with nodule"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "23", "query-text": "melanoma PTEN loss of function 68-year-old male", "response": ["What is a 68-year-old male with melanoma?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "24", "query-text": "melanoma APC loss of function 47-year-old male", "response": ["APC mutations? apc mutations?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "25", "query-text": "melanoma high serum LDH levels 69-year-old female", "response": ["Is a high serum LDH level a sign of cancer?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "26", "query-text": "colorectal cancer NRAS 49-year-old male", "response": ["What is the NRAS score for a 49-year-old male with colorectal cancer?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "27", "query-text": "medullary thyroid carcinoma RET 45-year-old female", "response": ["ret medulla thyroid carcinoma?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "28", "query-text": "neuroblastoma ALK 4-year-old female", "response": ["neuroblastoma akl - 4-year-old female"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "29", "query-text": "esophageal cancer EGFR 67-year-old male", "response": ["I have had esophageal cancer for about 5 years."], "metadata": {"model": "flan-ul2"}}
+{"query-id": "30", "query-text": "lung cancer ROS1 71-year-old female", "response": ["what is the ros1 mutation? what is ros1 gene?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "31", "query-text": "head and neck squamous cell carcinoma CDKN2A 64-year-old male", "response": ["Head and neck squamous cell carcinoma CDKN2A - 64-year-old male"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "32", "query-text": "leukemia ABL1 4-year-old female", "response": ["leukemia abl1 in female?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "33", "query-text": "gastric cancer EGFR 60-year-old female", "response": ["60 year old male with egfr mutation"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "34", "query-text": "sarcoma MDM2 78-year-old female", "response": ["MDM2 sarcoma 78-year-old male?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "35", "query-text": "breast cancer CDKN2A 73-year-old female", "response": ["What is the meaning of CDKN2A?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "36", "query-text": "lung cancer ERBB2 49-year-old female", "response": ["erbb2 lung cancer? what is erbb2?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "37", "query-text": "non-small cell carcinoma MET 68-year-old male", "response": ["Is non-small cell carcinoma MET rare?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "38", "query-text": "cholangiocarcinoma IDH1 50-year-old male", "response": ["50-year-old male with cholangiocarcinoma IDH1"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "39", "query-text": "anaplastic large cell lymphoma ALK 18-year-old male", "response": ["What is ALK fusion gene? How is the disease diagnosed?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "40", "query-text": "breast cancer ERBB2 56-year-old female", "response": ["56-year-old male with breast cancer?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "41", "query-text": "papillary thyroid carcinoma NTRK1 46-year-old female", "response": ["50-year-old male with papillary thyroid carcinoma"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "42", "query-text": "glioblastoma CDK6 84-year-old male", "response": ["84 year old male cdk6?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "43", "query-text": "basal cell carcinoma PTCH1 56-year-old female", "response": ["ptch1 mutations basal cell carcinoma"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "44", "query-text": "glioma BRAF 82-year-old male", "response": ["82-year-old male with a glioma BRAF?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "45", "query-text": "thyroid cancer BRAF 40-year-old female", "response": ["BRAF 40-year-old female?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "46", "query-text": "lung cancer FGFR1 57-year-old male", "response": ["What is the most common type of lung cancer?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "47", "query-text": "prostate cancer PTEN 70-year-old male", "response": ["70 year old male with prostate cancer and pten mutation"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "48", "query-text": "adenoid cystic carcinoma KIT 58-year-old female", "response": ["Case 58-year-old female with adenoid cystic carcinoma"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "49", "query-text": "acute myeloid leukemia IDH1 1-year-old male", "response": ["What is the treatment for acute myeloid leukemia in a 14 year old?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "50", "query-text": "acute myeloid leukemia FLT3 13-year-old male", "response": ["AML in a 13 year old male?"], "metadata": {"model": "flan-ul2"}}

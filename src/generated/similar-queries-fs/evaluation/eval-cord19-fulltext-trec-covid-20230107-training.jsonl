@@ -1,0 +1,12 @@
+{"name":"BM25","ndcg_cut.10":0.5862946208,"recall_1000":0.4278804955,"dataset":"cord19-fulltext-trec-covid-20230107-training","model":"flan-ul2"}
+{"name":"BM25+RM3","ndcg_cut.10":0.5196921019,"recall_1000":0.410453512,"dataset":"cord19-fulltext-trec-covid-20230107-training","model":"flan-ul2"}
+{"name":"BM25+KL","ndcg_cut.10":0.6063191913,"recall_1000":0.441375076,"dataset":"cord19-fulltext-trec-covid-20230107-training","model":"flan-ul2"}
+{"name":"BM25+Q2E\/FS","ndcg_cut.10":0.4882528833,"recall_1000":0.4113736604,"dataset":"cord19-fulltext-trec-covid-20230107-training","model":"flan-ul2"}
+{"name":"BM25","ndcg_cut.10":0.5862946208,"recall_1000":0.4278804955,"dataset":"cord19-fulltext-trec-covid-20230107-training","model":"llama"}
+{"name":"BM25+RM3","ndcg_cut.10":0.5196921019,"recall_1000":0.410453512,"dataset":"cord19-fulltext-trec-covid-20230107-training","model":"llama"}
+{"name":"BM25+KL","ndcg_cut.10":0.6063191913,"recall_1000":0.441375076,"dataset":"cord19-fulltext-trec-covid-20230107-training","model":"llama"}
+{"name":"BM25+Q2E\/FS","ndcg_cut.10":0.5769593508,"recall_1000":0.4239242905,"dataset":"cord19-fulltext-trec-covid-20230107-training","model":"llama"}
+{"name":"BM25","ndcg_cut.10":0.5862946208,"recall_1000":0.4278804955,"dataset":"cord19-fulltext-trec-covid-20230107-training","model":"gpt"}
+{"name":"BM25+RM3","ndcg_cut.10":0.5196921019,"recall_1000":0.410453512,"dataset":"cord19-fulltext-trec-covid-20230107-training","model":"gpt"}
+{"name":"BM25+KL","ndcg_cut.10":0.6063191913,"recall_1000":0.441375076,"dataset":"cord19-fulltext-trec-covid-20230107-training","model":"gpt"}
+{"name":"BM25+Q2E\/FS","ndcg_cut.10":0.5680914576,"recall_1000":0.4271808864,"dataset":"cord19-fulltext-trec-covid-20230107-training","model":"gpt"}

@@ -1,0 +1,50 @@
+{"query-id": "1", "query-text": "coronavirus origin", "response": ["what is the origin of the word coonavirus?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "2", "query-text": "coronavirus response to weather changes", "response": ["what is the weather like in april in alabama?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "3", "query-text": "coronavirus immunity", "response": ["what is the immunity to coronavirus?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "4", "query-text": "how do people die from the coronavirus", "response": ["how do people die from a flu?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "5", "query-text": "animal models of COVID-19", "response": ["animal models of COVID-19?|animal models of COVID-19?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "6", "query-text": "coronavirus test rapid testing", "response": ["coronavirus testing centers in nyc"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "7", "query-text": "serological tests for coronavirus", "response": ["serological tests for swine flu"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "8", "query-text": "coronavirus under reporting", "response": ["how many people have died from coronavirus in the world?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "9", "query-text": "coronavirus in Canada", "response": ["coronavirus in america?|coronavirus in canada|coronavirus in australia|coronavirus in new zealand"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "10", "query-text": "coronavirus social distancing impact", "response": ["what is the impact of social distancing?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "11", "query-text": "coronavirus hospital rationing", "response": ["what is the coronavirus hospital rationing?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "12", "query-text": "coronavirus quarantine", "response": ["coronavirus vaccines available?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "13", "query-text": "how does coronavirus spread", "response": ["how does the flu spread?|how does the flu spread?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "14", "query-text": "coronavirus super spreaders", "response": ["coronavirus super spreaders?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "15", "query-text": "coronavirus outside body", "response": ["can you get the flu from someone who has it?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "16", "query-text": "how long does coronavirus survive on surfaces", "response": ["How long does the coronavirus survive on surfaces?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "17", "query-text": "coronavirus clinical trials", "response": ["coronavirus vaccine clinical trials?|coronavirus vaccine clinical trials?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "18", "query-text": "masks prevent coronavirus", "response": ["what are the symptoms of coronavirus?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "19", "query-text": "what alcohol sanitizer kills coronavirus", "response": ["What alcohol sanitizer kills Ebola?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "20", "query-text": "coronavirus and ACE inhibitors", "response": ["what is ACE inhibitor? what does it do?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "21", "query-text": "coronavirus mortality", "response": ["what is the mortality rate of the flu?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "22", "query-text": "coronavirus heart impacts", "response": ["what is the impact of coronavirus on the heart?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "23", "query-text": "coronavirus hypertension", "response": ["hypertension in coronavirus disease?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "24", "query-text": "coronavirus diabetes", "response": ["coronavirus sars-like virus"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "25", "query-text": "coronavirus biomarkers", "response": ["coronavirus sars-like disease"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "26", "query-text": "coronavirus early symptoms", "response": ["what are the early symptoms of the flu?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "27", "query-text": "coronavirus asymptomatic", "response": ["what are the symptoms of coronavirus?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "28", "query-text": "coronavirus hydroxychloroquine", "response": ["hydroxychloroquine and cdiff"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "29", "query-text": "coronavirus drug repurposing", "response": ["what is the drug repurposing?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "30", "query-text": "coronavirus remdesivir", "response": ["what is the remdesivir vaccine?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "31", "query-text": "difference between coronavirus and flu", "response": ["What is the difference between coronavirus and flu?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "32", "query-text": "coronavirus subtypes", "response": ["what are the subtypes of coronavirus?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "33", "query-text": "coronavirus vaccine candidates", "response": ["coronavirus vaccine safety??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "34", "query-text": "coronavirus recovery", "response": ["what is the cure for coronavirus?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "35", "query-text": "coronavirus public datasets", "response": ["public datasets on terrorism?n"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "36", "query-text": "SARS-CoV-2 spike structure", "response": ["SARS-CoV-2 spike structure by atomic force microscopy"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "37", "query-text": "SARS-CoV-2 phylogenetic analysis", "response": ["Phylogenetic analysis of SARS-CoV-2"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "38", "query-text": "COVID inflammatory response", "response": ["COVID inflammatory response in the brain"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "39", "query-text": "COVID-19 cytokine storm", "response": ["COVID-19 cytokine storm"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "40", "query-text": "coronavirus mutations", "response": ["what is the most common mutation of the coronavirus?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "41", "query-text": "COVID-19 in African-Americans", "response": ["COVID-19 in Asian-Americans"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "42", "query-text": "Vitamin D and COVID-19", "response": ["Vitamin D and flu?nIs there a connection?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "43", "query-text": "violence during pandemic", "response": ["violence during the french revolution?|violence during the french revolution?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "44", "query-text": "impact of masks on coronavirus transmission", "response": ["What is the impact of masks on the transmission of the coronavirus?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "45", "query-text": "coronavirus mental health impact", "response": ["mental health impact of the flu?|mental health impact of the flu?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "46", "query-text": "dexamethasone coronavirus", "response": ["what is dexamethasone used for?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "47", "query-text": "COVID-19 outcomes in children", "response": ["COVID-19 outcomes in adults?|COVID-19 outcomes in infants?|COVID-19 outcomes in children?|COVID-19 outcomes in adults?|COVID-19 outcomes in children?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "48", "query-text": "school reopening coronavirus", "response": ["school reopening after flu??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "49", "query-text": "post-infection COVID-19 immunity", "response": ["COVID-19 immunity after infection?|COVID-19 immunity after infection?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "50", "query-text": "mRNA vaccine coronavirus", "response": ["mRNA vaccine poliomyelitis"], "metadata": {"model": "flan-ul2"}}

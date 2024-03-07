@@ -1,0 +1,325 @@
+{"query-id": "PLAIN-1008", "query-text": "deafness", "response": ["what causes deafness??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1018", "query-text": "dha", "response": ["dha supplements???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-102", "query-text": "stopping heart disease in childhood", "response": ["Stopping heart disease in childhood.?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1028", "query-text": "dietary scoring", "response": ["what is a dietary score?|what is a diet score?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1039", "query-text": "domoic acid", "response": ["what is a fatty acid?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1050", "query-text": "dr. dean ornish", "response": ["who was dean ornish?|who is dean ornish?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1066", "query-text": "dr. walter willett", "response": ["walter willett iii"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1078", "query-text": "duncan hines", "response": ["duncan hines news?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1088", "query-text": "ecmo", "response": ["ecmo definition of ecmo"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1098", "query-text": "eggnog", "response": ["what is eggnog made of?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1109", "query-text": "endocrine disruptors", "response": ["what are endocrine disruptors?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1119", "query-text": "energy drinks", "response": ["what is the most popular energy drink?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-112", "query-text": "food dyes and adhd", "response": ["what are some good foods for adhd?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1130", "query-text": "ergothioneine", "response": ["what is ergothioneine used for?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1141", "query-text": "evidence-based medicine", "response": ["evidence based medicine journal???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1151", "query-text": "factory farming practices", "response": ["what is factory farming? how does it work?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1161", "query-text": "fava beans", "response": ["what is fava bean??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1172", "query-text": "fenugreek", "response": ["fenugreek seeds?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1183", "query-text": "finland", "response": ["finland flag?|finland flag?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1193", "query-text": "flax oil", "response": ["flax seeds ground into powder??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-12", "query-text": "exploiting autophagy to live longer", "response": ["How can you live longer? How do you live longer?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1203", "query-text": "folic acid", "response": ["folic acid foods to eat during pregnancy"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1214", "query-text": "fosamax", "response": ["fosamax plus dsm"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1225", "query-text": "fructose", "response": ["what is fructose in?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-123", "query-text": "how citrus might help keep your hands warm", "response": ["What are some good ways to keep your hands warm in the winter?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1236", "query-text": "galactosemia", "response": ["what is the disease galactosemia?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1249", "query-text": "genetic manipulation", "response": ["genetic engineering of food crops???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1262", "query-text": "global burden of disease study", "response": ["what is the burden of disease? what is the global burden of disease?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1275", "query-text": "goji berries", "response": ["goji berry ice cream?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1288", "query-text": "grapes", "response": ["grapes sweetener?nn"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1299", "query-text": "growth promoters", "response": ["growth hormones human growth hormones?r"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1309", "query-text": "halibut", "response": ["halibut fillets?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1320", "query-text": "harvard physicians ’ study ii", "response": ["harvard physicians study iii"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-133", "query-text": "starving tumors of their blood supply", "response": ["what is the blood supply? and where does it come from?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1331", "query-text": "hearing", "response": ["hearing loss treatment options?|hearing loss treatment?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1342", "query-text": "heme iron", "response": ["heme protein blood clotting factor"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1353", "query-text": "hernia", "response": ["my hernia is causing me pain"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1363", "query-text": "hiroshima", "response": ["hiroshima prefecture population?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1374", "query-text": "hormonal dysfunction", "response": ["what is the definition of hormonal imbalance??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1387", "query-text": "hyperactivity", "response": ["hyperactivity disorder symptoms????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1398", "query-text": "igf-1", "response": ["igf-1 lrna"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1409", "query-text": "industrial toxins", "response": ["industrial toxins name???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1419", "query-text": "insects", "response": ["insect that bites???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1429", "query-text": "iowa women ’ s health study", "response": ["iowa women ’ s health study"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-143", "query-text": "are dental x-rays safe ?", "response": ["Is it safe to get dental x-rays?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1441", "query-text": "japan", "response": ["japanese food recipes.?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1453", "query-text": "junk food", "response": ["junk food recipes?n?n"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1463", "query-text": "kidney beans", "response": ["kidney bean salad dressing recipe?|kidney bean salad dressing?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1473", "query-text": "kohlrabi", "response": ["kohlrabi recipe?|kohlrabi recipes?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1485", "query-text": "lard", "response": ["what is the fat content of lard?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1496", "query-text": "leeks", "response": ["how to grow leeks???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1506", "query-text": "leucine", "response": ["what is leucine?|leucine amino acid"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1516", "query-text": "lindane", "response": ["lindane thrush treatment?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1527", "query-text": "liver disease", "response": ["liver disease symptoms?????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-153", "query-text": "how should i take probiotics ?", "response": ["how should i take probiotics?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1537", "query-text": "low-carb diets", "response": ["low carb diets for women??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1547", "query-text": "lyme disease", "response": ["what is the cure for lyme disease?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1557", "query-text": "magnesium", "response": ["magnesium sulfate heptahydrate"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1568", "query-text": "maple syrup", "response": ["what is the best maple syrup??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1579", "query-text": "mastitis", "response": ["what is mastitis?|mastitis symptoms"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1590", "query-text": "medical ethics", "response": ["medical ethics code of conduct???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1601", "query-text": "memory", "response": ["memory ram..how much ram do i need?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1611", "query-text": "mesquite", "response": ["mesquite elm tree"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1621", "query-text": "mevacor", "response": ["pseudoephedrine"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1635", "query-text": "milk", "response": ["milky way galaxy???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1645", "query-text": "molasses", "response": ["brown sugar or molasses? sweet or bitter?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-165", "query-text": "breast cancer & alcohol : how much is safe ?", "response": ["How much alcohol is safe for women to drink?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1656", "query-text": "mouth cancer", "response": ["mouth cancer symptoms in adults?|mouth cancer symptoms in kids?|mouth cancer symptoms in adults?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1667", "query-text": "muscle health", "response": ["muscle cramps and numbness?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1679", "query-text": "myelopathy", "response": ["myelination disease?&lt;b&gt;...&lt;/b&gt;"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1690", "query-text": "national academy of sciences", "response": ["national academy of engineering website???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1700", "query-text": "native americans", "response": ["what are the names of the native americans?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1710", "query-text": "neurocysticercosis", "response": ["cystic fibrosis symptoms in children"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1721", "query-text": "nih-aarp study", "response": ["aarp nih study"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1731", "query-text": "norovirus", "response": ["what causes norovirus?|what is norovirus?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1741", "query-text": "nuts", "response": ["nuts and bolts definition?nn"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-175", "query-text": "diet and cellulite", "response": ["cellulite diet plan???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1752", "query-text": "okra", "response": ["okra recipes???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1762", "query-text": "oral intraepithelial neoplasia", "response": ["oral cancer symptoms????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1772", "query-text": "organotins", "response": ["what is organotin??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1784", "query-text": "oxen meat", "response": ["ox meat???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1794", "query-text": "panama", "response": ["panama city map?nn"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1805", "query-text": "parkinson 's disease", "response": ["what is parkinson's disease?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1817", "query-text": "peanut butter", "response": ["what is the nutritional value of peanut butter?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1827", "query-text": "peoria", "response": ["peoria il area code?s"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1837", "query-text": "pesticides", "response": ["epa pesticides list of pesticides"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1847", "query-text": "philippines", "response": ["philippines time zone?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1857", "query-text": "phytic acid", "response": ["phytic acid wiki?|phytic acid wiki?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-186", "query-text": "best treatment for constipation", "response": ["what are the best treatments for constipation?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1867", "query-text": "pineapples", "response": ["pineapple juice????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1877", "query-text": "plant-based diet", "response": ["What are the best plant based diets?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1887", "query-text": "poisonous plants", "response": ["what are some poisonous plants?|what are some poisonous plants?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1897", "query-text": "polypropylene plastic", "response": ["what is plastic made of?|what is plastic made of?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1909", "query-text": "pork", "response": ["pork chops?????????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1919", "query-text": "poultry workers", "response": ["poultry industry in the usa?|poultry industry in the usa?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1929", "query-text": "prenatal vitamins", "response": ["vitamin d3 and prenatal vitamins?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1940", "query-text": "prolactin", "response": ["what is the role of prolactin?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1950", "query-text": "prunes", "response": ["prunes and prune juice? ### prunes and prune juice?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-196", "query-text": "should we avoid titanium dioxide ?", "response": ["What are the dangers of titanium dioxide?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1962", "query-text": "pumpkin", "response": ["what is the best way to cook pumpkin?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1972", "query-text": "quinine", "response": ["what is quinine used for?|what is quinine used for?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1983", "query-text": "rapamycin", "response": ["rapamycin sulfate"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-1995", "query-text": "red tea", "response": ["what is red tea????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2", "query-text": "do cholesterol statin drugs cause breast cancer ?", "response": ["What are the best cholesterol statin drugs?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2009", "query-text": "rhabdomyolysis", "response": ["what is rhabdomyolysis in dogs?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2019", "query-text": "rickets", "response": ["rickets disease vs. osteomalacia"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2030", "query-text": "rutin", "response": ["rutin for dogs???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2040", "query-text": "salmon", "response": ["how many calories are in a salmon?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2051", "query-text": "saturated fat", "response": ["what is the saturated fat content of coconut milk?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2061", "query-text": "seafood", "response": ["seafood restaurants in charleston sc"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-207", "query-text": "avoiding cooked meat carcinogens", "response": ["Avoiding cooked meat carcinogens?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2071", "query-text": "serotonin", "response": ["what is the chemical name for serotonin?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2081", "query-text": "shelf life", "response": ["shelf life of a tv?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2092", "query-text": "sirtuins", "response": ["sirtuins protein?n"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2102", "query-text": "smoking", "response": ["smoking weed?????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2113", "query-text": "soil health", "response": ["soil quality index????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2124", "query-text": "spearmint", "response": ["mint flavored candy???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2134", "query-text": "splenda", "response": ["splenda vs truvia?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2145", "query-text": "st. john 's wort", "response": ["st johns wort depression"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2156", "query-text": "stevia", "response": ["what is stevia made from?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2167", "query-text": "subsidies", "response": ["subsidy of what???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-217", "query-text": "plant-based diets for psoriasis", "response": ["what is a good plant based diet?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2177", "query-text": "sulfur", "response": ["what is sulfuric acid used for?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2187", "query-text": "suppositories", "response": ["what are suppositories?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2197", "query-text": "sweeteners", "response": ["what are artificial sweeteners? what are some examples?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2209", "query-text": "taro", "response": ["what is taro?|what is taro?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2220", "query-text": "tempeh", "response": ["what is tempeh made of?|what is tempeh made of?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2230", "query-text": "thiamine", "response": ["what is thiamine pyrophosphate?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2240", "query-text": "titanium dioxide", "response": ["titanium dioxide uses?nnwhat are its uses?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2250", "query-text": "tongue worm", "response": ["worms in the tongue??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2261", "query-text": "trans fats", "response": ["trans fats in food???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-227", "query-text": "increasing muscle strength with fenugreek", "response": ["how do you increase muscle strength?|how do you increase muscle mass?|how do you increase muscle tone?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2271", "query-text": "tufts", "response": ["tufts university st louis"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2281", "query-text": "turnips", "response": ["what are turnips good for?|what are turnips used for?|what are turnips good for?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2291", "query-text": "ultra-processed foods", "response": ["what are processed foods?|what are processed foods?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-23", "query-text": "how to reduce exposure to alkylphenols through your diet", "response": ["How can I reduce my exposure to alkylphenols through my diet?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2301", "query-text": "uterine health", "response": ["uterine sex??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2311", "query-text": "veal", "response": ["veal chops nutrition facts?|veal chops calories?|veal chops calories per serving?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2321", "query-text": "veggie chicken", "response": ["chicken vs veggie burgers?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2332", "query-text": "viral infections", "response": ["viral diseases symptoms and causes of viral infections?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2343", "query-text": "vitamin k", "response": ["what are the benefits of vitamin k?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2354", "query-text": "walnut oil", "response": ["walnut oil substitutes?|walnut oil substitutes?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2364", "query-text": "weight gain", "response": ["weight loss diets?|weight loss diets?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2375", "query-text": "whiting", "response": ["whiting flour?nn"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-238", "query-text": "how chemically contaminated are we ?", "response": ["How chemically contaminated is the world?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2386", "query-text": "worms", "response": ["worms in the soil??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2396", "query-text": "yale", "response": ["yale university history department. what is the history department at yale?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2408", "query-text": "zoloft", "response": ["zoloft for anxiety depression bipolar"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2430", "query-text": "preventing brain loss with b vitamins ?", "response": ["Is there evidence that B vitamins prevent Alzheimer's?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2440", "query-text": "more than an apple a day : combating common diseases", "response": ["Combating Common Diseases: A User's Guide to Prevention"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2450", "query-text": "are organic foods safer ?", "response": ["Are organic foods safer than conventional foods? If so, why?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2460", "query-text": "diabetes as a disease of fat toxicity", "response": ["What are the causes of fat toxicity?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2470", "query-text": "is milk good for our bones ?", "response": ["is milk good for our bones? how much milk should we drink?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-248", "query-text": "treating an enlarged prostate with diet", "response": ["treating enlarged prostate with diet??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2480", "query-text": "preventing ulcerative colitis with diet", "response": ["What is the best diet for ulcerative colitis?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2490", "query-text": "the actual benefit of diet vs. drugs", "response": ["What are the benefits of a low carb diet?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2500", "query-text": "the saturated fat studies : buttering up the public", "response": ["the saturated fat studies : buttering up the public summary?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2510", "query-text": "coffee and artery function", "response": ["What is the function of the artery?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2520", "query-text": "caloric restriction vs. plant-based diets", "response": ["What are the advantages of a plant-based diet?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2530", "query-text": "infectobesity : adenovirus 36 and childhood obesity", "response": ["Infectobesity: Adenovirus 36 and Childhood Obesity"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2540", "query-text": "does cholesterol size matter ?", "response": ["What is the size of cholesterol? What is the size of a molecule?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2550", "query-text": "barriers to heart disease prevention", "response": ["what is the best way to prevent heart disease?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2560", "query-text": "childhood constipation and cow ’ s milk", "response": ["What is the best way to treat constipation in children?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2570", "query-text": "diabetics should take their pulses", "response": ["what is the pulse rate for diabetics?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2580", "query-text": "academy of nutrition and dietetics conflicts of interest", "response": ["academy of nutrition and dietetics board of directors"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-259", "query-text": "optimal phytosterol dose and source", "response": ["what is the best phytosterol source?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2590", "query-text": "do vegetarians get enough protein ?", "response": ["Do vegetarians get enough protein? How much protein should a vegetarian consume daily?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2600", "query-text": "eggs and arterial function", "response": ["what do eggs do to arterial function?|what do eggs do for arterial function?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2610", "query-text": "treating asthma with plants vs. supplements ?", "response": ["What is the best way to treat asthma?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2620", "query-text": "phytates for the treatment of cancer", "response": ["phytates and cancer treatment? Is there a link?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2630", "query-text": "alkylphenol endocrine disruptors and allergies", "response": ["What are the effects of endocrine disrupters?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2640", "query-text": "chicken salmonella thanks to meat industry lawsuit", "response": ["salmonella in meat industry???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2650", "query-text": "turmeric curcumin and osteoarthritis", "response": ["osteoarthritis and ms symptoms"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2660", "query-text": "how long to detox from fish before pregnancy ?", "response": ["How long of a detox is needed to get rid of toxins?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2670", "query-text": "is caramel color carcinogenic ?", "response": ["Is caramel color carcinogenic? If so, is it the caramel coloring or the caramel syrup?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2680", "query-text": "counteracting the effects of dioxins through diet", "response": ["What are the effects of a diet high in trans fat?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2690", "query-text": "chronic headaches and pork tapeworms", "response": ["What are the symptoms of a tapeworm infection?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-270", "query-text": "is caffeinated tea really dehydrating ?", "response": ["Is caffeinated tea good for your health?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2700", "query-text": "heart disease starts in childhood", "response": ["heart disease in children causes?|heart disease in children causes?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2710", "query-text": "artificial food colors and adhd", "response": ["what are the names of artificial food colors?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2720", "query-text": "keeping your hands warm with citrus", "response": ["How do you keep your hands warm? What can I do to keep my hands warm?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2730", "query-text": "anti-angiogenesis : cutting off tumor supply lines", "response": ["What is anti-angiogenesis? What is its role in cancer?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2740", "query-text": "cancer risk from ct scan radiation", "response": ["what is the risk of cancer from a ct scan?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2750", "query-text": "preventing the common cold with probiotics ?", "response": ["Preventing the common cold with probiotics?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2760", "query-text": "eating healthy on a budget", "response": ["eating healthy on a budget?|Eating Healthy on a Budget?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2770", "query-text": "flaxseeds & breast cancer survival : clinical evidence", "response": ["What is the evidence that flaxseeds can help reduce breast cancer risk?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2780", "query-text": "do fruit & nut bars cause weight gain ?", "response": ["Do protein bars cause weight gain? If so, how much?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2790", "query-text": "titanium dioxide & inflammatory bowel disease", "response": ["inflammatory bowel disease & food poisoning"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-280", "query-text": "mercury testing recommended before pregnancy", "response": ["what tests are recommended before pregnancy??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2800", "query-text": "prolonged liver function enhancement from broccoli", "response": ["What is the best way to enhance liver function?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2810", "query-text": "apple juice may be worse than sugar water", "response": ["what is apple juice made of? is it water?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2820", "query-text": "preventing strokes with diet", "response": ["what is the best diet to prevent strokes?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2830", "query-text": "neurobiology of artificial sweeteners", "response": ["artificial sweeteners vs sugars"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2840", "query-text": "benefits of fenugreek seeds", "response": ["benefits of fenugreek seeds powder"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2850", "query-text": "more antibiotics in white meat or dark meat ?", "response": ["Which meat has more antibiotics in it?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2860", "query-text": "bpa plastic and male sexual dysfunction", "response": ["what is male sexual dysfunction???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2870", "query-text": "filled full of lead", "response": ["what is full of lead???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2880", "query-text": "the answer to the pritikin puzzle", "response": ["What is the answer to the pritikin puzzle?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2890", "query-text": "to snack or not to snack ?", "response": ["What is the best snack?nn"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2900", "query-text": "boosting good bacteria in the colon without probiotics", "response": ["How do you boost good bacteria in the colon?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-291", "query-text": "stool size and breast cancer risk", "response": ["What are the symptoms of breast cancer? How do you know if you have breast cancer?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2910", "query-text": "optimal phytosterol dose", "response": ["what is phytosterol?|what is phytosterol?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2920", "query-text": "human neurotransmitters in plants", "response": ["what are the human neurotransmitters?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2930", "query-text": "kiwifruit for irritable bowel syndrome", "response": ["kiwifruit for irritable bowel"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2940", "query-text": "dietary treatment of crohn 's disease", "response": ["dietary treatment for crohn's disease"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2950", "query-text": "unsafe at any feed", "response": ["safe at any feed?all the time?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2960", "query-text": "pharmacists versus health food store employees : who gives better advice ?", "response": ["What is the difference between a pharmacist and a health food store employee?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2970", "query-text": "preventing cataracts with diet", "response": ["preventing cataracts with diet and supplements?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2981", "query-text": "cheese mites and maggots", "response": ["maggots and flies?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-2991", "query-text": "cholesterol and lower back pain", "response": ["lower back pain and urination problems"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-3001", "query-text": "epic findings on lymphoma", "response": ["what is the meaning of lymphoma?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-3014", "query-text": "sometimes the enzyme myth is true", "response": ["What is the enzyme myth? What is true about it?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-3026", "query-text": "vitamin c-enriched bacon", "response": ["what is vitamin c enriched with?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-3037", "query-text": "out of the lab onto the track", "response": ["What is the name of the song from the movie \"Out of the Lab\"?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-3053", "query-text": "dragon 's blood", "response": ["dragons blood resin???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-3063", "query-text": "better than goji berries", "response": ["what are goji berries??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-307", "query-text": "vitamin d : shedding some light on the new recommendations", "response": ["vitamin d : how much do you need?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-3074", "query-text": "how to help prevent abdominal aortic aneurysms", "response": ["How do you prevent aortic aneurysms?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-3085", "query-text": "the difficulty of arriving at a vitamin d recommendation", "response": ["What are the best sources of vitamin D?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-3097", "query-text": "amyloid and apple juice", "response": ["What are the side effects of amyloid?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-3116", "query-text": "dietary guidelines : from dairies to berries", "response": ["dietary guidelines : from dairies to berries"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-3131", "query-text": "are avocados good for you ?", "response": ["Are avocados good for you? Is it good for your heart?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-3141", "query-text": "relieving yourself of excess estrogen", "response": ["What are some ways to relieve excess estrogen?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-3151", "query-text": "too much iodine can be as bad as too little", "response": ["Too much iodine can be bad for me?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-3161", "query-text": "is milk and mucus a myth ?", "response": ["Is the myth of the milk and mucus connection a myth?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-3171", "query-text": "convergence of evidence", "response": ["convergence of beliefs?n?n"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-3181", "query-text": "is dragon fruit good for you ?", "response": ["does dragon fruit have nutritional value? is it good for you?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-3191", "query-text": "is distilled fish oil toxin-free ?", "response": ["is fish oil safe? is the fish oil distilled?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-320", "query-text": "breast cancer and diet", "response": ["what is the best diet for breast cancer?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-3201", "query-text": "acne & cancer connection", "response": ["What is a good acne treatment?|What is a good acne treatment?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-3211", "query-text": "overdosing on greens", "response": ["how many calories are in a serving of greens?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-3221", "query-text": "dietary theory of alzheimer 's", "response": ["what is the diet for alzheimer's?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-3231", "query-text": "meat & multiple myeloma", "response": ["what is multiple myeloma?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-3241", "query-text": "apthous ulcer mystery solved", "response": ["What is a mystery ulcer? How is it diagnosed?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-3251", "query-text": "epic study", "response": ["epic of gilgamesh study"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-3261", "query-text": "update on herbalife ®", "response": ["what is the best herbalife products for weight loss?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-3271", "query-text": "saturated fat & cancer progression", "response": ["What is the best saturated fat ice cream?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-3281", "query-text": "aluminum in vaccines vs. food", "response": ["aluminum in food vs. vaccines"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-3292", "query-text": "are multivitamins good for you ?", "response": ["Are multivitamins good for you?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-33", "query-text": "what ’ s driving america ’ s obesity problem ?", "response": ["what is the problem with america's obesity?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-3302", "query-text": "fish fog", "response": ["fish in the sea?|fish in the ocean?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-3312", "query-text": "sexually transmitted fish toxin", "response": ["what is the most common sexually transmitted disease?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-332", "query-text": "can antioxidant-rich spices counteract the effects of a high-fat meal ?", "response": ["How can I use spices to counteract the effects of a high-fat meal?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-3322", "query-text": "veggies vs. cancer", "response": ["Veggies vs. zombies"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-3332", "query-text": "alcohol risks vs. benefits", "response": ["alcohol risks and benefits?|alcohol risks and benefits?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-3342", "query-text": "is coconut milk good for you ?", "response": ["Is coconut water good for you? What are the health benefits?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-3352", "query-text": "boosting heart nerve control", "response": ["what are some ways to boost nerve control?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-3362", "query-text": "kuna indian secret", "response": ["kuna sexy sex"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-3372", "query-text": "the healthiest sweetener", "response": ["what is the healthiest sweetener?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-3382", "query-text": "are artificial colors bad for you ?", "response": ["Are artificial colors bad for you? If so, then why?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-3392", "query-text": "healthiest airplane beverage", "response": ["what are the healthiest airplane beverages?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-3402", "query-text": "antioxidant content of 300 foods", "response": ["what are the antioxidants in food?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-3412", "query-text": "plant vs. cow calcium", "response": ["What is the best plant based source of calcium?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-3422", "query-text": "vitamin supplements worth taking", "response": ["what are the best vitamins to take?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-3432", "query-text": "healthy chocolate milkshakes", "response": ["healthy chocolate milkshake???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-344", "query-text": "dioxins stored in our own fat may increase diabetes risk", "response": ["How does dioxin increase diabetes risk?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-3442", "query-text": "the healthiest vegetables", "response": ["what are the healthiest vegetables?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-3452", "query-text": "bowel movement frequency", "response": ["bm frequency chart for adults?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-3462", "query-text": "olive oil and artery function", "response": ["What are the benefits of olive oil? What are the side effects?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-3472", "query-text": "how doctors responded to being named a leading killer", "response": ["how did doctors respond to being named a leading killer?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-358", "query-text": "didn 't another study show carnitine was good for the heart ?", "response": ["Did the study show that carnitine was good for the heart?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-371", "query-text": "any update on the scary in vitro avocado data ?", "response": ["What are some good avocado facts? What are some facts about avocados?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-383", "query-text": "what do you think of dr. jenkins ' take on paleolithic diets ?", "response": ["What is Dr. Robert C. Atkins' take on Paleolithic diets?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-395", "query-text": "what about pepper plus turmeric in v8 juice ?", "response": ["What is the nutritional value of v8 juice?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-407", "query-text": "is annatto food coloring safe ?", "response": ["Is annatto food coloring safe to eat?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-418", "query-text": "fresh fruit versus frozen--which is better ?", "response": ["Which is better, frozen or fresh fruit?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-430", "query-text": "are krill oil supplements better than fish oil capsules ?", "response": ["Are there any side effects of taking krill oil supplements?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-44", "query-text": "who should be careful about curcumin ?", "response": ["What are the health benefits of curcumin?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-441", "query-text": "is apple cider vinegar good for you ?", "response": ["What are the benefits of apple cider vinegar?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-457", "query-text": "how can you believe in any scientific study ?", "response": ["What is the best scientific study??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-468", "query-text": "is vitamin d3 ( cholecalciferol ) preferable to d2 ( ergocalciferol ) ?", "response": ["Is vitamin D3 preferable to vitamin D2?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-478", "query-text": "accidents", "response": ["accidents by year?nnwhat was the most common accident in the 1900s?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-488", "query-text": "adenovirus 36", "response": ["adenovirus 68 ebola"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-499", "query-text": "african-american", "response": ["african american tv shows?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-510", "query-text": "airport scanners", "response": ["airport scanners images???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-520", "query-text": "alli", "response": ["alli meds for dogs?|alli meds for dogs?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-531", "query-text": "alternative medicine", "response": ["what is alternative medicine???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-541", "query-text": "american dental association", "response": ["american academy of pediatric dentistry association??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-551", "query-text": "amnesia", "response": ["what does amnesia mean?|what is amnesia?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-56", "query-text": "foods for glaucoma", "response": ["what foods help glaucoma?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-561", "query-text": "aneurysm", "response": ["aneurysm symptoms??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-571", "query-text": "anisakis", "response": ["what is the definition of anisakis?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-583", "query-text": "antinutrients", "response": ["antinutrients of kale?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-593", "query-text": "apnea", "response": ["apnea in dogs?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-603", "query-text": "arkansas", "response": ["arkansas state university ft smith"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-613", "query-text": "ascorbic acid", "response": ["what is vitamin c ascorbic acid?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-623", "query-text": "atkins diet", "response": ["what is the atkins diet??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-634", "query-text": "avocados", "response": ["what is the best avocado to eat?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-645", "query-text": "bagels", "response": ["what are bagels?nwhat are bagels?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-660", "query-text": "beans", "response": ["what is the best way to dry beans?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-671", "query-text": "benzene", "response": ["what is the formula for benzene?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-68", "query-text": "what is actually in chicken nuggets ?", "response": ["What is actually in chicken nuggets?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-681", "query-text": "betel nuts", "response": ["what are betel nuts?|betel nuts benefits?|betel nuts side effects?|betel nuts nutrition?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-691", "query-text": "bioavailability", "response": ["bioavailability of a drug?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-701", "query-text": "black raspberries", "response": ["blackberries for sale near me?|blackberries nyc"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-711", "query-text": "blood clots", "response": ["blood clots and strokes?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-721", "query-text": "bmaa", "response": ["bmaa ltd"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-731", "query-text": "bone fractures", "response": ["fractures of the bone in the arm?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-741", "query-text": "bph", "response": ["bph definition medical term?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-751", "query-text": "brca genes", "response": ["what is a brca gene?|what is a brca gene mutation?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-761", "query-text": "breast pain", "response": ["breast pain and numbness?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-771", "query-text": "bronchiolitis obliterans", "response": ["bronchiolitis obliterans in children"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-78", "query-text": "what do meat purge and cola have in common ?", "response": ["What does Coca-Cola have in common with meat purge?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-782", "query-text": "bush administration", "response": ["bush administration cabinet members?&lt;b&gt;...&lt;/b&gt;"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-792", "query-text": "cadaverine", "response": ["cadaverine sulphate?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-806", "query-text": "caloric restriction", "response": ["caloric intake chart?calories?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-817", "query-text": "canker sores", "response": ["how do canker sores begin?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-827", "query-text": "carcinogens", "response": ["carcinogens in food??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-838", "query-text": "carrageenan", "response": ["what is carrageenan?n"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-850", "query-text": "cauliflower", "response": ["cauliflower cake recipes?|cauliflower cake?|cauliflower cake?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-860", "query-text": "center for food safety", "response": ["center for food safety and research university of california"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-872", "query-text": "chanterelle mushrooms", "response": ["what kind of mushroom is a chanterelle?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-882", "query-text": "chernobyl", "response": ["what is the name of the nuclear power plant in chernobyl?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-892", "query-text": "chickpeas", "response": ["what is the protein in chickpeas?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-902", "query-text": "chlorophyll", "response": ["chlorophyll molecule??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-91", "query-text": "chronic headaches and pork parasites", "response": ["what causes chronic headaches???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-913", "query-text": "cinnamon", "response": ["what is the name of the cinnamon that is found in the bark of the cinnamon tree?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-924", "query-text": "cocaine", "response": ["cocaine sulfate?|cocaine sulfate?|cocaine sulfate?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-934", "query-text": "coffee", "response": ["how much coffee do you drink??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-946", "query-text": "coma", "response": ["coma symptoms?|coma?|coma treatment?|coma?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-956", "query-text": "cooking methods", "response": ["cooking methods for chicken breasts??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-966", "query-text": "cortisol", "response": ["cortisol test?s?s?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-977", "query-text": "crib death", "response": ["crib death id???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-987", "query-text": "cumin", "response": ["cumin seeds?nwhat is it good for?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "PLAIN-997", "query-text": "czechoslovakia", "response": ["czechoslovakia capital"], "metadata": {"model": "flan-ul2"}}

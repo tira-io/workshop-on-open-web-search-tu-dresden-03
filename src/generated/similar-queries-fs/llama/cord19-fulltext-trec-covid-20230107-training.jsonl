@@ -1,0 +1,50 @@
+{"query-id": "1", "query-text": "coronavirus origin", "response": "What is the origin of the COVID-19 pandemic?", "metadata": {"model": "llama"}}
+{"query-id": "2", "query-text": "coronavirus response to weather changes", "response": "What are the effects of weather changes on COVID-19 transmission?", "metadata": {"model": "llama"}}
+{"query-id": "3", "query-text": "coronavirus immunity", "response": "How long does coronavirus immunity last?", "metadata": {"model": "llama"}}
+{"query-id": "4", "query-text": "how do people die from the coronavirus", "response": "What are the symptoms and causes of COVID-19 death?", "metadata": {"model": "llama"}}
+{"query-id": "5", "query-text": "animal models of COVID-19", "response": "Animals that can be infected with COVID-19.", "metadata": {"model": "llama"}}
+{"query-id": "6", "query-text": "coronavirus test rapid testing", "response": "Where can I get a rapid antigen test for coronavirus?", "metadata": {"model": "llama"}}
+{"query-id": "7", "query-text": "serological tests for coronavirus", "response": "List of COVID-19 testing methods or COVID-19 diagnostic tests?", "metadata": {"model": "llama"}}
+{"query-id": "8", "query-text": "coronavirus under reporting", "response": "Evidence of underreporting of COVID-19 cases?", "metadata": {"model": "llama"}}
+{"query-id": "9", "query-text": "coronavirus in Canada", "response": "Where can I find information on the current status of COVID-19 in Canada?", "metadata": {"model": "llama"}}
+{"query-id": "10", "query-text": "coronavirus social distancing impact", "response": "What are the effects of social distancing on the economy amidst the COVID-19 pandemic?", "metadata": {"model": "llama"}}
+{"query-id": "11", "query-text": "coronavirus hospital rationing", "response": "What are the guidelines for hospital rationing during the COVID-19 pandemic?", "metadata": {"model": "llama"}}
+{"query-id": "12", "query-text": "coronavirus quarantine", "response": "Coronavirus precautions and prevention measures", "metadata": {"model": "llama"}}
+{"query-id": "13", "query-text": "how does coronavirus spread", "response": "How does COVID-19 spread?", "metadata": {"model": "llama"}}
+{"query-id": "14", "query-text": "coronavirus super spreaders", "response": "What are the statistics on coronavirus super spreaders?", "metadata": {"model": "llama"}}
+{"query-id": "15", "query-text": "coronavirus outside body", "response": "What are the symptoms of COVID-19 outside of the body?", "metadata": {"model": "llama"}}
+{"query-id": "16", "query-text": "how long does coronavirus survive on surfaces", "response": "How long does COVID-19 survive on surfaces and how can I disinfect them?", "metadata": {"model": "llama"}}
+{"query-id": "17", "query-text": "coronavirus clinical trials", "response": "Latest news on coronavirus clinical trials?", "metadata": {"model": "llama"}}
+{"query-id": "18", "query-text": "masks prevent coronavirus", "response": "Does wearing a mask prevent the spread of COVID-19?", "metadata": {"model": "llama"}}
+{"query-id": "19", "query-text": "what alcohol sanitizer kills coronavirus", "response": "Best alcohol-based sanitizers for COVID-19 protection.", "metadata": {"model": "llama"}}
+{"query-id": "20", "query-text": "coronavirus and ACE inhibitors", "response": "Information on COVID-19 and ACE inhibitors", "metadata": {"model": "llama"}}
+{"query-id": "21", "query-text": "coronavirus mortality", "response": "How many deaths have been reported due to coronavirus?", "metadata": {"model": "llama"}}
+{"query-id": "22", "query-text": "coronavirus heart impacts", "response": "What are the heart impacts of COVID-19?", "metadata": {"model": "llama"}}
+{"query-id": "23", "query-text": "coronavirus hypertension", "response": "How does COVID-19 affect blood pressure?", "metadata": {"model": "llama"}}
+{"query-id": "24", "query-text": "coronavirus diabetes", "response": "How does COVID-19 affect diabetes management?", "metadata": {"model": "llama"}}
+{"query-id": "25", "query-text": "coronavirus biomarkers", "response": "What are the most common biomarkers used to diagnose COVID-19?", "metadata": {"model": "llama"}}
+{"query-id": "26", "query-text": "coronavirus early symptoms", "response": "What are the early symptoms of COVID-19?", "metadata": {"model": "llama"}}
+{"query-id": "27", "query-text": "coronavirus asymptomatic", "response": "Can coronavirus show no symptoms?", "metadata": {"model": "llama"}}
+{"query-id": "28", "query-text": "coronavirus hydroxychloroquine", "response": "Hydroxychloroquine covid-19", "metadata": {"model": "llama"}}
+{"query-id": "29", "query-text": "coronavirus drug repurposing", "response": "Best drugs for coronavirus treatment", "metadata": {"model": "llama"}}
+{"query-id": "30", "query-text": "coronavirus remdesivir", "response": "Remdesivir covid-19 treatment", "metadata": {"model": "llama"}}
+{"query-id": "31", "query-text": "difference between coronavirus and flu", "response": "What are the key differences between COVID-19 and the flu?", "metadata": {"model": "llama"}}
+{"query-id": "32", "query-text": "coronavirus subtypes", "response": "How many coronavirus subtypes are there?", "metadata": {"model": "llama"}}
+{"query-id": "33", "query-text": "coronavirus vaccine candidates", "response": "List of coronavirus vaccine candidates in development", "metadata": {"model": "llama"}}
+{"query-id": "34", "query-text": "coronavirus recovery", "response": "Coronavirus recovery time frame", "metadata": {"model": "llama"}}
+{"query-id": "35", "query-text": "coronavirus public datasets", "response": "Where can I find publicly available datasets related to COVID-19?", "metadata": {"model": "llama"}}
+{"query-id": "36", "query-text": "SARS-CoV-2 spike structure", "response": "Spike protein structure of SARS-CoV-2", "metadata": {"model": "llama"}}
+{"query-id": "37", "query-text": "SARS-CoV-2 phylogenetic analysis", "response": "Phylogenetic analysis of SARS-CoV-2", "metadata": {"model": "llama"}}
+{"query-id": "38", "query-text": "COVID inflammatory response", "response": "How to reduce inflammation caused by COVID-19?", "metadata": {"model": "llama"}}
+{"query-id": "39", "query-text": "COVID-19 cytokine storm", "response": "What is cytokine storm in COVID-19?", "metadata": {"model": "llama"}}
+{"query-id": "40", "query-text": "coronavirus mutations", "response": "Updates on coronavirus mutations and their impact on the pandemic.", "metadata": {"model": "llama"}}
+{"query-id": "41", "query-text": "COVID-19 in African-Americans", "response": "How does COVID-19 affect African-Americans?", "metadata": {"model": "llama"}}
+{"query-id": "42", "query-text": "Vitamin D and COVID-19", "response": "Vitamin D deficiency and COVID-19?", "metadata": {"model": "llama"}}
+{"query-id": "43", "query-text": "violence during pandemic", "response": "How to cope with violence during the pandemic?", "metadata": {"model": "llama"}}
+{"query-id": "44", "query-text": "impact of masks on coronavirus transmission", "response": "Effectiveness of masks in preventing COVID-19 transmission", "metadata": {"model": "llama"}}
+{"query-id": "45", "query-text": "coronavirus mental health impact", "response": "How to cope with the mental health impact of COVID-19?", "metadata": {"model": "llama"}}
+{"query-id": "46", "query-text": "dexamethasone coronavirus", "response": "Dexamethasone COVID-19 treatment", "metadata": {"model": "llama"}}
+{"query-id": "47", "query-text": "COVID-19 outcomes in children", "response": "What are the long-term effects of COVID-19 on children's health?", "metadata": {"model": "llama"}}
+{"query-id": "48", "query-text": "school reopening coronavirus", "response": "Coronavirus school reopening guidelines", "metadata": {"model": "llama"}}
+{"query-id": "49", "query-text": "post-infection COVID-19 immunity", "response": "How long does immunity to COVID-19 last after infection?", "metadata": {"model": "llama"}}
+{"query-id": "50", "query-text": "mRNA vaccine coronavirus", "response": "mRNA vaccine for COVID-19", "metadata": {"model": "llama"}}

@@ -1,0 +1,325 @@
+{"query-id": "PLAIN-1008", "query-text": "deafness", "response": "Causes of deafness", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1018", "query-text": "dha", "response": "DHA benefits for infant development", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-102", "query-text": "stopping heart disease in childhood", "response": "How to prevent heart disease in children?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1028", "query-text": "dietary scoring", "response": "Best dietary scoring methods?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1039", "query-text": "domoic acid", "response": "what is domoic acid?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1050", "query-text": "dr. dean ornish", "response": "Dr. Dean Ornish's dietary recommendations", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1066", "query-text": "dr. walter willett", "response": "Doctor Walter Willett", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1078", "query-text": "duncan hines", "response": "Duncan Hines frosting recipes?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1088", "query-text": "ecmo", "response": "What is ECMO therapy?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1098", "query-text": "eggnog", "response": "Vegan eggnog recipe", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1109", "query-text": "endocrine disruptors", "response": "What are common endocrine disruptors in our environment?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1119", "query-text": "energy drinks", "response": "Best energy drink brands", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-112", "query-text": "food dyes and adhd", "response": "Is there a link between food dyes and ADHD?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1130", "query-text": "ergothioneine", "response": "What is the importance of ergothioneine in the human body?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1141", "query-text": "evidence-based medicine", "response": "What is evidence-based medicine and why is it important?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1151", "query-text": "factory farming practices", "response": "What are the impacts of factory farming on the environment?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1161", "query-text": "fava beans", "response": "Fava bean recipes", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1172", "query-text": "fenugreek", "response": "Benefits of drinking fenugreek tea?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1183", "query-text": "finland", "response": "destinations in northern europe.", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1193", "query-text": "flax oil", "response": "Benefits of flaxseed oil", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-12", "query-text": "exploiting autophagy to live longer", "response": "How does autophagy affect lifespan?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1203", "query-text": "folic acid", "response": "Benefits of folic acid?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1214", "query-text": "fosamax", "response": "Fosamax side effects", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1225", "query-text": "fructose", "response": "Is fructose bad for you?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-123", "query-text": "how citrus might help keep your hands warm", "response": "Ways to keep hands warm with citrus.", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1236", "query-text": "galactosemia", "response": "Symptoms of galactosemia?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1249", "query-text": "genetic manipulation", "response": "CRISPR gene editing techniques", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1262", "query-text": "global burden of disease study", "response": "Burden of disease study 2020\nInterested in knowing more about the global burden of disease study? Here are a few similar queries that may be of interest:\n* Global burden of disease statistics\n* Burden of disease by cause\n* Disease burden by country\n* Global health challenges\n* Top causes of death worldwide\n\nThese queries can provide you with more information on the global burden of disease study, its methodology, and the various factors that contribute to the burden of disease worldwide.", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1275", "query-text": "goji berries", "response": "Goji berry health benefits", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1288", "query-text": "grapes", "response": "Health benefits of grapes", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1299", "query-text": "growth promoters", "response": "Growth promoters in agriculture", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1309", "query-text": "halibut", "response": "Other types of fish that are similar to halibut in terms of taste and texture include salmon, tuna, and swordfish. Alternatively, you could try cooking up some plant-based \"fish\" options like tofu, tempeh, or vegan \"fish\" strips for a similar texture and flavor.", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1320", "query-text": "harvard physicians ’ study ii", "response": "Harvard Medical School physicians studies", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-133", "query-text": "starving tumors of their blood supply", "response": "How to starve cancer cells of their blood supply?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1331", "query-text": "hearing", "response": "Hearing loss treatments?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1342", "query-text": "heme iron", "response": "Non-heme iron sources", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1353", "query-text": "hernia", "response": "Symptoms of hernia / What are the different types of hernias?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1363", "query-text": "hiroshima", "response": "Hiroshima museum", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1374", "query-text": "hormonal dysfunction", "response": "What are some natural remedies for hormonal imbalance?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1387", "query-text": "hyperactivity", "response": "Signs of ADHD in children", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1398", "query-text": "igf-1", "response": "What is the best way to increase igf-1 levels naturally?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1409", "query-text": "industrial toxins", "response": "What are some common industrial toxins and their effects on human health?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1419", "query-text": "insects", "response": "beneficial insects", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1429", "query-text": "iowa women ’ s health study", "response": "Women’s health studies in Iowa", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-143", "query-text": "are dental x-rays safe ?", "response": "What are the safety concerns and risks associated with dental X-rays?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1441", "query-text": "japan", "response": "japanese culture, japan tourism, japan travel guide, best places to visit in japan", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1453", "query-text": "junk food", "response": "Healthy junk food alternatives", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1463", "query-text": "kidney beans", "response": "benefits of eating kidney beans", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1473", "query-text": "kohlrabi", "response": "Kohlrabi recipes", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1485", "query-text": "lard", "response": "What is lard used for in cooking?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1496", "query-text": "leeks", "response": "What are some creative ways to use leeks in cooking?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1506", "query-text": "leucine", "response": "How does leucine help in muscle growth?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1516", "query-text": "lindane", "response": "Liniment recipe with lindane", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1527", "query-text": "liver disease", "response": "Causes and symptoms of liver disease", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-153", "query-text": "how should i take probiotics ?", "response": "What are the best ways to take probiotics for maximum benefit?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1537", "query-text": "low-carb diets", "response": "Best low-carb diet for weight loss?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1547", "query-text": "lyme disease", "response": "Lyme disease symptoms", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1557", "query-text": "magnesium", "response": "Benefits of magnesium", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1568", "query-text": "maple syrup", "response": "How is maple syrup made?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1579", "query-text": "mastitis", "response": "Treatment for mastitis.", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1590", "query-text": "medical ethics", "response": "Questions about medical ethics?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1601", "query-text": "memory", "response": "How can I improve my memory?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1611", "query-text": "mesquite", "response": "What are the best ways to eat mesquite? or Mesquite tree information?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1621", "query-text": "mevacor", "response": "Medication guide for mevacor", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1635", "query-text": "milk", "response": "Health benefits of almond milk", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1645", "query-text": "molasses", "response": "Substitutes for molasses", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-165", "query-text": "breast cancer & alcohol : how much is safe ?", "response": "How much alcohol is safe for breast health?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1656", "query-text": "mouth cancer", "response": "Oral cancer symptoms", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1667", "query-text": "muscle health", "response": "Tips for maintaining muscle health?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1679", "query-text": "myelopathy", "response": "What is multiple sclerosis?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1690", "query-text": "national academy of sciences", "response": "National Academy of Engineering", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1700", "query-text": "native americans", "response": "Interesting facts about Native Americans?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1710", "query-text": "neurocysticercosis", "response": "Information on neurocysticercosis symptoms, diagnosis, treatment, and prevention.", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1721", "query-text": "nih-aarp study", "response": "AARP study on brain health", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1731", "query-text": "norovirus", "response": "How to protect yourself from norovirus?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1741", "query-text": "nuts", "response": "Health benefits of nuts", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-175", "query-text": "diet and cellulite", "response": "Best exercises for reducing cellulite on thighs and buttocks.", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1752", "query-text": "okra", "response": "What are some health benefits of okra?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1762", "query-text": "oral intraepithelial neoplasia", "response": "Oral cancer symptoms and diagnosis", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1772", "query-text": "organotins", "response": "What are organotins and their function in the body?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1784", "query-text": "oxen meat", "response": "What is the taste and texture of oxen meat?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1794", "query-text": "panama", "response": "Places to visit in Panama City", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1805", "query-text": "parkinson 's disease", "response": "Best exercises for parkinson's disease patients", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1817", "query-text": "peanut butter", "response": "Benefits of peanut butter", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1827", "query-text": "peoria", "response": "Interesting places to visit in Peoria, Illinois?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1837", "query-text": "pesticides", "response": "Effects of pesticides on human health", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1847", "query-text": "philippines", "response": "Where is Philippines located?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1857", "query-text": "phytic acid", "response": "What is phytic acid and how does it affect nutrition?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-186", "query-text": "best treatment for constipation", "response": "Natural remedies for constipation relief", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1867", "query-text": "pineapples", "response": "Other tropical fruits like mangoes, kiwis, and papayas.", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1877", "query-text": "plant-based diet", "response": "What are the benefits of a plant-based diet?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1887", "query-text": "poisonous plants", "response": "Plants that are similar to poison ivy.", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1897", "query-text": "polypropylene plastic", "response": "What are the properties and uses of polypropylene plastic?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1909", "query-text": "pork", "response": "Pork recipes", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1919", "query-text": "poultry workers", "response": "Poultry industry jobs", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1929", "query-text": "prenatal vitamins", "response": "Prenatal vitamins for pregnant women", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1940", "query-text": "prolactin", "response": "Prolactin levels chart Normal levels", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1950", "query-text": "prunes", "response": "Benefits of prunes.", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-196", "query-text": "should we avoid titanium dioxide ?", "response": "Is titanium dioxide safe for use in food and personal care products?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1962", "query-text": "pumpkin", "response": "Fall recipes using pumpkin", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1972", "query-text": "quinine", "response": "What is quinine used for?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1983", "query-text": "rapamycin", "response": "What is rapamycin used for?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-1995", "query-text": "red tea", "response": "What are the health benefits of drinking red tea?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2", "query-text": "do cholesterol statin drugs cause breast cancer ?", "response": "Is there a link between cholesterol-lowering statin drugs and breast cancer risk?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2009", "query-text": "rhabdomyolysis", "response": "Causes of rhabdomyolysis?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2019", "query-text": "rickets", "response": "Vitamin D deficiency treatment", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2030", "query-text": "rutin", "response": "What is rutin good for?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2040", "query-text": "salmon", "response": "How to grill salmon?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2051", "query-text": "saturated fat", "response": "Information on the effects of saturated fat in the diet.", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2061", "query-text": "seafood", "response": "Types of seafood to try", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-207", "query-text": "avoiding cooked meat carcinogens", "response": "Healthy alternatives to cooked meat.", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2071", "query-text": "serotonin", "response": "Best foods to increase serotonin levels naturally", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2081", "query-text": "shelf life", "response": "Shelf life of food products", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2092", "query-text": "sirtuins", "response": "What are the functions of sirtuins?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2102", "query-text": "smoking", "response": "How to quit smoking?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2113", "query-text": "soil health", "response": "How to improve soil health?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2124", "query-text": "spearmint", "response": "How to use spearmint in cooking?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2134", "query-text": "splenda", "response": "Sweeteners similar to Splenda?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2145", "query-text": "st. john 's wort", "response": "St. John's Wort for depression", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2156", "query-text": "stevia", "response": "Stevia benefits", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2167", "query-text": "subsidies", "response": "Government grants or funding for small businesses", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-217", "query-text": "plant-based diets for psoriasis", "response": "Best plant-based diet for psoriasis management.", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2177", "query-text": "sulfur", "response": "What are the uses of sulfur?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2187", "query-text": "suppositories", "response": "What are suppositories used for?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2197", "query-text": "sweeteners", "response": "What are the best natural sweeteners for baking?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2209", "query-text": "taro", "response": "What is taro and how is it used in cooking?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2220", "query-text": "tempeh", "response": "Tempeh recipes", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2230", "query-text": "thiamine", "response": "Thiamine deficiency symptoms", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2240", "query-text": "titanium dioxide", "response": "What are the properties and uses of titanium dioxide?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2250", "query-text": "tongue worm", "response": "What are some common parasites that can infect the tongue?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2261", "query-text": "trans fats", "response": "What are the health effects of consuming trans fats?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-227", "query-text": "increasing muscle strength with fenugreek", "response": "Does fenugreek really work for increasing muscle strength?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2271", "query-text": "tufts", "response": "What are the admission requirements for Tufts University?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2281", "query-text": "turnips", "response": "root vegetables", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2291", "query-text": "ultra-processed foods", "response": "How to avoid ultra-processed foods in your diet?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-23", "query-text": "how to reduce exposure to alkylphenols through your diet", "response": "Ways to limit exposure to harmful alkylphenol chemicals in food and drinks.", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2301", "query-text": "uterine health", "response": "Uterine cancer causes and prevention", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2311", "query-text": "veal", "response": "How to cook veal?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2321", "query-text": "veggie chicken", "response": "Vegan chicken recipes", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2332", "query-text": "viral infections", "response": "Common viral infections", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2343", "query-text": "vitamin k", "response": "What are the benefits of vitamin K?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2354", "query-text": "walnut oil", "response": "What are the health benefits of walnut oil?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2364", "query-text": "weight gain", "response": "How to gain weight and muscle", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2375", "query-text": "whiting", "response": "How to make whiting fish fillets?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-238", "query-text": "how chemically contaminated are we ?", "response": "What are the health risks of exposure to chemical contaminants?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2386", "query-text": "worms", "response": "Earthworms, red worms, or compost worms?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2396", "query-text": "yale", "response": "Yale University | Yale University admissions | Yale University application process | Yale University cost | Yale University ranking | Yale University acceptance rate | Yale University GPA requirements | Yale University SAT requirements | Yale University ACT requirements", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2408", "query-text": "zoloft", "response": "Anti-anxiety medication options.", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2430", "query-text": "preventing brain loss with b vitamins ?", "response": "How can B vitamins help prevent brain loss?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2440", "query-text": "more than an apple a day : combating common diseases", "response": "Ways to prevent chronic diseases with a healthy diet and lifestyle.", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2450", "query-text": "are organic foods safer ?", "response": "Is organic food better for your health?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2460", "query-text": "diabetes as a disease of fat toxicity", "response": "What are the underlying causes of diabetes?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2470", "query-text": "is milk good for our bones ?", "response": "Is milk good for overall health?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-248", "query-text": "treating an enlarged prostate with diet", "response": "Best foods for an enlarged prostate diet", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2480", "query-text": "preventing ulcerative colitis with diet", "response": "Best foods to avoid for ulcerative colitis / What foods to eat for ulcerative colitis / Ulcerative colitis diet plan / How to manage ulcerative colitis through diet.", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2490", "query-text": "the actual benefit of diet vs. drugs", "response": "What are the benefits of a healthy diet vs medication for treating various conditions?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2500", "query-text": "the saturated fat studies : buttering up the public", "response": "Studies on the health effects of saturated fat consumption.", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2510", "query-text": "coffee and artery function", "response": "How does coffee impact arterial function?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2520", "query-text": "caloric restriction vs. plant-based diets", "response": "What are the differences between caloric restriction and plant-based diets for weight loss and overall health?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2530", "query-text": "infectobesity : adenovirus 36 and childhood obesity", "response": "Adenovirus 36 and obesity in children", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2540", "query-text": "does cholesterol size matter ?", "response": "What are the benefits of reducing cholesterol size?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2550", "query-text": "barriers to heart disease prevention", "response": "Steps to prevent heart disease", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2560", "query-text": "childhood constipation and cow ’ s milk", "response": "What are some natural remedies for childhood constipation?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2570", "query-text": "diabetics should take their pulses", "response": "How often should diabetics check their blood pressure?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2580", "query-text": "academy of nutrition and dietetics conflicts of interest", "response": "What are the conflicts of interest within the Academy of Nutrition and Dietetics?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-259", "query-text": "optimal phytosterol dose and source", "response": "What is the optimal dose of phytosterols and where can I find them?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2590", "query-text": "do vegetarians get enough protein ?", "response": "How much protein do vegetarians need to consume to maintain good health?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2600", "query-text": "eggs and arterial function", "response": "Effects of egg consumption on cardiovascular health", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2610", "query-text": "treating asthma with plants vs. supplements ?", "response": "Which is more effective for treating asthma: plants or supplements?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2620", "query-text": "phytates for the treatment of cancer", "response": "Is phytate a potential treatment for cancer?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2630", "query-text": "alkylphenol endocrine disruptors and allergies", "response": "Effects of alkylphenol endocrine disruptors on human health.", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2640", "query-text": "chicken salmonella thanks to meat industry lawsuit", "response": "Chicken salmonella outbreak linked to meat industry negligence.", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2650", "query-text": "turmeric curcumin and osteoarthritis", "response": "Is turmeric good for osteoarthritis relief?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2660", "query-text": "how long to detox from fish before pregnancy ?", "response": "How long after stopping fish consumption should I wait before getting pregnant?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2670", "query-text": "is caramel color carcinogenic ?", "response": "Is caramel color safe to consume?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2680", "query-text": "counteracting the effects of dioxins through diet", "response": "What foods can help counteract the harmful effects of dioxins in the body?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2690", "query-text": "chronic headaches and pork tapeworms", "response": "Headaches caused by tapeworms and their treatment options.", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-270", "query-text": "is caffeinated tea really dehydrating ?", "response": "Does caffeinated tea really cause dehydration?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2700", "query-text": "heart disease starts in childhood", "response": "Can heart disease be prevented in childhood?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2710", "query-text": "artificial food colors and adhd", "response": "Is there a link between artificial food colors and ADHD?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2720", "query-text": "keeping your hands warm with citrus", "response": "What are some ways to keep your hands warm without using gloves?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2730", "query-text": "anti-angiogenesis : cutting off tumor supply lines", "response": "Best natural ways to starve cancer cells", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2740", "query-text": "cancer risk from ct scan radiation", "response": "Radiation exposure from CT scans and cancer risk", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2750", "query-text": "preventing the common cold with probiotics ?", "response": "Benefits of probiotics for preventing the common cold.", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2760", "query-text": "eating healthy on a budget", "response": "How can I eat healthy on a tight budget?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2770", "query-text": "flaxseeds & breast cancer survival : clinical evidence", "response": "Flaxseed and breast cancer prevention : Scientific evidence", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2780", "query-text": "do fruit & nut bars cause weight gain ?", "response": "Are fruit and nut bars healthy for weight loss?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2790", "query-text": "titanium dioxide & inflammatory bowel disease", "response": "Is titanium dioxide a potential treatment for inflammatory bowel disease?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-280", "query-text": "mercury testing recommended before pregnancy", "response": "Mercury testing pregnancy risks", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2800", "query-text": "prolonged liver function enhancement from broccoli", "response": "How does broccoli help in liver function enhancement?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2810", "query-text": "apple juice may be worse than sugar water", "response": "Is apple juice really worse than sugar water for health reasons?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2820", "query-text": "preventing strokes with diet", "response": "What are the best foods to prevent strokes?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2830", "query-text": "neurobiology of artificial sweeteners", "response": "What is the neurobiology of sweet taste and how does it relate to artificial sweeteners?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2840", "query-text": "benefits of fenugreek seeds", "response": "What are the health benefits of fenugreek seeds?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2850", "query-text": "more antibiotics in white meat or dark meat ?", "response": "Which types of meat have higher levels of antibiotics?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2860", "query-text": "bpa plastic and male sexual dysfunction", "response": "Is there a link between BPA plastic and male infertility?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2870", "query-text": "filled full of lead", "response": "What does it mean to be \"filled full of lead\"? Could this phrase be used in a particular context or situation?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2880", "query-text": "the answer to the pritikin puzzle", "response": "Can you explain the solution to the Pritikin puzzle?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2890", "query-text": "to snack or not to snack ?", "response": "Benefits of snacking vs skipping snacks.", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2900", "query-text": "boosting good bacteria in the colon without probiotics", "response": "How to increase the growth of good bacteria in the colon without probiotics?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-291", "query-text": "stool size and breast cancer risk", "response": "Are there any dietary changes I can make to reduce my risk of breast cancer?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2910", "query-text": "optimal phytosterol dose", "response": "What is the recommended daily dose of phytosterols?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2920", "query-text": "human neurotransmitters in plants", "response": "What are some plant-based neurotransmitters?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2930", "query-text": "kiwifruit for irritable bowel syndrome", "response": "Benefits of kiwifruit for gut health", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2940", "query-text": "dietary treatment of crohn 's disease", "response": "What are the best dietary treatments for Crohn's disease?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2950", "query-text": "unsafe at any feed", "response": "How to keep a child safe at any feed?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2960", "query-text": "pharmacists versus health food store employees : who gives better advice ?", "response": "What are the differences in advice given by pharmacists and health food store employees regarding dietary supplements and nutrition?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2970", "query-text": "preventing cataracts with diet", "response": "Can diet prevent cataracts?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2981", "query-text": "cheese mites and maggots", "response": "What are the differences between cheese mites and maggots?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-2991", "query-text": "cholesterol and lower back pain", "response": "How does high cholesterol affect lower back pain?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-3001", "query-text": "epic findings on lymphoma", "response": "Research on lymphoma treatment and new findings.", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-3014", "query-text": "sometimes the enzyme myth is true", "response": "Do enzymes have any scientific evidence to support their claims?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-3026", "query-text": "vitamin c-enriched bacon", "response": "Healthy breakfast ideas with bacon.", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-3037", "query-text": "out of the lab onto the track", "response": "How to transition from lab research to a clinical trial setting", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-3053", "query-text": "dragon 's blood", "response": "What is dragon's blood used for?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-3063", "query-text": "better than goji berries", "response": "What are some healthier alternatives to goji berries?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-307", "query-text": "vitamin d : shedding some light on the new recommendations", "response": "What are the new vitamin D recommendations and why are they important?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-3074", "query-text": "how to help prevent abdominal aortic aneurysms", "response": "Ways to reduce risk of abdominal aortic aneurysms", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-3085", "query-text": "the difficulty of arriving at a vitamin d recommendation", "response": "Vitamin D recommendation difficulty", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-3097", "query-text": "amyloid and apple juice", "response": "Is apple juice good for your brain?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-3116", "query-text": "dietary guidelines : from dairies to berries", "response": "What are the dietary guidelines for transitioning from a dairy-based diet to a berry-based diet?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-3131", "query-text": "are avocados good for you ?", "response": "What are the health benefits of avocados?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-3141", "query-text": "relieving yourself of excess estrogen", "response": "How to reduce estrogen levels naturally?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-3151", "query-text": "too much iodine can be as bad as too little", "response": "What are the risks of excessive iodine consumption?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-3161", "query-text": "is milk and mucus a myth ?", "response": "Is there a link between dairy consumption and increased mucus production?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-3171", "query-text": "convergence of evidence", "response": "How to accumulate evidence for a particular conclusion?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-3181", "query-text": "is dragon fruit good for you ?", "response": "What are the health benefits of dragon fruit?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-3191", "query-text": "is distilled fish oil toxin-free ?", "response": "Is fish oil extracted using chemicals toxin-free?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-320", "query-text": "breast cancer and diet", "response": "What are the best foods to eat to reduce the risk of breast cancer?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-3201", "query-text": "acne & cancer connection", "response": "Is there a link between acne and cancer?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-3211", "query-text": "overdosing on greens", "response": "Is it possible to overdose on leafy greens?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-3221", "query-text": "dietary theory of alzheimer 's", "response": "What is the latest research on the dietary theory of Alzheimer's disease?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-3231", "query-text": "meat & multiple myeloma", "response": "Link between meat consumption and multiple myeloma?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-3241", "query-text": "apthous ulcer mystery solved", "response": "Causes and treatment for apthous ulcers.", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-3251", "query-text": "epic study", "response": "Best study tips for college students.", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-3261", "query-text": "update on herbalife ®", "response": "Latest news on Herbalife ®.", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-3271", "query-text": "saturated fat & cancer progression", "response": "Is there a link between saturated fat intake and cancer progression?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-3281", "query-text": "aluminum in vaccines vs. food", "response": "Is there a difference in the amount of aluminum in vaccines versus food?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-3292", "query-text": "are multivitamins good for you ?", "response": "Benefits of multivitamins for overall health?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-33", "query-text": "what ’ s driving america ’ s obesity problem ?", "response": "What are the main factors contributing to America's obesity epidemic?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-3302", "query-text": "fish fog", "response": "Is fish fog a myth or real?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-3312", "query-text": "sexually transmitted fish toxin", "response": "fish toxins and their effects on human health", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-332", "query-text": "can antioxidant-rich spices counteract the effects of a high-fat meal ?", "response": "Do spices with antioxidant properties counteract the effects of a high-fat meal on gut health?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-3322", "query-text": "veggies vs. cancer", "response": "How do veggies help prevent cancer?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-3332", "query-text": "alcohol risks vs. benefits", "response": "What are the advantages and disadvantages of drinking alcohol?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-3342", "query-text": "is coconut milk good for you ?", "response": "Are there any health benefits to consuming coconut milk?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-3352", "query-text": "boosting heart nerve control", "response": "How to improve nerve control in the heart?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-3362", "query-text": "kuna indian secret", "response": "Kuna Indian tribe secret recipes?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-3372", "query-text": "the healthiest sweetener", "response": "What are the healthiest natural sweeteners?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-3382", "query-text": "are artificial colors bad for you ?", "response": "Are natural colors better for you than artificial colors?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-3392", "query-text": "healthiest airplane beverage", "response": "Best airplane drink options for health", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-3402", "query-text": "antioxidant content of 300 foods", "response": "List of antioxidant-rich foods", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-3412", "query-text": "plant vs. cow calcium", "response": "Difference between plant-based and cow-derived calcium sources.", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-3422", "query-text": "vitamin supplements worth taking", "response": "What are the most important vitamin supplements to take?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-3432", "query-text": "healthy chocolate milkshakes", "response": "Healthy chocolate milkshake recipes", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-344", "query-text": "dioxins stored in our own fat may increase diabetes risk", "response": "How do dioxins affect insulin resistance and diabetes risk?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-3442", "query-text": "the healthiest vegetables", "response": "What are the most nutritious vegetables for optimal health?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-3452", "query-text": "bowel movement frequency", "response": "Normal bowel movement frequency range", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-3462", "query-text": "olive oil and artery function", "response": "Can olive oil improve artery function?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-3472", "query-text": "how doctors responded to being named a leading killer", "response": "What are doctors' responses to being named a leading killer in the world?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-358", "query-text": "didn 't another study show carnitine was good for the heart ?", "response": "What are the cardiovascular benefits of carnitine supplementation?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-371", "query-text": "any update on the scary in vitro avocado data ?", "response": "Is there any new information regarding the avocado in vitro study?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-383", "query-text": "what do you think of dr. jenkins ' take on paleolithic diets ?", "response": "What are Dr. Ted Naiman's views on paleolithic diets?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-395", "query-text": "what about pepper plus turmeric in v8 juice ?", "response": "Benefits of drinking pepper and turmeric in V8 juice?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-407", "query-text": "is annatto food coloring safe ?", "response": "Is annatto coloring safe for consumption?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-418", "query-text": "fresh fruit versus frozen--which is better ?", "response": "Fresh versus frozen fruit which is healthier?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-430", "query-text": "are krill oil supplements better than fish oil capsules ?", "response": "What are the differences between krill oil and fish oil supplements? Which one is better for me?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-44", "query-text": "who should be careful about curcumin ?", "response": "Who should be cautious when taking curcumin?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-441", "query-text": "is apple cider vinegar good for you ?", "response": "Are there any benefits to drinking apple cider vinegar?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-457", "query-text": "how can you believe in any scientific study ?", "response": "How can I evaluate the credibility of scientific studies?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-468", "query-text": "is vitamin d3 ( cholecalciferol ) preferable to d2 ( ergocalciferol ) ?", "response": "What are the differences between vitamin D3 (cholecalciferol) and D2 (ergocalciferol)?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-478", "query-text": "accidents", "response": "Safety tips and accident prevention measures.", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-488", "query-text": "adenovirus 36", "response": "Addenovirus 36 symptoms", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-499", "query-text": "african-american", "response": "African American history:\n1. The African American Museum: A visit to the National Museum of African American History and Culture in Washington, D.C., where visitors can learn about the experiences and achievements of African Americans.\n2. The Civil Rights Movement: A look at the events and people that shaped the fight for civil rights and racial equality in the United States, including the Montgomery Bus Boycott and the March on Washington.\n3. African American culture: An examination of the rich cultural heritage of African Americans, including the blues, jazz, and gospel music, as well as literature and art.\n4. The African American family: A study of the historical and contemporary experiences of African American families, including the challenges and triumphs they have faced.\n5. African American identity: An exploration of the complex and multifaceted identity of African Americans, including their experiences as a minority group and their connections to", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-510", "query-text": "airport scanners", "response": "How do airport scanners work? What technology do they use?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-520", "query-text": "alli", "response": "Alli weight loss", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-531", "query-text": "alternative medicine", "response": "What are some alternative medical practices and their benefits?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-541", "query-text": "american dental association", "response": "American Dental Association (ADA) guidelines for dental care", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-551", "query-text": "amnesia", "response": "Causes of amnesia", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-56", "query-text": "foods for glaucoma", "response": "What foods can help manage glaucoma?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-561", "query-text": "aneurysm", "response": "Brain aneurysm surgery recovery time", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-571", "query-text": "anisakis", "response": "Anisakis parasite symptoms", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-583", "query-text": "antinutrients", "response": "Which plant-based foods are high in antinutrients?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-593", "query-text": "apnea", "response": "Sleep apnea causes and treatments", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-603", "query-text": "arkansas", "response": "Interesting places to visit in Arkansas.", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-613", "query-text": "ascorbic acid", "response": "Vitamin C benefits", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-623", "query-text": "atkins diet", "response": "What is the Atkins diet and how does it work?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-634", "query-text": "avocados", "response": "How to use avocados in cooking and recipes?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-645", "query-text": "bagels", "response": "Best bagel recipe.", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-660", "query-text": "beans", "response": "Types of beans, uses of beans, how to cook beans, etc.", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-671", "query-text": "benzene", "response": "Health effects ofbenzene exposure", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-68", "query-text": "what is actually in chicken nuggets ?", "response": "Ingredients in chicken nuggets.", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-681", "query-text": "betel nuts", "response": "Benefits of betel nuts", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-691", "query-text": "bioavailability", "response": "What is the bioavailability of a particular drug or supplement?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-701", "query-text": "black raspberries", "response": "How to grow black raspberries?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-711", "query-text": "blood clots", "response": "Causes of blood clots", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-721", "query-text": "bmaa", "response": "What is the BMAA organization?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-731", "query-text": "bone fractures", "response": "Bone fracture symptoms, types of bone fractures, treatment for bone fractures, bone fracture recovery time, bone fracture causes, bone fracture diagnosis, bone fracture surgery, bone fracture prevention, bone fracture examples, bone fracture risk factors.", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-741", "query-text": "bph", "response": "Benign prostate hyperplasia (BPH) treatment options", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-751", "query-text": "brca genes", "response": "BRCA gene mutation testing", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-761", "query-text": "breast pain", "response": "Causes and treatments for breast pain?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-771", "query-text": "bronchiolitis obliterans", "response": "Chronic bronchitis treatment", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-78", "query-text": "what do meat purge and cola have in common ?", "response": "What common ingredients are used in meat purée and cola?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-782", "query-text": "bush administration", "response": "History of the Bush administration", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-792", "query-text": "cadaverine", "response": "What is cadaverine used for?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-806", "query-text": "caloric restriction", "response": "How does caloric restriction work?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-817", "query-text": "canker sores", "response": "Canker sore treatment options", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-827", "query-text": "carcinogens", "response": "List of carcinogenic substances.", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-838", "query-text": "carrageenan", "response": "properties of carrageenan", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-850", "query-text": "cauliflower", "response": "Health benefits of cauliflower", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-860", "query-text": "center for food safety", "response": "Food safety tips and guidelines", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-872", "query-text": "chanterelle mushrooms", "response": "What are some unique and delicious ways to prepare chanterelle mushrooms?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-882", "query-text": "chernobyl", "response": "Chernobyl disaster history", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-892", "query-text": "chickpeas", "response": "🥜 How to prepare chickpeas?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-902", "query-text": "chlorophyll", "response": "What are the benefits of chlorophyll?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-91", "query-text": "chronic headaches and pork parasites", "response": "Causes and treatments for headaches caused by parasites.", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-913", "query-text": "cinnamon", "response": "Health benefits of cinnamon", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-924", "query-text": "cocaine", "response": "Drug abuse treatment centers", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-934", "query-text": "coffee", "response": "How to make iced coffee?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-946", "query-text": "coma", "response": "Causes of coma", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-956", "query-text": "cooking methods", "response": "Best cooking methods for busy people.", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-966", "query-text": "cortisol", "response": "How can I lower my cortisol levels naturally?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-977", "query-text": "crib death", "response": "Sids prevention tips", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-987", "query-text": "cumin", "response": "What are the health benefits of cumin?", "metadata": {"model": "llama"}}
+{"query-id": "PLAIN-997", "query-text": "czechoslovakia", "response": "What was Czechoslovakia?", "metadata": {"model": "llama"}}

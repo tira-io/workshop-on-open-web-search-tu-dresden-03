@@ -1,0 +1,882 @@
+{"query-id": "q072224", "query-text": "purchase money", "response": ["how much money did he spend?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072226", "query-text": "purchase used car", "response": ["how to buy used car???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072232", "query-text": "buy gold silver", "response": ["buy gold coins????????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072240", "query-text": "adenovirus", "response": ["adenovirus e5e"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072242", "query-text": "Water softener", "response": ["Water softening system???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072287", "query-text": "amber heard", "response": ["what does amber heard say??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072299", "query-text": "anti-virus", "response": ["anti virus software downloads????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q0722103", "query-text": "antivirus windows defender", "response": ["windows defender downloads???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072226485", "query-text": "colloidal silver", "response": ["what is colloidal silver? and what are the benefits?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q0722123", "query-text": "pocket money", "response": ["pocket money for teens???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q0722124", "query-text": "Saltwater silver", "response": ["saltwater fish facts???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q0722129", "query-text": "silverware on hollow", "response": ["silverware set on amazon???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q0722155", "query-text": "collector car insurance", "response": ["collector car insurance quotes?n?n"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07223689", "query-text": "certification employer pole emploi", "response": ["certification employer emploi en france?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q0722259", "query-text": "beauval", "response": ["beauval airport code?|beauval airport code?|beauval airport id?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q0722279", "query-text": "periwinkles", "response": ["periwinkle flowers?nn"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q0722281", "query-text": "silver jewellery", "response": ["silver jewelry brands????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072226712", "query-text": "Public Employment Exchange", "response": ["What is the public employment exchange? What is the website?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q0722345", "query-text": "bruno retailleau", "response": ["bruno retailleau wiki?|bruno retailleau wiki?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q0722351", "query-text": "corner office", "response": ["corner desk office furniture???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q0722459", "query-text": "terracotta tiles", "response": ["terracotta floor tiles in chennai"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q0722500", "query-text": "centre of heavy taxes", "response": ["centre of the universe?nn"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q0722504", "query-text": "energy conservation certificate", "response": ["energy conservation programs????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07227733", "query-text": "Office chair", "response": ["Office chair ikea???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07227745", "query-text": "bird song", "response": ["bird species song?????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q0722536", "query-text": "chateau angers", "response": ["chateau d'aix en provence"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q0722543", "query-text": "chateau cathare", "response": ["chateau d'ax. what is it?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q0722560", "query-text": "Chantilly", "response": ["Chantilly, Virginia??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q0722561", "query-text": "Chalet de chaumont", "response": ["Chalet de chaumont ville"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q0722568", "query-text": "guedelon castle", "response": ["guedelon palace address?n"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q0722584", "query-text": "chateau de trevarez", "response": ["chateau de trevarez history?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072223157", "query-text": "water heater", "response": ["water heaters for sale???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q0722753", "query-text": "water tank", "response": ["water tanker truck driver job description?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q0722788", "query-text": "how to make money easily", "response": ["how to make money at home easily??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q0722790", "query-text": "how to put your money", "response": ["how to put money in your bank account?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072227219", "query-text": "comparator car hire", "response": ["car hire comparator???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q0722805", "query-text": "comparative free anti virus", "response": ["what is the best free anti virus software?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q0722806", "query-text": "comparative software video editing", "response": ["What is the best video editing software for Windows?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072215877", "query-text": "conservation potato", "response": ["conservation of water in plants????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q0722830", "query-text": "convert youtube video to mp3", "response": ["convert youtube video to mp4?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072219762", "query-text": "mp3 video conversion", "response": ["convert video to mp3 online free?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q0722842", "query-text": "coronavirus stat", "response": ["coronavirus san diego"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072219858", "query-text": "cook potato steamed casserole minute", "response": ["how to cook potato steamed casserole?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072219863", "query-text": "multiple employment and retirement", "response": ["what is the maximum number of jobs you can have?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q0722933", "query-text": "darty blois", "response": ["darty blois entrainement"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07221016", "query-text": "flags of the world", "response": ["flags of the world with names on them"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07221064", "query-text": "water murky pool", "response": ["murky water in lake?|murky water in lake?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07221118", "query-text": "Public Service Employment Act", "response": ["Public Service Commission of India???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07221132", "query-text": "territorial public employment service", "response": ["territorial public employment office?&#x017C;"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072227543", "query-text": "Public employment", "response": ["Employment opportunities in government agencies???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07221160", "query-text": "Solar energy", "response": ["solar energy cost????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072216282", "query-text": "recording a youtube video", "response": ["how do you record a youtube video?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07221244", "query-text": "space info energy", "response": ["space info physics energy?n?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07221260", "query-text": "personal space pole employment", "response": ["employment space pole?????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07221262", "query-text": "space renault", "response": ["space rover renault?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07221304", "query-text": "desk chair", "response": ["desk chair ikea canada???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07221361", "query-text": "All water trough", "response": ["Water trough for horses?|Water trough for cattle?|Water trough for horses?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07221378", "query-text": "fraud sms", "response": ["sms fraud?rr"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07221379", "query-text": "fred chesneau", "response": ["fred chesneau iii"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07221389", "query-text": "time zone", "response": ["what time is it in nebraska?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07221392", "query-text": "making money by walking", "response": ["how do you make money???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072227978", "query-text": "apricot cake", "response": ["apricot cake recipe with nuts and raisins"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072216571", "query-text": "gateau chocolate courgette", "response": ["chocolate cake with courgette in the recipe"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07221511", "query-text": "War of Crimes", "response": ["Crimes of War.com??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07221529", "query-text": "cake", "response": ["cake decorations????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07221582", "query-text": "hotel blois", "response": ["hotel blois francese?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07221593", "query-text": "html space", "response": ["html space width?nn"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07221623", "query-text": "ikea Bureau", "response": ["Bureau Ikea catalogue.png.png"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07228850", "query-text": "taxes", "response": ["taxes in california?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07221818", "query-text": "the Lord of the Rings", "response": ["the lord of the rings trilogy?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07221877", "query-text": "location argentan", "response": ["location of argentina's capital"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07221899", "query-text": "rental car corfou", "response": ["car rental corfu airport?n"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07221901", "query-text": "electric car rental", "response": ["electric car companies in the usa?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072213039", "query-text": "car rental ile of the meeting", "response": ["Is there an airport in the city?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072213055", "query-text": "rental car sete", "response": ["car rental san francisco airport"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07229064", "query-text": "car rental usa", "response": ["car rental san francisco airport"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072224593", "query-text": "antivirus software", "response": ["antivirus software download?|antivirus software for windows?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07221958", "query-text": "Law on Purchasing Power", "response": ["Law on purchasing power parity??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07221987", "query-text": "leisure time", "response": ["leisure activity time?|leisure activity time?|leisure time?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07222008", "query-text": "The President", "response": ["The President of Mexico?|The President of Mexico?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07222016", "query-text": "town hall", "response": ["town hall nyc??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07222035", "query-text": "city hall of nanterre", "response": ["city hall of osaka prefecture"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07222062", "query-text": "malakoff humanis space client", "response": ["who was the first human to space?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07222071", "query-text": "mackerel in the oven", "response": ["how to bake mackerel?|how to bake mackerel filets?|how to bake mackerel fillets?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07225769", "query-text": "best anti-virus 2022", "response": ["best anti-virus 2019?|best anti-virus 2020?|best anti-virus 2021?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072213299", "query-text": "best electric car", "response": ["what is the best electric car??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07222176", "query-text": "my retirement area", "response": ["where is the best place to retire??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07222262", "query-text": "cleaning silverware", "response": ["how to clean silverware???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07222319", "query-text": "occasion electric car", "response": ["electric car occasion?|electric car occasion?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07222328", "query-text": "office tourisme bordeaux", "response": ["office of tourism bordeaux france?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07222375", "query-text": "paclitaxel", "response": ["paclitaxel injection?n"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07222384", "query-text": "panel", "response": ["panel of judges????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07229603", "query-text": "photovoltaic panel", "response": ["solar panel cost????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07222432", "query-text": "Veal paupiette", "response": ["Veal shank recipes???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07222471", "query-text": "green water pool", "response": ["green water in pool?|green water in pool?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07229716", "query-text": "place of public employment", "response": ["place of employment of jim ray"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07222520", "query-text": "poincon silver", "response": ["silver sands beach nz"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07222532", "query-text": "pole employment update", "response": ["employment updates????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07222553", "query-text": "pole job simulator", "response": ["pole position simulator game???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07229758", "query-text": "employment", "response": ["employment status?????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07222594", "query-text": "barbecued potatoes", "response": ["barbecued green beans recipes?|barbecued green beans?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07222595", "query-text": "baked potato", "response": ["what is baked potato???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07222603", "query-text": "potato maiwen", "response": ["potato mash recipe?|potato mash recipe?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07222606", "query-text": "sautéed potato", "response": ["sauteed sweet potatoes and onions recipe?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07222610", "query-text": "potatoes garlic", "response": ["potatoes and garlic????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07222616", "query-text": "potatoes field dress", "response": ["potatoes and carrots recipe???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072229184", "query-text": "heat pump air water", "response": ["heat pump water heaters reviews 2015??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07222684", "query-text": "prices of electric cars", "response": ["Prices for a Volt?n"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07222711", "query-text": "battery power electric car", "response": ["what is the best electric car battery??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07222714", "query-text": "elderberry", "response": ["what are the benefits of elderberry syrup?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072225468", "query-text": "what energy", "response": ["what is the definition of energy??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07222749", "query-text": "car ramp", "response": ["car ramps for trucks???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07222768", "query-text": "recipe mackerel fillets", "response": ["i need a recipe for mackerel fillets"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07222774", "query-text": "recipe chocolate gateau", "response": ["chocolate gateau recipe???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07222794", "query-text": "mackerel recipe", "response": ["mackerel filet recipe?|mackerel filet recipe?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07222865", "query-text": "retardant", "response": ["retardant agent?????????????????????????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072210114", "query-text": "Thermal curtain", "response": ["Thermal windows? How do I know if my windows are thermal?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07222889", "query-text": "mackerel rillettes", "response": ["mackerel rillettes recipe"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072225532", "query-text": "water recuperator", "response": ["what is a water recuperator??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07223109", "query-text": "Residential tax parking", "response": ["Residential parking permit????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072210353", "query-text": "teleloading video", "response": ["video teleloading telegram bot"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07223135", "query-text": "farmland", "response": ["farmland in texas for sale"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072210378", "query-text": "Diatomaceous earth", "response": ["What is a good alternative to diatomaceous earth?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072214561", "query-text": "night terror", "response": ["what causes night terrors?|night terror causes"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072229845", "query-text": "TV entertainment", "response": ["Entertainment for kids????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072218638", "query-text": "Sell your car", "response": ["Sell my car to a dealer?n"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07223274", "query-text": "video", "response": ["video clip????????????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07223367", "query-text": "videochat", "response": ["chat with video chat???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07223424", "query-text": "gas-powered car", "response": ["gas powered car for sale???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072222412", "query-text": "hydrogen-powered car", "response": ["what is the first hydrogen-powered car?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07223440", "query-text": "German used car", "response": ["Used car prices?nWhat is the price of a used car?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07223441", "query-text": "used car bets", "response": ["bets on football games?|used car bets?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07227155", "query-text": "car not chere", "response": ["car chere???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07223444", "query-text": "renault car", "response": ["renault clio??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07223445", "query-text": "perma-free car", "response": ["car that will run forever without fuel?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07223449", "query-text": "triumph car", "response": ["triumph sports car review?nn"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072214905", "query-text": "solar car", "response": ["solar powered car????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072210686", "query-text": "electric car without a licence", "response": ["how much does it cost to drive an electric car?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07223464", "query-text": "used cars", "response": ["used cars for sale in phoenix"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07223554", "query-text": "purchase electric car", "response": ["purchase electric car battery?nn"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07223628", "query-text": "antivirus android", "response": ["best antivirus for android???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07223631", "query-text": "online antivirus", "response": ["free antivirus download for windows 10 64 bit?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07223632", "query-text": "French antivirus", "response": ["antivirus protection????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07223637", "query-text": "antivirus norton", "response": ["antivirus for windows 10?nn"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07223653", "query-text": "http://www.tbs-sct.gc.ca/rma/dpr3/06-07/index_e.asp", "response": ["http://www.tbs-sct.gc.ca/rma/dpr3/06-07/index_f.asp"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07223654", "query-text": "Argentina", "response": ["Argentina capital city?????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07223665", "query-text": "watering potatoes", "response": ["how do you water potatoes???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07223674", "query-text": "asia argento", "response": ["argentina asia cup team squad"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07223716", "query-text": "axa bank customer space", "response": ["axa insurance customer service number?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07223729", "query-text": "Taxation", "response": ["Taxation law????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07223733", "query-text": "The Betting Bar", "response": ["How many bets can I make at the betting bar?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07223758", "query-text": "bdor silver prize", "response": ["bdor gold prize??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07223809", "query-text": "beneteau", "response": ["yachts for sale by owner beneteau"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07223839", "query-text": "Veal blanquette", "response": ["Veal cheeks blanquette?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07223904", "query-text": "Office", "response": ["Office Space.com?|Office Space.com?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07223910", "query-text": "Office of the Legacy", "response": ["Office of the Governor of New York State, Inc."], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07224193", "query-text": "Hoary teats", "response": ["Hoary teats wiki?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072215673", "query-text": "energy cheque", "response": ["energy bill checker?nn"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07224326", "query-text": "citing the Toulouse space", "response": ["citing the Toulouse space?nn"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07224372", "query-text": "how to clean silverware", "response": ["How do you clean silverware? What products should I use?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07224379", "query-text": "comparative car", "response": ["car comparative review???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072215857", "query-text": "comparative electric car", "response": ["electric car comparisons???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07224390", "query-text": "conjugal desire", "response": ["conjugal conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjugation conjug"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07224401", "query-text": "water consumption", "response": ["water consumption in india?|water consumption in india?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07224418", "query-text": "convert video", "response": ["convert video to mp4 online free?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07224420", "query-text": "youtube video converter", "response": ["youtube video downloader free download?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07224430", "query-text": "coronavirus", "response": ["what is the name of the coronavirus?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07224437", "query-text": "swimming lane", "response": ["swimming pool lane width?|swimming pool lane width?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07224468", "query-text": "tax credit", "response": ["what is tax credit???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07224479", "query-text": "cook potato microwave", "response": ["cook potatoes in microwave oven???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072211861", "query-text": "leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg", "response": ["leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07224488", "query-text": "cooking potato with water", "response": ["what is the best way to cook potatoes?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07224489", "query-text": "cooking potato microwave", "response": ["how to cook potatoes without a microwave?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07224500", "query-text": "water tank", "response": ["water tanker truck driver job description?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07224645", "query-text": "water of seltz", "response": ["what is water made of?|what is water made of?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07224677", "query-text": "Police School", "response": ["Police academy???????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07224704", "query-text": "atsem employment", "response": ["atsem job openings?|atsem job opportunities?|atsem job openings in chennai?|atsem job vacancies?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07224725", "query-text": "employment public service", "response": ["employment in public sector in india??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07224730", "query-text": "Swiss employment", "response": ["Swiss employment rate????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07224761", "query-text": "energie-info", "response": ["Energie-Info.de|energie-info.de"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07224786", "query-text": "escabeau", "response": ["escabeaus de xiii"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072212222", "query-text": "free client space", "response": ["client side scripting???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07224851", "query-text": "family space", "response": ["family rooms for rent in phoenix"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07224897", "query-text": "test electric car", "response": ["test for hsv2 infection?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07224907", "query-text": "eurovision", "response": ["eurovision song contest 2001?nn"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07225042", "query-text": "Basque gateau", "response": ["Basque country population in 2010??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07225045", "query-text": "gateau breton", "response": ["what is a breton cake?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07225054", "query-text": "semolina gateau", "response": ["semolina cake recipe?|semolina cake|semolina cake|semolina cake|semolina cake"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07225062", "query-text": "gateau nantais", "response": ["gateau au chocolat au sucre nantais"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07225101", "query-text": "gps car", "response": ["car gps system??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072224096", "query-text": "Great backwaters", "response": ["great water park????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07225143", "query-text": "Finnish Russo War", "response": ["What was the outcome of the Russo-Finnish War?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07225191", "query-text": "high loire", "response": ["high mountain peak in the Alps?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07225201", "query-text": "history of the earth", "response": ["what is the history of the earth?|history of the earth|history of the world"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07225202", "query-text": "historic car", "response": ["historic aircrafts????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07225233", "query-text": "car seat cover", "response": ["car seat cover for dogs???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07225237", "query-text": "https://impots.gouv.fr", "response": ["https://www.impots.gouv.fr"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072212780", "query-text": "Free Car Game", "response": ["Car racing games free download.??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072228130", "query-text": "ant invasion", "response": ["ants in kitchen cabinet? how to get rid of them?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07225346", "query-text": "video games", "response": ["video games for kids???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07225410", "query-text": "the most expensive car in the world", "response": ["what is the most expensive car in the world?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07225427", "query-text": "Barrens", "response": ["Barrens of Minnesota?nn"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07225439", "query-text": "The Legacy Office", "response": ["The Legacy of the White Tiger??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07225463", "query-text": "the silence of the lambs", "response": ["the silence of the lambs movie??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07225471", "query-text": "leasing electric car", "response": ["leasing a car for college students?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07225506", "query-text": "Signs of land", "response": ["Land signs of venus???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07225533", "query-text": "lld car", "response": ["lld lld car?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07225534", "query-text": "lld electric car", "response": ["lld electric car for sale??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07225553", "query-text": "rental car ajaccio", "response": ["car rental ajaccio corsica"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07225558", "query-text": "car rental brest", "response": ["car rental lisbon airport portugal"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07225563", "query-text": "Guadeloupe car rental", "response": ["car rental in guadeloupe airport"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07225568", "query-text": "rental car maïf", "response": ["rental car near me?n?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072228421", "query-text": "free software video editing", "response": ["best video editing software for windows??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07225582", "query-text": "software video editing windows", "response": ["best video editing software for windows 10?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072228183", "query-text": "kerterre", "response": ["kerterresiast"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072228594", "query-text": "barbecued mackerel", "response": ["barbecued veal chops recipes?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07225737", "query-text": "marc fesneau", "response": ["marc fesneau jr."], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07225832", "query-text": "Instructions for use", "response": ["Instructions for using the website??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07225963", "query-text": "new variant covid", "response": ["what is the latest swine flu?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07225994", "query-text": "offer of employment Public Service", "response": ["Public service in canada???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07226014", "query-text": "Potato omelette", "response": ["Potato omelette recipe???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07226035", "query-text": "Potato matting", "response": ["How do you make potato matting? Is it a good material to use for growing plants?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07226058", "query-text": "vacuum insulation board", "response": ["vacuum insulation bottle insulation???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072213627", "query-text": "solar home panel", "response": ["solar panel for home use?|solar panel for home use?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07226114", "query-text": "vessel licences", "response": ["vessel id number?rr"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07226119", "query-text": "small electric car", "response": ["electric car for sale???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07226128", "query-text": "Car without a licence", "response": ["Car without registration?rrWhat is the penalty for driving without a license?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07226183", "query-text": "most beautiful village in france", "response": ["what is the most beautiful village in france?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072229084", "query-text": "oil", "response": ["oil on the ocean???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072221664", "query-text": "job centre personal space", "response": ["personal space job centre london england"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07226265", "query-text": "coronavirus political scientist", "response": ["who is the most famous political scientist?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07226275", "query-text": "potato downy mildew", "response": ["scab disease potato tuber moth"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07226277", "query-text": "monalisa potato", "response": ["monalisa wallpapers for mobile phone"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07226297", "query-text": "concarneau port", "response": ["concarneau france map?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07226298", "query-text": "Public Employment Portal", "response": ["Public Employment Statistics Office (PESO) of the Philippines"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07226303", "query-text": "car cycle door", "response": ["car door lock?|car door lock?|car door lock key?|car door lock?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072213905", "query-text": "terracotta pot", "response": ["what is a terracotta pot used for?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07226319", "query-text": "First World War", "response": ["First World War casualties?nn"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07226331", "query-text": "energy premium", "response": ["what is a premium bond?n"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07226359", "query-text": "proloisirs", "response": ["gif proloisirs?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07226397", "query-text": "Which antivirus to choose", "response": ["What is the best antivirus???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07226420", "query-text": "rally vintage cars", "response": ["vintage cars for sale in texas"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07226446", "query-text": "recipe potato patty", "response": ["potato patty recipe???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07226460", "query-text": "recipe grenadin de veau", "response": ["Recipe for grenadin with chicken?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07226463", "query-text": "recipe courgette cake", "response": ["Recipe for courgette cake??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072229335", "query-text": "recipe gateau de savoie", "response": ["recipe for gateau savoie"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07226468", "query-text": "recipe potato", "response": ["potato recipe for stuffed potato skins?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07226476", "query-text": "recipe", "response": ["recipe for fried chicken?nn"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072210054", "query-text": "chateaux relays", "response": ["chateaux of the loiret?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07226548", "query-text": "Sarzeau restaurant", "response": ["Sarzeau s restaurant reviews?| Sarzeau s restaurant reviews?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07226569", "query-text": "curtains", "response": ["curtains for a bay window??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07226601", "query-text": "potato harvest", "response": ["potato farming in uganda 2013?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072225665", "query-text": "harvest potatoes", "response": ["how do you harvest potatoes???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072218166", "query-text": "water reserve", "response": ["water reserve in nassau county"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07226645", "query-text": "potato salad", "response": ["potato salad recipe????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07226655", "query-text": "sandrine rousseau", "response": ["sandrine rousseau l"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07226691", "query-text": "sfr customer space", "response": ["customer space sfr??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07226697", "query-text": "sibel energie", "response": ["sibel yapm"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07226710", "query-text": "site used car", "response": ["what is the best used car site??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07226726", "query-text": "lamb mice", "response": ["lamb diet????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07226740", "query-text": "Superman and laws", "response": ["What are the laws of superman?n"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07226773", "query-text": "Size of the Earth", "response": ["What is the size of the earth? What is the circumference of the earth?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072229689", "query-text": "floor mats car", "response": ["floor mats for a car??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07226790", "query-text": "Student housing tax", "response": ["student housing st. louis missouri"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07226793", "query-text": "property tax", "response": ["property tax in florida??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072210391", "query-text": "vegetative soil", "response": ["soil nutrient composition???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07226851", "query-text": "land-net", "response": ["land net in hindi??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072222205", "query-text": "find my training pole job", "response": ["find my training pole job?nn"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07226955", "query-text": "val de loire tourisme", "response": ["val de loire weather forecast?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072226045", "query-text": "selling my car", "response": ["selling my car for cash in phoenix"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07226975", "query-text": "versailles large waters", "response": ["what is the name of the water feature in versailles?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072214725", "query-text": "video download", "response": ["video downloader????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07227023", "query-text": "video projector", "response": ["portable projectors reviews???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07227094", "query-text": "live silver", "response": ["live tv streaming free online?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07227096", "query-text": "city argenteuil", "response": ["argenteuil department???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07227113", "query-text": "viruskeeper", "response": ["virus scanner software?rrwhat is the best free virus scanner for windows 7?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07227142", "query-text": "hybrid car", "response": ["what is the best hybrid car??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07227144", "query-text": "plug-in hybrid car", "response": ["which car is the best plug in hybrid?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072214898", "query-text": "least expensive new car", "response": ["what is the least expensive car??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07227150", "query-text": "used car angers", "response": ["what is a used car dealer?|used car dealer?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07227152", "query-text": "used car automatic transmission", "response": ["automatic car transmission repair near me?r"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072230061", "query-text": "car without a second-hand permit", "response": ["car without a permit???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072226240", "query-text": "telecommandee car", "response": ["what is the telecommandee?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07227167", "query-text": "cars without a licence second hand", "response": ["car licence plate number search?nn"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07227170", "query-text": "cart", "response": ["tv carts for sale near me"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07227172", "query-text": "electric cart", "response": ["electric car manufacturer????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07227198", "query-text": "www.chequeenergie.gouv.fr", "response": ["www.chequeenergie.gouv.fr"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072211959", "query-text": "download video youtube", "response": ["download video youtube free downloader?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072215005", "query-text": "Car shelter", "response": ["Car shelter st louis mo?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07227279", "query-text": "purchase hybrid car", "response": ["Why is the hybrid car so expensive? Is it worth it?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07227353", "query-text": "mobile antivirus", "response": ["best mobile antivirus for windows phone?|best mobile antivirus for android?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07227354", "query-text": "antivirus for android", "response": ["antivirus for windows phone??????????????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07227402", "query-text": "ars coronavirus occitanie", "response": ["ars coronavirus cyprinid"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07227444", "query-text": "azay the curtain", "response": ["how to hang curtains???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07227476", "query-text": "vessel", "response": ["vessel definition?nn what is a vessel?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07227561", "query-text": "blois", "response": ["blois castle?nn"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07227584", "query-text": "smeg kettle", "response": ["smeg kettle review??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07227604", "query-text": "brocante loir and dear", "response": ["brocante loir and dear tv series"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07227613", "query-text": "standing desk", "response": ["how much does a standing desk cost?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07227653", "query-text": "caf personal space", "response": ["personal space in a chair??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07227664", "query-text": "skin cancer", "response": ["skin cancer treatment????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07227719", "query-text": "this job", "response": ["this company?rrWhat is the average pay for this job?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07227743", "query-text": "song for burial", "response": ["what is the meaning of the song burial?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07227874", "query-text": "choose a car", "response": ["how do you pick a car??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072212968", "query-text": "the five lands", "response": ["what is the five lands??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07227999", "query-text": "beaune clement", "response": ["clement adams tv show"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07228022", "query-text": "how to recharge a car battery", "response": ["how to recharge a car battery??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072219756", "query-text": "contact pole emploi", "response": ["contact pole emploi st nicolas"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07228073", "query-text": "oil prices", "response": ["oil prices today?nnn"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07228075", "query-text": "cout solar panel", "response": ["what are the best solar panels??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07228103", "query-text": "Credit Mutuel Customer Space", "response": ["Credit Mutuel customer service number?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07228142", "query-text": "cook mouse lamb", "response": ["cook lamb chops???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07228174", "query-text": "deauville", "response": ["deauville france weather forecast??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07228221", "query-text": "sleeping in your car", "response": ["sleeping in truck bed?|sleeping in truck?|sleeping in a truck?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07228258", "query-text": "declare taxes", "response": ["how do you file your taxes??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07228336", "query-text": "employment in the public service", "response": ["employment in govt of hyderabad"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07228373", "query-text": "by car", "response": ["by bus.nn by train.n"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07228383", "query-text": "customer space device", "response": ["customer service number of virgin mobile??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07228384", "query-text": "Engleterre", "response": ["Engleterre, France?|Engleterre, France?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07228419", "query-text": "client space axa", "response": ["client space aws ml"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07228442", "query-text": "space html", "response": ["html spacers?n?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07228466", "query-text": "personal space retirement", "response": ["personal space age?????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07228501", "query-text": "make money", "response": ["how to make money online?|make money online?|make money online for free?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07228502", "query-text": "sprout potatoes", "response": ["how many calories are in potatoes??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07228554", "query-text": "Car Maintenance Package", "response": ["Car maintenance tips????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072212400", "query-text": "free space subscriber", "response": ["subscriber free space???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07228597", "query-text": "gateau a la banana", "response": ["banana cake recipe??????????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07228607", "query-text": "yogurt gateau", "response": ["sour cream gateau recipe?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07228615", "query-text": "beaten gateau", "response": ["beaten egg whites recipe??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07228632", "query-text": "gateau recipe", "response": ["gateau au miel recipe?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072212473", "query-text": "without egg", "response": ["without sour cream???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072212503", "query-text": "Bordeaux girondins", "response": ["Bordeaux football club history?nn"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07228671", "query-text": "grade police", "response": ["what is police force???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07228681", "query-text": "potato gratin", "response": ["potato gratin recipe?|potato gratin?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072224109", "query-text": "Police index grid", "response": ["Police index number lookup???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07228694", "query-text": "Indochina War", "response": ["Indochina wars?|Indochina wars?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072227834", "query-text": "apple cake", "response": ["apple cake recipe for a layer cake?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072212646", "query-text": "car seat cover", "response": ["car seat cover for infants??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07228907", "query-text": "jean philippe rameau", "response": ["jean philippe rameau composer"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07228911", "query-text": "war games", "response": ["war games 2nd edition???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07228983", "query-text": "The Raven", "response": ["The Raven by Edgar Allan Poe."], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07229060", "query-text": "Corsican car rental", "response": ["Corsican car rental near me?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07229069", "query-text": "rental car bordeaux", "response": ["car rental béziers airport terminal"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07229070", "query-text": "car rental flat", "response": ["car rental near me today?nn"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07229080", "query-text": "nice car rental", "response": ["car rental miami beach fl airport"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07229081", "query-text": "orléans car rental", "response": ["orléans airport car rental?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07229082", "query-text": "car rental bets", "response": ["car rental near san francisco airport"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07229086", "query-text": "car rental sardaigne", "response": ["car rental sardaigne airport car rental"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07229093", "query-text": "rental car valves", "response": ["car valves for sale?????????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07229116", "query-text": "Act of 10 July 1965", "response": ["Act of 13 December 1967, art. 149"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07229131", "query-text": "law covenants", "response": ["covenants in the bible???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07229163", "query-text": "rent your car", "response": ["rent a car with a credit card"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072210903", "query-text": "mac antivirus", "response": ["best antivirus for macbook pro??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07229243", "query-text": "mackerel recipe", "response": ["mackerel filet recipe?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07229290", "query-text": "best city car", "response": ["what is the best city car??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072213367", "query-text": "my job centre", "response": ["job centre edinburgh area?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072224871", "query-text": "My Health Space", "response": ["My health space login???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07229512", "query-text": "used car", "response": ["used car dealer in nashville tn"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07229516", "query-text": "offer of employment", "response": ["employment offer letter sample?|employment offer letter|employment offer letter template"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072225042", "query-text": "ohm energy", "response": ["ohm resistance chart??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07229606", "query-text": "solar panel water", "response": ["solar panel efficiency calculator???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07229743", "query-text": "pmsmp pole employment", "response": ["employment for pmsmp???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07229744", "query-text": "car tyre", "response": ["car tyre size chart uk"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07229782", "query-text": "employment offers", "response": ["employment opportunities in hyderabad"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q07229809", "query-text": "pollenergy", "response": ["polls on global warming?nn"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072210025", "query-text": "recipe spring roll", "response": ["spring roll recipe?|spring roll recipe?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072210178", "query-text": "sarzeau", "response": ["sarzeau wiki?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072210203", "query-text": "public employment service", "response": ["public employment service scotland?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072210214", "query-text": "income tax simulator", "response": ["income tax calculator????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072210222", "query-text": "elderberry syrup", "response": ["honey syrup????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072210264", "query-text": "elderberry", "response": ["what is elderberry syrup???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072210325", "query-text": "tart leeks lardons", "response": ["leek and bacon lardons"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072210335", "query-text": "property tax pool", "response": ["how much is my property tax??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072210371", "query-text": "tent on the car", "response": ["car tent reviews????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072222156", "query-text": "Total direct energy", "response": ["Total energy consumption by sector?nTotal energy consumption by sector?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072210474", "query-text": "Terracotta tile", "response": ["Terracotta bricks for sale?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072210489", "query-text": "ugc bordeaux", "response": ["ugc bordeaux results?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072210516", "query-text": "energy vector", "response": ["energy of a vector?nwhat is an energy vector?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072210593", "query-text": "video vimeo", "response": ["vimeo video search engine?|vimeo video search engine?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072210645", "query-text": "wine car", "response": ["wine carafes??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072210665", "query-text": "speed of rotation of the earth", "response": ["speed of rotation of the sun??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072210684", "query-text": "comparative electric car", "response": ["compare electric cars to gas cars??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072210697", "query-text": "Belgian used car", "response": ["Used car dealer in detroit?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072210699", "query-text": "Toulouse used car", "response": ["Toulouse used car for sale?rr"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072214883", "query-text": "used electric car", "response": ["used electric car for sale???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072210706", "query-text": "used cars", "response": ["used cars for sale by owner near me?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072210707", "query-text": "plug-in hybrid cars", "response": ["what are some plug in hybrid cars??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072210708", "query-text": "hybrid cars", "response": ["cars with hybrid engines???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072210762", "query-text": "Lamb shoulder in the oven", "response": ["How long should I cook lamb shoulder in the oven?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072210803", "query-text": "Employment update", "response": ["Employment news?rrWhat is the employment rate today?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072215052", "query-text": "assistance purchase electric car", "response": ["how much does an electric car cost??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072210878", "query-text": "Angleterre allemagne", "response": ["Angleterre d'Allemagne??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072210934", "query-text": "In the case of the", "response": ["In the case of the nba, what is the most recent player to have a career high in points?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072210938", "query-text": "argus car", "response": ["argus car show 2013??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072210976", "query-text": "free avast anti virus", "response": ["avast free antivirus download for windows"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072211000", "query-text": "Bank for Public Employment", "response": ["World Bank Group. Who runs the World Bank Group?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072211119", "query-text": "body painting video", "response": ["Body paint video?????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072211164", "query-text": "Box beaute", "response": ["Box beaute com?o?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072211165", "query-text": "Beauty box", "response": ["beauty box subscriptions???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072211326", "query-text": "centre of dijon taxes", "response": ["what is dijon mustard made of??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072211340", "query-text": "cgos space agent", "response": ["space agent cgos??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072211354", "query-text": "barges on a vessel's back", "response": ["barges on the back of a ship"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072211383", "query-text": "Cattle for sale", "response": ["Cattle for sale in texas"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072211459", "query-text": "chateau maintainon", "response": ["chateau maintainance cost???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072211493", "query-text": "heating air water", "response": ["heating water with wood???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072211661", "query-text": "cned space entered", "response": ["cned space entered in hindi"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072211691", "query-text": "how to receive money on paypal", "response": ["How do I get paid by PayPal?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072211716", "query-text": "account taxes", "response": ["account balances????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072211737", "query-text": "Consulate of Algeria", "response": ["Consulate of Egypt in New York City, New York"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072211741", "query-text": "technical control car", "response": ["car control wheel????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072211773", "query-text": "the price of money", "response": ["the price of a pound of ham"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072211811", "query-text": "cpam maine and loire", "response": ["cpam maine and loire statewide"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072211856", "query-text": "cooking of new potatoes", "response": ["cooking of a potato?|Cooking of potatoes|Cooking of potatoes with skin"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072211950", "query-text": "gasseau domain", "response": ["gasseau's law domain?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072212057", "query-text": "eco-leau", "response": ["eco-leau.com?msn"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072223707", "query-text": "edf customer space", "response": ["edf customer service number?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072212084", "query-text": "employment", "response": ["employment opportunities in hyderabad"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072212100", "query-text": "employment in Guadeloupe", "response": ["employment in Saint Kitts and Nevis"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072212202", "query-text": "space Aragon", "response": ["space aragón iii"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072212233", "query-text": "space darwin", "response": ["what is the spacecraft named darwin?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072212275", "query-text": "visa-first space", "response": ["space-first indexing in java?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072212287", "query-text": "free car estimate", "response": ["free car insurance estimate?nn"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072212314", "query-text": "the", "response": ["the tv show???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072212315", "query-text": "fap video", "response": ["fap video hd?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072212376", "query-text": "Energy Supplier", "response": ["Energy Suppliers in the UK?n"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072212406", "query-text": "free network", "response": ["free network speed test???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072212420", "query-text": "Potato patty", "response": ["Potato pancakes recipe????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072216557", "query-text": "lemon gateau", "response": ["lemon cake recipe????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072212459", "query-text": "In addition to the above, a number of other", "response": ["In addition to the above, what is the name of the"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072212466", "query-text": "lemon sweet gateau", "response": ["lemon sweet buns recipe?|lemon sweet buns|lemon sweet buns|lemon sweet buns|lemon sweet buns|lemon sweet buns|lemon sweet buns|lemon sweet buns|lemon sweet buns|lemon sweet buns"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072220440", "query-text": "Veal grenadin", "response": ["Veal tenderloin grenadin"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072212539", "query-text": "algal warfare", "response": ["algal blooms in texas"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072212543", "query-text": "Yugoslav War", "response": ["What was the name of the war where the Yugoslavia was involved?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072224019", "query-text": "chocolate gateau", "response": ["chocolate lava cake recipe?|chocolate lava cake?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072212577", "query-text": "savoury cake", "response": ["savoury muffins??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072212706", "query-text": "taxes pacs", "response": ["tax deductions pacs??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072212707", "query-text": "secondary residence tax", "response": ["what is a secondary residence??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072212734", "query-text": "info corona virus", "response": ["what is the corona virus?|what is the corona virus?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072212786", "query-text": "casino games without gambling", "response": ["casino games for free money no deposit??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072212836", "query-text": "Button Wars", "response": ["Button wars game online? Where can I play it?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072212843", "query-text": "the law", "response": ["the law of attraction???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072212857", "query-text": "the curtained redoubt", "response": ["what is the meaning of curtained redoubt?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072212902", "query-text": "the right car corner", "response": ["what is the right corner of a car?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072213030", "query-text": "comparator car rental", "response": ["compare car rentals in san francisco"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072213035", "query-text": "Faro car rental", "response": ["car rental glasgow airport to faro"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072213040", "query-text": "car rental islande", "response": ["car rental santander el escorial"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072213047", "query-text": "marrakech car rental", "response": ["marrakech car hire to morocco"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072213048", "query-text": "martinic car rental", "response": ["car rental savannah ga airport"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072213050", "query-text": "car rental nants", "response": ["car rental nantes airports parkings"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072213051", "query-text": "rental car nîmes", "response": ["car rental nîmes airports?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072213053", "query-text": "car rental perpignan", "response": ["car rental le mans fnac savoie"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072213056", "query-text": "rent a strasbourg car", "response": ["rent a car in strasbourg"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072213057", "query-text": "rental car toulon", "response": ["rental car aipl?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072213058", "query-text": "car rental at the station", "response": ["cab at the station???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072213126", "query-text": "law momentum", "response": ["momentum law of conservation of energy??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072213180", "query-text": "my car cash", "response": ["how much money is in my car??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072213188", "query-text": "maine et loire", "response": ["maine et loire en français"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072213216", "query-text": "town hall fontainebleau", "response": ["fontainebleau chateau hotel niortais"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072217284", "query-text": "potato disease", "response": ["potato blight disease symptoms??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072213253", "query-text": "mackerel", "response": ["fish mackerel oil??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072213259", "query-text": "marceau sophie", "response": ["jimmy choo shoes?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072213380", "query-text": "video montage", "response": ["video montage maker???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072213532", "query-text": "Office Tourisme concarneau", "response": ["Office of tourisme villeneuve-sur-lot"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072213536", "query-text": "offer of employment", "response": ["offer of employment template?nwhat is a good offer of employment letter?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072213566", "query-text": "online video converter", "response": ["free online video converter to mp3?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072213591", "query-text": "or invest money", "response": ["how do you invest money???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072213646", "query-text": "papillomavirus", "response": ["papillomavirus cause?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072213661", "query-text": "airport parking lot", "response": ["airport parking valet parking???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072213668", "query-text": "Passengers", "response": ["passengers in a car???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072213685", "query-text": "car paint", "response": ["car paints colors???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072213723", "query-text": "semi-buried pool", "response": ["semi buried ponds for sale near me"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072213810", "query-text": "pole employment employer", "response": ["employment employer job?|employment employer?|employment employer?|employment employer?|employment employer?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072213812", "query-text": "employment training", "response": ["employment training in california"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072213867", "query-text": "potato alliance", "response": ["alliance vs sabres"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072213876", "query-text": "New Brunswick", "response": ["New Brunswick, Canada???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072213894", "query-text": "water pump", "response": ["water pumping station in india?south"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072213913", "query-text": "police power of the mayor", "response": ["what is the power of a mayor?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072213935", "query-text": "energy", "response": ["what is the scientific definition of energy?|what is the scientific definition of energy?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072213959", "query-text": "price per car without a licence", "response": ["how much is a car license??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072214015", "query-text": "when to pick potatoes", "response": ["When to pick a ripe tomato?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072214042", "query-text": "recipe lamb", "response": ["lamb recipe for gyros?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072214043", "query-text": "recipe blanquette de veau", "response": ["recipe blanquette d'agneau"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072214053", "query-text": "recipe for veal stir-fry", "response": ["Recipe for veal chops?|Recipe for veal chops?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072214111", "query-text": "recipe elderberry", "response": ["recipe for apricot jam?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072214120", "query-text": "recharge clim car", "response": ["recharge clim car battery??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072214141", "query-text": "relooking woman video", "response": ["video relooking woman kissing?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072214142", "query-text": "housing tax rebate", "response": ["what is the tax rebate for housing??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072214151", "query-text": "Reporter", "response": ["Reporter job description?|Reporter job?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072214174", "query-text": "reserve operations police", "response": ["reserve unit police??????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072221818", "query-text": "water reservoir", "response": ["water reservoir california?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072214201", "query-text": "restaurants blois", "response": ["restaurants blois france?|restaurants blois?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072214315", "query-text": "sausage", "response": ["sausages for sale?nn"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072214354", "query-text": "pinel law simulator", "response": ["pinel law calculator?s?s?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072214466", "query-text": "apprenticeship levy", "response": ["levy apprenticeships uk?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072214470", "query-text": "Housing tax", "response": ["What is the housing tax in texas?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072218445", "query-text": "Housing Tax 2022", "response": ["Housing tax rate 2022???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072214476", "query-text": "inheritance tax", "response": ["inheritance tax uk?|inheritance tax uk?|inheritance tax rates uk?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072214477", "query-text": "payroll tax", "response": ["payroll deductions for social security tax?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072214482", "query-text": "Bordeaux taxi", "response": ["Bordeaux train station taxis?nn"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072214484", "query-text": "tchat video", "response": ["tchat live video chat??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072214497", "query-text": "download video site", "response": ["download video site for mobiles??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072214502", "query-text": "temperature bordeaux", "response": ["temperature in bordeaux france today?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072214507", "query-text": "cooking time potato casserole minute", "response": ["how long to cook potato casserole??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072214509", "query-text": "cooking time still sausage", "response": ["cooking time for sausages????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072214545", "query-text": "terreal", "response": ["terreal definition?nnwhat is terreal?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072214586", "query-text": "Potato tortillas", "response": ["Potato tortillas recipe???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072225961", "query-text": "turtle", "response": ["turtles in the sea???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072214677", "query-text": "potato varieties", "response": ["what are two types of potatoes??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072214685", "query-text": "selling your car for parts", "response": ["selling a car for parts??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072214697", "query-text": "to", "response": ["to what????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072226086", "query-text": "video drole", "response": ["video drole aad"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072214849", "query-text": "marburg virus", "response": ["marburg hemorrhagic fever"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072214855", "query-text": "virustotal", "response": ["virus total download?nnWhat is the best virus protection software?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072214878", "query-text": "German used car", "response": ["used car for sale in brazil?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072214881", "query-text": "car e85", "response": ["car e175???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072214882", "query-text": "electric car", "response": ["electric car chargers???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072214888", "query-text": "non-refillable hybrid car", "response": ["what are the best hybrid cars?|what is the best hybrid car?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072214897", "query-text": "car mg", "response": ["car mgmt software?0"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072214901", "query-text": "martinic occasion car", "response": ["martinic occasion car hire?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072214906", "query-text": "commercial vehicle", "response": ["commercial truck driver?nwhat is the best way to become a commercial truck driver?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072214914", "query-text": "used electric cars", "response": ["electric cars for sale?|used electric cars for sale?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072214918", "query-text": "Miniature cars", "response": ["Miniature furniture for dollhouses?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072214951", "query-text": "www.pole-emploi.fr", "response": ["www.poleemploi.com.tr"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072222328", "query-text": "video youtube", "response": ["video youtube music video???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072214980", "query-text": "to the President of the Republic", "response": ["to the President of the United States of America"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072214996", "query-text": "4kvideo downloader", "response": ["4k video downloader for mac?|4k video downloader for mac?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072215021", "query-text": "Total energy action", "response": ["total energy of activation of a molecule"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072215059", "query-text": "aij employment", "response": ["aij job openings?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072215115", "query-text": "Energy", "response": ["What is the most efficient way to store energy?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072215123", "query-text": "retirement insurance my space", "response": ["what is the best insurance for retirement?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072215124", "query-text": "car insurance per km", "response": ["car insurance for 17 year old male??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072215204", "query-text": "flies", "response": ["fly on a fly board??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072215307", "query-text": "electric kettle", "response": ["electric kettle for sale???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072215400", "query-text": "camera videosurveillance", "response": ["surveillance cameras live feeds?|surveillance cameras live feeds?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072215414", "query-text": "cap on employment", "response": ["what is the maximum amount of people employed in a business?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072215451", "query-text": "coronavirus cases", "response": ["coronaviruses list of countries"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072215664", "query-text": "chaumont sur loire", "response": ["chaumont france map?n"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072215671", "query-text": "cheque employment service", "response": ["employment checker????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072215815", "query-text": "Employment", "response": ["Employment opportunities in ohio?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072215823", "query-text": "red codes", "response": ["code red txt??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072215842", "query-text": "How to make money", "response": ["How can I make money from home? How do I start?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072215855", "query-text": "comparateur.energie-info.fr", "response": ["comparateur de l'energie?fr"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072215887", "query-text": "construction raw ground", "response": ["construction raw materials????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072215893", "query-text": "convert video youtube", "response": ["convert video to youtube online free?r"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072215906", "query-text": "coronavirus france", "response": ["coronavirus swine flu"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072215914", "query-text": "cut a video", "response": ["how to cut a video in adobe premiere pro?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072215915", "query-text": "courgette potato", "response": ["potato mash recipe???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072215939", "query-text": "covering car", "response": ["covering car in snow???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072215991", "query-text": "cooking paupiettes de veau", "response": ["How to make paupiettes de veau?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072216010", "query-text": "cytomegalovirus", "response": ["cytomegalovirus rash?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072216045", "query-text": "demission pole emploi", "response": ["emploi en vrac en hors ligne"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072223570", "query-text": "distance from land to sun", "response": ["distance from the sun to the earth?n"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072216151", "query-text": "water of quinton", "response": ["water in a jar??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072216235", "query-text": "employment", "response": ["employment statistics by state 2017?nwhat is the unemployment rate in texas?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072216269", "query-text": "Energy", "response": ["Energy conversion efficiency?|Energy conversion efficiency?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072216281", "query-text": "recording a video", "response": ["a video about recording a video?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072216290", "query-text": "between land and sea", "response": ["between the sea and the sky??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072216391", "query-text": "space employment pole", "response": ["space employment rate??|space employment rate trend??|space employment rate growth??|space employment rate projection??|space employment rate forecast??|space employment rate growth rate??|space employment rate growth??|space employment rate trend??|space employment rate forecast??|space employment rate growth rate??|space employment rate forecast??|space employment rate trend??|space employment rate forecast??|space employment rate growth rate??|space employment rate growth rate??|space employment rate forecast??|space employment rate trend??|space employment rate forecast??|space employment rate trend??|space employment rate forecast??|space employment rate trend??|space employment rate forecast??|space employment rate forecast??|space employment rate trend??|space employment rate forecast"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072216473", "query-text": "water filter", "response": ["water filter system?????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072216475", "query-text": "end of the housing tax", "response": ["what is the housing tax credit??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072216516", "query-text": "French", "response": ["french people?nnSimilar query:"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072216518", "query-text": "tax evasion", "response": ["tax fraud????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072216545", "query-text": "making money", "response": ["how do you make money?????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072216567", "query-text": "chocolate banana gateau", "response": ["banana chocolate chip muffins recipe??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072216616", "query-text": "birch gills", "response": ["birch bud fungus?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072220418", "query-text": "The car", "response": ["the car is a honda civic."], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072216630", "query-text": "government elisabeth borne", "response": ["elisabeth borne wiki"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072216834", "query-text": "tax bracket", "response": ["tax brackets for singles??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072220685", "query-text": "Solar panel kit", "response": ["solar panel price in india?rr"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072217096", "query-text": "car rental in Menorca", "response": ["car rental in Menorca airport?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072224571", "query-text": "Car rental by month", "response": ["Car rental by week?nn"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072217100", "query-text": "car rental orly", "response": ["car rental calgary airport to orly"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072217103", "query-text": "port car rental", "response": ["car rental in portland oregon"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072217109", "query-text": "Turkish car rental", "response": ["Turkish airlines cargo????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072217112", "query-text": "rental cars", "response": ["rent a car near me??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072217124", "query-text": "Alr Law", "response": ["Alr law firm in san diego, ca"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072217131", "query-text": "law of the day", "response": ["law of the land?|law of the land?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072217159", "query-text": "Madelin Law", "response": ["Madeline L. Lawton's"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072217257", "query-text": "town hall of fontainebleau", "response": ["Hôtel de Fontainebleau, France"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072217356", "query-text": "meteo bordeaux", "response": ["bordeaux weather forecast today and tomorrow?s"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072217359", "query-text": "Meteorological Service of Canada", "response": ["Meteorological Service of the United States"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072217373", "query-text": "mg car", "response": ["car rental san diego ca airport"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072217387", "query-text": "mini car", "response": ["mini vans for sale in texas"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072217391", "query-text": "earthing", "response": ["what is grounding? what is it used for?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072217448", "query-text": "burrowing fly", "response": ["burrowing sand fly?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072217469", "query-text": "National Energy Ombudsman", "response": ["National Energy Board of Canada?nn"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072217621", "query-text": "online antivirus", "response": ["free antivirus software downloads?rr"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072217646", "query-text": "public employment", "response": ["employment opportunities for the disabled???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072217648", "query-text": "panda antivirus", "response": ["kaspersky antivirus download for windows 7"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072217666", "query-text": "solar panel self-consumption", "response": ["solar panel efficiency????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072217701", "query-text": "pathway job skills pole job", "response": ["what are the pole job skills??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072217702", "query-text": "Sun protection car", "response": ["Sun protection clothing for men???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072217797", "query-text": "planting leeks", "response": ["planting onions in the ground?|planting onions in the ground"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072217826", "query-text": "leeks salad dressing", "response": ["salad dressing recipe for dressing???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072217851", "query-text": "pole employment registration", "response": ["employment registration number nz?n"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072217888", "query-text": "National Police", "response": ["National Guard of Jamaica?a?s?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072217893", "query-text": "fonts", "response": ["fonts list?nnn"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072217910", "query-text": "salad potatoes", "response": ["potato salad recipe????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072217994", "query-text": "Tesla car price", "response": ["Tesla car model name and price??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072221624", "query-text": "price new car", "response": ["car price list in india???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072218002", "query-text": "draft law purchasing power", "response": ["what are the purchasing power parity laws?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072218020", "query-text": "mashed potatoes", "response": ["how to make mashed potatoes from scratch?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072218098", "query-text": "recipe cake without eggs", "response": ["how to make a cake without eggs?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072221749", "query-text": "recipe potato salad", "response": ["What is the recipe for potato salad?n"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072218112", "query-text": "recharge air conditioning car", "response": ["recharge air conditioning unit?|recharge air conditioning units?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072218116", "query-text": "recruits", "response": ["what are the best recruits??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072218136", "query-text": "tax information", "response": ["tax id number???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072218137", "query-text": "leeks", "response": ["what does a leek look like?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072218139", "query-text": "return of car", "response": ["return of car rental agreement?nn"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072218226", "query-text": "Veal roti", "response": ["Veal roti recipe??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072218298", "query-text": "Lord of the Rings", "response": ["Lord of the rings movie?nn"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072218312", "query-text": "sign of land", "response": ["what is the sign of land??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072218315", "query-text": "coughed simone", "response": ["coughed simone johnson"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072218365", "query-text": "Blinds and curtains", "response": ["Curtains vs blinds?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072218428", "query-text": "Carpet Child Car", "response": ["Carpet car seat cover???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072218431", "query-text": "leek pie", "response": ["leek and potato pie recipe?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072218440", "query-text": "tax", "response": ["tax id number???????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072218453", "query-text": "fuel tax", "response": ["fuel consumption tax in india???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072218484", "query-text": "Veal tendron", "response": ["Veal tendrons recipe?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072218493", "query-text": "heather land", "response": ["heather hill england map of england"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072218500", "query-text": "Bedding grounds", "response": ["Bedding materials.???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072218571", "query-text": "toutsurmoneau", "response": ["tout sur mon ami?s?s"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072218602", "query-text": "download video facebook", "response": ["download facebook video video downloader downloader download"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072218603", "query-text": "download free video", "response": ["download free video player for pc?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072218803", "query-text": "fastest car in the world", "response": ["what is the fastest car in the world?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072218809", "query-text": "used car not looking", "response": ["where can i find a used car?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072218811", "query-text": "radar car", "response": ["radar detector car????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072230050", "query-text": "electric car", "response": ["electric car manufacturer????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072218819", "query-text": "cheap electric car", "response": ["electric car with range of 400 miles?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072218821", "query-text": "antique cars", "response": ["antique tvs for sale?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072218825", "query-text": "New cars", "response": ["New trucks for sale?rr"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072218894", "query-text": "free network state", "response": ["free network state dll download?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072218989", "query-text": "free android antivirus", "response": ["best antivirus for android phones???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072219134", "query-text": "car battery", "response": ["car battery charger????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072219176", "query-text": "beem energie", "response": ["beem app download???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072219211", "query-text": "In the United States, the number of inmates has been increasing.", "response": ["The number of inmates in the United States has been increasing."], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072219255", "query-text": "budget car rental", "response": ["budget car rental san diego ca"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072219260", "query-text": "standing desk", "response": ["how do you use a standing desk?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072219314", "query-text": "caf space lessor", "response": ["cafe space for rent in chennai"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072219329", "query-text": "camera car", "response": ["car camera recording????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072219532", "query-text": "Solar Water Heater", "response": ["Solar hot water system cost???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072219586", "query-text": "Chateau de la loire map", "response": ["Chateau de la vallée mapa"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072219673", "query-text": "removable bulkhead", "response": ["what is a bulkhead door?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072219732", "query-text": "police competition", "response": ["competition for police officers???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072219750", "query-text": "consumption electric car", "response": ["electric car consumption????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072219899", "query-text": "depletion fibre", "response": ["depletion layer cns?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072219918", "query-text": "direct energy", "response": ["direct current circuit?????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072220116", "query-text": "enedis customer space", "response": ["enedis customer service contact number?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072220118", "query-text": "cinetic energy", "response": ["cinetic artery?syndrome?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072220128", "query-text": "eni customer space", "response": ["eni customer care number?r"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072220136", "query-text": "air conditioning car maintenance", "response": ["car air condition maintenance???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072220147", "query-text": "free subscriber space", "response": ["free subscriber email address???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072220219", "query-text": "schengen space", "response": ["what countries are in the schengen zone?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072227648", "query-text": "emeraude space", "response": ["emeraude star system?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072220257", "query-text": "exoneration housing tax 2021", "response": ["exoneration housing tax 2017?n"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072220298", "query-text": "fontainebleau", "response": ["fontana di montagna salerno"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072220333", "query-text": "fumeterre officinale", "response": ["what is fumeterre satureiosa?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072220360", "query-text": "chocolate gateau", "response": ["chocolate fudge cake recipe??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072220400", "query-text": "Rolled grass", "response": ["Grass rolled up in a ball"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072220463", "query-text": "ukraine war map", "response": ["map of ukraine in the world"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072220627", "query-text": "registration pole emploi", "response": ["emploi pole emplois en francais"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072220717", "query-text": "the planet Earth", "response": ["the planet earth's moon??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072220839", "query-text": "martinic car rental", "response": ["car rental in cleveland airport ohio"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072220851", "query-text": "rental car bastia", "response": ["rental car salerno airports"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072220854", "query-text": "car rental dijon", "response": ["car rental aix en Provence"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072220862", "query-text": "rent-a-car lisbonne", "response": ["rent-a-car lisbonne france"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072220864", "query-text": "madere car rental", "response": ["car rental reykjavik iceland"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072220868", "query-text": "rental car montelimar", "response": ["car rental montelimar airport?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072220870", "query-text": "car rental naples", "response": ["car rental florence italy?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072220875", "query-text": "reindeer car rental", "response": ["car rental in rochester new york"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072220878", "query-text": "seville car rental", "response": ["car rental in turin airport?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072220879", "query-text": "rental car valence tgv", "response": ["rental car valence airport tgv"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072220926", "query-text": "Law of the Coast", "response": ["Law of the Sea Convention?nn"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072221028", "query-text": "Police Major", "response": ["Police officer rank????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072221035", "query-text": "paris event", "response": ["event to paris france?n"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072221054", "query-text": "brothel massage", "response": ["massage for men?????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072221084", "query-text": "melissa laveaux", "response": ["melissa c. laveaux"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072221165", "query-text": "electric motor car", "response": ["electric car battery type???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072221400", "query-text": "Vessel Permit", "response": ["Vessel license?nnI have a vessel permit."], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072221533", "query-text": "Potatoes", "response": ["Potatoes as food?|what is potato?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072229169", "query-text": "potato microwave", "response": ["potato chip microwave????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072229183", "query-text": "sauteed potatoes", "response": ["sauteed sweet potato???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072221582", "query-text": "Police prefecture", "response": ["Police force in India?nn"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072221602", "query-text": "pret car", "response": ["'s car?'s car"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072221608", "query-text": "premium electric car", "response": ["electric car manufacturer????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072221724", "query-text": "recipe lemon cake", "response": ["lemon cake recipe from scratch?|lemon cake recipe from scratch?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072229324", "query-text": "recipe with potato", "response": ["potato recipe????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072221765", "query-text": "Reduce taxes", "response": ["Reduce income tax..? I owe the government a lot."], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072221849", "query-text": "curtain the redoubt", "response": ["the redoubt curtains??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072221916", "query-text": "National Police salary", "response": ["National police force salary?nn"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072221934", "query-text": "saône and loire", "response": ["saône and loire"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072221976", "query-text": "sophie marceau", "response": ["sophie marceau pictures?n"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072221979", "query-text": "sosh customer space", "response": ["sosh customer service number?n"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072221991", "query-text": "parking", "response": ["parking meter location???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072222007", "query-text": "sylvie retailleau", "response": ["sylvie reynaud"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072222059", "query-text": "refund fee", "response": ["refunds policy??????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072222111", "query-text": "land of france", "response": ["land of the free????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072222182", "query-text": "transfer of funds", "response": ["transfer of funds in a bank account?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072222187", "query-text": "carriage of motor vehicles", "response": ["carriage of vehicles by road in nepal"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072222257", "query-text": "veolia client space", "response": ["veolia client login page?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072222274", "query-text": "video chat", "response": ["video chat rooms?nnwhat is a video chat room?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072222390", "query-text": "reliable car", "response": ["reliable cars????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072222407", "query-text": "Tesla car", "response": ["tesla model s review?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072222467", "query-text": "+18 video", "response": ["+18 video clip?????????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072222482", "query-text": "sun car shelter", "response": ["what is a car sun shade??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072222493", "query-text": "purchase car", "response": ["purchase car insurance online???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072222575", "query-text": "free anti-virus", "response": ["free anti virus software????????????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072222576", "query-text": "free mac antivirus", "response": ["best free antivirus for mac????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072222604", "query-text": "A.", "response": ["A.S.G.A.M."], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072222608", "query-text": "Land Force", "response": ["Land battles of the American Civil War."], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072222658", "query-text": "bache car", "response": ["bache cds album list"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072222669", "query-text": "Argentine barbecue", "response": ["Barbecue in argentina"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072222716", "query-text": "battery electric car", "response": ["what is a battery electric car?|what is an electric car battery?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072222717", "query-text": "bbox customer space", "response": ["bbox customer service number?n"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072222808", "query-text": "Electric car terminal", "response": ["Electric car chargers???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072222931", "query-text": "camping argenton sur creuse", "response": ["camping argenton sur creuse en pyrénées"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072222961", "query-text": "cement tiles", "response": ["cement tiles in chennai?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072223003", "query-text": "argentan aquatic centre", "response": ["argentina aquatic centre address? argentina aquatic centre hours?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072223034", "query-text": "change of situation employment pole", "response": ["employment change of situation pole????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072223043", "query-text": "hat panama", "response": ["hats in panama city beach"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072223047", "query-text": "electric car charger", "response": ["what is an electric car? what is the range of an electric car?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072223164", "query-text": "solar water heater", "response": ["solar water heating system cost???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072223377", "query-text": "In-house", "response": ["In-house productions?|In-house productions?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072223406", "query-text": "convert video to mp4", "response": ["convert mp4 to avi online free"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072223428", "query-text": "car rating", "response": ["car rating site?????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072223443", "query-text": "lumbar cushion car", "response": ["lumbar support pillow car??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072223445", "query-text": "knife", "response": ["what is a good knife??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072223480", "query-text": "car credit", "response": ["car credit card????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072223499", "query-text": "cooking sausage of morteau", "response": ["cooking sausage of fennel??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072223583", "query-text": "domespace", "response": ["domes for sale texas?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072223728", "query-text": "employment and environment", "response": ["employment and economics????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072223729", "query-text": "employment and", "response": ["employment opportunities in iowa city?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072223771", "query-text": "free energy", "response": ["what is free energy? what is free energy of motion?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072223961", "query-text": "land formation", "response": ["land formation in hindi?|land formation in hindi?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072224048", "query-text": "milk gateau", "response": ["milk cake recipe????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072224069", "query-text": "brothel gases", "response": ["what is the gas in a brothel?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072224111", "query-text": "gooseberry", "response": ["gooseberry bush????????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072224143", "query-text": "Ukrainian War", "response": ["World War I in Ukraine?|World War I in Ukraine?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072224250", "query-text": "horoscope bull", "response": ["horoscope scorpio"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072224251", "query-text": "horoscope", "response": ["horoscope for june 8"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072224274", "query-text": "humour video", "response": ["humourous videos???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072224380", "query-text": "war games battle panic", "response": ["war games wiki???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072224387", "query-text": "johnny depp", "response": ["johnny depps net worth"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072224397", "query-text": "kairos pole emploi", "response": ["kairos emploi en ligne"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072228375", "query-text": "Car rental", "response": ["Car rental in st. louis"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072224572", "query-text": "rental car avignon tgv", "response": ["rental car avignon airport tgv"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072224573", "query-text": "bari car rental", "response": ["bari airport car rental parking?n"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072224578", "query-text": "Italian car rental", "response": ["Italian car hire????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072224582", "query-text": "car rental marseille", "response": ["car rental aix en provence"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072224585", "query-text": "rental car montpellier", "response": ["rental car in rome?nn"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072224586", "query-text": "used car rental", "response": ["car rental sydney airport?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072228381", "query-text": "cheap car rental", "response": ["cheap car hire in london lg"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072224594", "query-text": "free video editing software", "response": ["what is the best free video editing software?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072224645", "query-text": "Act pinel", "response": ["Act neem..?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072224683", "query-text": "recreation auctions", "response": ["what is the best way to find recreation auctions?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072224750", "query-text": "house for sale in Sarzeau", "response": ["house for sale in st pierre nl"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072224924", "query-text": "memo pole employment", "response": ["employment memo template word 2003?|employment memo template word 2007?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072224942", "query-text": "the", "response": ["the movie????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072224954", "query-text": "cleaning car", "response": ["cleaning car seats?????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072224959", "query-text": "Bulkhead nose", "response": ["Bulkhead vs. slut"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072224980", "query-text": "silver wedding", "response": ["silver wedding anniversary gift ideas?|silver wedding anniversary?|silver anniversary?|silver jubilee?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072224991", "query-text": "hedgehog food", "response": ["hedgehog food to make at home??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072225093", "query-text": "pajemploi", "response": ["pajemploi en france?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072225161", "query-text": "pathé levallois", "response": ["pathé liège horaires"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072225197", "query-text": "on-call pharmacy", "response": ["pharmacy on call near me???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072225240", "query-text": "plant leeks", "response": ["plant leeks in pots?|plant leeks?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072225288", "query-text": "employment cv", "response": ["employment cv.com.ph"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072225293", "query-text": "pole emploi evenements", "response": ["emploi en afrique d'afrique"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072225340", "query-text": "straw potato", "response": ["straw and hay bales for sale"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072225365", "query-text": "Police card holder", "response": ["Police card holder etsy"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072225415", "query-text": "price per barrel of oil", "response": ["oil barrel price today???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072225418", "query-text": "used car price", "response": ["used car prices uk???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072229275", "query-text": "water bug", "response": ["bug catcher water bottle???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072225489", "query-text": "cake recipe", "response": ["cake recipe for kids???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072225497", "query-text": "recipe gateau breton", "response": ["recipe for a breton cake"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072225502", "query-text": "vanilla gateau recipe", "response": ["vanilla sponge cake recipe?br>"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072225518", "query-text": "recipe lamb mouse", "response": ["recipe for lamb chops with mint sauce?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072225552", "query-text": "trailer car", "response": ["car trailers for sale???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072225564", "query-text": "free network", "response": ["free internet network????????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072225569", "query-text": "reseau sfr", "response": ["reseau de transport de la ville de paris"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072229498", "query-text": "Spring roll", "response": ["Spring roll recipe?nnI would like to have a spring roll recipe that is not too complicated."], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072225772", "query-text": "candied lamb mice", "response": ["candied bacon??????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072225805", "query-text": "smartphone car support", "response": ["car support for smartphone???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072225809", "query-text": "black elder", "response": ["black elderberry juice recipe?|black elderberry juice benefits?|black elderberry juice edmunds?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072225826", "query-text": "table amortization", "response": ["amortization schedule?nnn"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072225856", "query-text": "Argentine tango", "response": ["Argentine tango music?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072225864", "query-text": "bull", "response": ["bullshit????????????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072225867", "query-text": "tax rates", "response": ["tax rate california?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072225870", "query-text": "carbon tax", "response": ["carbon tax canada?????????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072225901", "query-text": "roof tent car", "response": ["roof tents for cars???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072225903", "query-text": "ter country of residence", "response": ["country of residence of sydney"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072225912", "query-text": "land d3 wines", "response": ["what are d3 wines?n"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072225974", "query-text": "tracer car", "response": ["tracer car drawing??????????????????????????????????????????????????????????????????????????????????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072225976", "query-text": "traffic", "response": ["traffic jams in chennai"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072225993", "query-text": "transport by car", "response": ["how to transport a car??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072226034", "query-text": "valley", "response": ["valleys in california"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072226040", "query-text": "Veal", "response": ["Veal ribs???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072226053", "query-text": "earthworm", "response": ["earthworms in the ground??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072226054", "query-text": "earthworm production", "response": ["earthworms in a worm farm"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072226155", "query-text": "videoprojector", "response": ["dvr video recorder?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072226188", "query-text": "computer virus", "response": ["computer virus definition?????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072226194", "query-text": "English visa", "response": ["visa to ukrainian embassy?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072226199", "query-text": "living without money", "response": ["how do you live without money??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072226203", "query-text": "old car", "response": ["old cars for sale in texas"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072226207", "query-text": "collector car", "response": ["collector car value????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072226208", "query-text": "car ds", "response": ["ds xl car charger?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072226209", "query-text": "economy car", "response": ["economy car rental near me?nn"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072226211", "query-text": "electric car lld", "response": ["electric car battery life?|electric car battery life?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072226213", "query-text": "electric car toyota", "response": ["electric car toyota prius"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072226227", "query-text": "Mini car", "response": ["Mini Cooper car?????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072226341", "query-text": "shelter car wood", "response": ["shelter car in a forest??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072226419", "query-text": "amazone prime video", "response": ["what movies are on amazon prime??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072226483", "query-text": "arena bordeaux", "response": ["arena nantes bordeaux?n"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072226488", "query-text": "silverwood", "response": ["silverwood tv series cast members?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072226493", "query-text": "argentum nitricum", "response": ["argentum nitricum argentum"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072226511", "query-text": "insurance for young drivers", "response": ["car insurance for young drivers under 25??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072226616", "query-text": "beaune", "response": ["burgundy wine region?s?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072226646", "query-text": "bernard giraudeau", "response": ["bernard giraudeau's"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072226659", "query-text": "periwinkles cooking", "response": ["What is the best way to cook periwinkles?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072226693", "query-text": "ecologic bonus electric car", "response": ["electric car tax credit???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072226718", "query-text": "silver bracelet woman", "response": ["silver bracelet for womens gift??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072226742", "query-text": "ikea office", "response": ["ikea office chair price???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072226852", "query-text": "ukraine war map", "response": ["map of the ukraine war in 1854"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072226868", "query-text": "cdiscount energie", "response": ["cdiscount code energy?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072226926", "query-text": "chat video", "response": ["chat video online?????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072226979", "query-text": "murol cake", "response": ["kola nut cake recipe for 1"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072227028", "query-text": "auxiliary oil heating", "response": ["oil heating system????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072227129", "query-text": "sky and space", "response": ["space tv series???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072227168", "query-text": "sliding bulkhead", "response": ["sliding sash windows?|sliding sash windows?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072227192", "query-text": "code triche gta 5 ps4 silver", "response": ["code triche gta 5 ps4 gold"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072227222", "query-text": "comparative hybrid cars", "response": ["what are some good hybrid cars??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072227226", "query-text": "competition to win car", "response": ["how to win a car??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072227252", "query-text": "Free video converter", "response": ["Free video downloader software?nn"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072227337", "query-text": "cooking meal", "response": ["cooking for 1 person???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072227347", "query-text": "water tank", "response": ["water tanker truck/a>/a>"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072227398", "query-text": "distance land mars", "response": ["how to land on mars????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072227461", "query-text": "solar hot water", "response": ["solar hot water system cost???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072227496", "query-text": "saving money trick", "response": ["how to save money?|saving money tips|saving money hack|saving money tips for students|how to save money?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072227587", "query-text": "save video on pc", "response": ["how to save a video on pc?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072227632", "query-text": "client space eni", "response": ["client space eni fda"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072227635", "query-text": "customer space mobile mail", "response": ["customer space mobile number???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072227640", "query-text": "customer space sfr.fr", "response": ["customer space sfr.ch?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072227675", "query-text": "space health", "response": ["space health education program?|space health education program?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072227714", "query-text": "expo landerneau", "response": ["expo de landerneau 2012?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072227764", "query-text": "Calf liver", "response": ["Cow liver????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072227776", "query-text": "training pole employment", "response": ["employment training programs in texas?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072227877", "query-text": "gigiclozeau", "response": ["clozeau's law of attraction"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072227935", "query-text": "war and peace", "response": ["war and peace book???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072228195", "query-text": "white water", "response": ["water polo team name??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072228201", "query-text": "the beauce", "response": ["the beetlejuice movie?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072228365", "query-text": "loa car", "response": ["car aia?l?a?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072228367", "query-text": "loa electric car", "response": ["electric car prices uk???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072228378", "query-text": "car rental limoges", "response": ["car rental bilbao airports"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072228393", "query-text": "one-way car rental", "response": ["one way car rental phoenix az"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072228395", "query-text": "rental car notice", "response": ["rental car return location?nn"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072228406", "query-text": "Malaga car rental", "response": ["car rental in malaga airport malaga airport"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072228416", "query-text": "car rental meeting", "response": ["car rental in europe meeting??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072228491", "query-text": "loir", "response": ["loir en anglais?n"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072228643", "query-text": "best free antivirus for android", "response": ["best free antivirus for windows 10?n"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072228646", "query-text": "best hybrid car", "response": ["what is the best hybrid car??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072228720", "query-text": "my free mobile space", "response": ["aadhaar number of mobile"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072228835", "query-text": "turtle food", "response": ["turtles food????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072228901", "query-text": "garden birds", "response": ["bird watching in texas?s"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072229092", "query-text": "ground pear", "response": ["ground beef and pork?|ground beef vs pork?|ground beef vs pork fat?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072229163", "query-text": "polish car", "response": ["how to polish a car??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072229180", "query-text": "stuffed potatoes", "response": ["stuffed sweet potatoes recipes?|stuffed sweet potatoes?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072229328", "query-text": "recipe for knives", "response": ["What is the best recipe for a knife?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072229341", "query-text": "recipe chocolate cake", "response": ["chocolate cake recipe from scratch?|chocolate cake recipe from scratch?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072229460", "query-text": "The curtain", "response": ["The curtains.nThe curtains were hung."], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072229545", "query-text": "salad tuna potatoes", "response": ["potatoes salad recipe?.?.?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072229706", "query-text": "Residential tax second residence", "response": ["what is residential tax? how do you calculate it?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072229725", "query-text": "download video vimeo", "response": ["download video hd vimeo?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072229776", "query-text": "viruskeeper test", "response": ["virus keeper free download???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072229797", "query-text": "Bordeaux tourism", "response": ["Bordeaux weather forecast?nnBordeaux tourism?nnBordeaux airport?nnBordeaux weather?nnBordeaux tourism?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072229887", "query-text": "sales farm business", "response": ["sales farm kingsway edmonton"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072229888", "query-text": "sales agricultural land", "response": ["agricultural land for sale in kerala"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072229954", "query-text": "video surveillance", "response": ["video surveillance for home security???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072229958", "query-text": "video twitter", "response": ["twitter video downloader?nn"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072230046", "query-text": "used car", "response": ["used cars for sale in san diego ca"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072230066", "query-text": "used electric car", "response": ["used electric cars for sale in florida"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072230072", "query-text": "collector cars", "response": ["collector car insurance????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "q072230074", "query-text": "Electric cars", "response": ["electric car manufacturers????"], "metadata": {"model": "flan-ul2"}}

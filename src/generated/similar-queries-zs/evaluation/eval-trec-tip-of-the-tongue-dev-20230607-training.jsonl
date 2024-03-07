@@ -1,0 +1,12 @@
+{"name":"BM25","ndcg_cut.10":0.1038247486,"recall_1000":0.52,"dataset":"trec-tip-of-the-tongue-dev-20230607-training","model":"flan-ul2"}
+{"name":"BM25+RM3","ndcg_cut.10":0.0561332972,"recall_1000":0.38,"dataset":"trec-tip-of-the-tongue-dev-20230607-training","model":"flan-ul2"}
+{"name":"BM25+KL","ndcg_cut.10":0.0890470157,"recall_1000":0.52,"dataset":"trec-tip-of-the-tongue-dev-20230607-training","model":"flan-ul2"}
+{"name":"BM25+Q2E\/ZS","ndcg_cut.10":0.1061032306,"recall_1000":0.52,"dataset":"trec-tip-of-the-tongue-dev-20230607-training","model":"flan-ul2"}
+{"name":"BM25","ndcg_cut.10":0.1038247486,"recall_1000":0.52,"dataset":"trec-tip-of-the-tongue-dev-20230607-training","model":"llama"}
+{"name":"BM25+RM3","ndcg_cut.10":0.0561332972,"recall_1000":0.38,"dataset":"trec-tip-of-the-tongue-dev-20230607-training","model":"llama"}
+{"name":"BM25+KL","ndcg_cut.10":0.0890470157,"recall_1000":0.52,"dataset":"trec-tip-of-the-tongue-dev-20230607-training","model":"llama"}
+{"name":"BM25+Q2E\/ZS","ndcg_cut.10":0.1130760721,"recall_1000":0.5466666667,"dataset":"trec-tip-of-the-tongue-dev-20230607-training","model":"llama"}
+{"name":"BM25","ndcg_cut.10":0.1038247486,"recall_1000":0.52,"dataset":"trec-tip-of-the-tongue-dev-20230607-training","model":"gpt"}
+{"name":"BM25+RM3","ndcg_cut.10":0.0561332972,"recall_1000":0.38,"dataset":"trec-tip-of-the-tongue-dev-20230607-training","model":"gpt"}
+{"name":"BM25+KL","ndcg_cut.10":0.0890470157,"recall_1000":0.52,"dataset":"trec-tip-of-the-tongue-dev-20230607-training","model":"gpt"}
+{"name":"BM25+Q2E\/ZS","ndcg_cut.10":0.1119744525,"recall_1000":0.54,"dataset":"trec-tip-of-the-tongue-dev-20230607-training","model":"gpt"}

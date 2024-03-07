@@ -1,0 +1,49 @@
+{"query-id": "1", "query-text": "Should teachers get tenure?", "response": "Pros and cons of tenure for teachers?", "metadata": {"model": "llama"}}
+{"query-id": "2", "query-text": "Is vaping with e-cigarettes safe?", "response": "Is vaping safer than smoking?", "metadata": {"model": "llama"}}
+{"query-id": "3", "query-text": "Should insider trading be allowed?", "response": "Is insider trading illegal?", "metadata": {"model": "llama"}}
+{"query-id": "4", "query-text": "Should corporal punishment be used in schools?", "response": "Benefits of using positive reinforcement in schools", "metadata": {"model": "llama"}}
+{"query-id": "5", "query-text": "Should social security be privatized?", "response": "Pros and cons of privatizing social security.", "metadata": {"model": "llama"}}
+{"query-id": "6", "query-text": "Is a college education worth it?", "response": "Is a college degree worth the cost?", "metadata": {"model": "llama"}}
+{"query-id": "7", "query-text": "Should felons who have completed their sentence be allowed to vote?", "response": "What are the arguments for and against felons voting after serving their sentence?", "metadata": {"model": "llama"}}
+{"query-id": "8", "query-text": "Should abortion be legal?", "response": "Arguments for and against the legalization of abortion.", "metadata": {"model": "llama"}}
+{"query-id": "9", "query-text": "Should students have to wear school uniforms?", "response": "What are the benefits and drawbacks of requiring school uniforms for students?", "metadata": {"model": "llama"}}
+{"query-id": "10", "query-text": "Should any vaccines be required for children?", "response": "What vaccines are recommended for children?", "metadata": {"model": "llama"}}
+{"query-id": "11", "query-text": "Should performance-enhancing drugs be accepted in sports?", "response": "What are the pros and cons of using performance-enhancing drugs in sports?", "metadata": {"model": "llama"}}
+{"query-id": "12", "query-text": "Should birth control pills be available over the counter?", "response": "Pros and cons of making birth control pills available over-the-counter.", "metadata": {"model": "llama"}}
+{"query-id": "13", "query-text": "Can alternative energy effectively replace fossil fuels?", "response": "What are the pros and cons of alternative energy sources compared to fossil fuels?", "metadata": {"model": "llama"}}
+{"query-id": "14", "query-text": "Is sexual orientation determined at birth?", "response": "Is sexual orientation genetic?", "metadata": {"model": "llama"}}
+{"query-id": "15", "query-text": "Should animals be used for scientific or commercial testing?", "response": "What are the ethical considerationsrelated to animal testing for scientific or commercial purposes?", "metadata": {"model": "llama"}}
+{"query-id": "16", "query-text": "Should prescription drugs be advertised directly to consumers?", "response": "Pros and cons of direct-to-consumer drug advertising.", "metadata": {"model": "llama"}}
+{"query-id": "17", "query-text": "Should recreational marijuana be legal?", "response": "Arguments for and against the legalization of recreational marijuana.", "metadata": {"model": "llama"}}
+{"query-id": "18", "query-text": "Should churches remain tax-exempt?", "response": "Why do churches still deserve tax-exempt status?", "metadata": {"model": "llama"}}
+{"query-id": "19", "query-text": "Should gay marriage be legal?", "response": "Arguments for and against gay marriage legalization", "metadata": {"model": "llama"}}
+{"query-id": "20", "query-text": "Is drinking milk healthy for humans?", "response": "Benefits of a plant-based diet and how it can improve overall health.", "metadata": {"model": "llama"}}
+{"query-id": "21", "query-text": "Is human activity primarily responsible for global climate change?", "response": "Is human activity the major cause of global climate change?", "metadata": {"model": "llama"}}
+{"query-id": "22", "query-text": "Is a two-state solution an acceptable solution to the Israeli-Palestinian conflict?", "response": "What are the pros and cons of a two-state solution to the Israeli-Palestinian conflict?", "metadata": {"model": "llama"}}
+{"query-id": "23", "query-text": "Should euthanasia or physician-assisted suicide be legal?", "response": "Pros and cons of euthanasia or physician-assisted suicide.", "metadata": {"model": "llama"}}
+{"query-id": "24", "query-text": "Does lowering the federal corporate income tax rate create jobs?", "response": "What are the potential benefits and drawbacks of lowering the federal corporate income tax rate?", "metadata": {"model": "llama"}}
+{"query-id": "26", "query-text": "Do standardized tests improve education?", "response": "What are the pros and cons of standardized tests in education?", "metadata": {"model": "llama"}}
+{"query-id": "27", "query-text": "Should more gun control laws be enacted?", "response": "What are the arguments for and against stricter gun control laws?", "metadata": {"model": "llama"}}
+{"query-id": "28", "query-text": "Should prostitution be legal?", "response": "Arguments for and against legalizing prostitution.", "metadata": {"model": "llama"}}
+{"query-id": "29", "query-text": "Should the government allow illegal immigrants to become citizens?", "response": "What are the benefits and drawbacks of granting citizenship to undocumented immigrants?", "metadata": {"model": "llama"}}
+{"query-id": "30", "query-text": "Should adults have the right to carry a concealed handgun?", "response": "Arguments for and against the right to carry a concealed handgun for adults?", "metadata": {"model": "llama"}}
+{"query-id": "31", "query-text": "Is obesity a disease?", "response": "Definition of obesity as a disease.", "metadata": {"model": "llama"}}
+{"query-id": "32", "query-text": "Do electronic voting machines improve the voting process?", "response": "Advantages of electronic voting machines over traditional voting systems?", "metadata": {"model": "llama"}}
+{"query-id": "33", "query-text": "Should people become vegetarian?", "response": "Benefits of a vegetarian diet, alternatives to meat, and health and environmental benefits of a plant-based diet.", "metadata": {"model": "llama"}}
+{"query-id": "34", "query-text": "Are social networking sites good for our society?", "response": "What are the benefits and drawbacks of social networking sites for society?", "metadata": {"model": "llama"}}
+{"query-id": "35", "query-text": "Do violent video games contribute to youth violence?", "response": "The impact of violent media on social behavior, including video games and other forms of media, and its relationship to violence in society.", "metadata": {"model": "llama"}}
+{"query-id": "36", "query-text": "Is golf a sport?", "response": "What are the benefits of golf as a sport?", "metadata": {"model": "llama"}}
+{"query-id": "37", "query-text": "Is cell phone radiation safe?", "response": "Effects of cell phone radiation on health", "metadata": {"model": "llama"}}
+{"query-id": "38", "query-text": "Should marijuana be a medical option?", "response": "How does marijuana differ from other medical treatments?", "metadata": {"model": "llama"}}
+{"query-id": "39", "query-text": "Should the federal minimum wage be increased?", "response": "Perspectives on the minimum wage increase", "metadata": {"model": "llama"}}
+{"query-id": "40", "query-text": "Should the death penalty be allowed?", "response": "Arguments for and against the death penalty.", "metadata": {"model": "llama"}}
+{"query-id": "41", "query-text": "Should student loan debt be easier to discharge in bankruptcy?", "response": "What are the benefits and drawbacks of discharging student loan debt in bankruptcy?", "metadata": {"model": "llama"}}
+{"query-id": "42", "query-text": "Should fighting be allowed in hockey?", "response": "Rules and regulations for hockey fights.", "metadata": {"model": "llama"}}
+{"query-id": "43", "query-text": "Should bottled water be banned?", "response": "Alternatives to bottled water.", "metadata": {"model": "llama"}}
+{"query-id": "44", "query-text": "Should election day be a national holiday?", "response": "Pros and cons of making election day a national holiday.", "metadata": {"model": "llama"}}
+{"query-id": "45", "query-text": "Should the penny stay in circulation?", "response": "Is it worth keeping the penny in circulation?", "metadata": {"model": "llama"}}
+{"query-id": "46", "query-text": "Should net neutrality be restored?", "response": "Pros and cons of net neutrality restore.", "metadata": {"model": "llama"}}
+{"query-id": "47", "query-text": "Is homework beneficial?", "response": "Effects of homework on students.", "metadata": {"model": "llama"}}
+{"query-id": "48", "query-text": "Should the voting age be lowered?", "response": "Pros and cons of lowering the voting age to 16.", "metadata": {"model": "llama"}}
+{"query-id": "49", "query-text": "Should body cameras be mandatory for police?", "response": "Pros and cons of mandatory body cameras for police officers.", "metadata": {"model": "llama"}}
+{"query-id": "50", "query-text": "Should everyone get a universal basic income?", "response": "Pros and cons of universal basic income.", "metadata": {"model": "llama"}}

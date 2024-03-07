@@ -1,0 +1,325 @@
+{"query-id": "PLAIN-1008", "query-text": "deafness", "response": "Causes of deafness", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1018", "query-text": "dha", "response": "What is DHA and its benefits?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-102", "query-text": "stopping heart disease in childhood", "response": "Preventing heart disease in children", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1028", "query-text": "dietary scoring", "response": "How to calculate dietary scores", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1039", "query-text": "domoic acid", "response": "What is domoic acid and its effects?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1050", "query-text": "dr. dean ornish", "response": "Information about Dr. Dean Ornish", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1066", "query-text": "dr. walter willett", "response": "Information about Dr. Walter Willett", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1078", "query-text": "duncan hines", "response": "Popular Duncan Hines cake mix flavors", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1088", "query-text": "ecmo", "response": "What is ECMO and how does it work?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1098", "query-text": "eggnog", "response": "Recipes for homemade eggnog", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1109", "query-text": "endocrine disruptors", "response": "What are common sources of endocrine disruptors?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1119", "query-text": "energy drinks", "response": "Types of energy drinks", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-112", "query-text": "food dyes and adhd", "response": "Research on the link between food dyes and ADHD", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1130", "query-text": "ergothioneine", "response": "What is ergothioneine and its benefits?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1141", "query-text": "evidence-based medicine", "response": "What is evidence-based medicine and how is it used in healthcare?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1151", "query-text": "factory farming practices", "response": "Impact of factory farming practices", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1161", "query-text": "fava beans", "response": "Recipes using fava beans", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1172", "query-text": "fenugreek", "response": "Benefits of fenugreek", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1183", "query-text": "finland", "response": "Explore Finland", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1193", "query-text": "flax oil", "response": "Benefits of flax oil", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-12", "query-text": "exploiting autophagy to live longer", "response": "Benefits of autophagy for longevity", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1203", "query-text": "folic acid", "response": "Benefits of taking folic acid", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1214", "query-text": "fosamax", "response": "What is Fosamax used for?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1225", "query-text": "fructose", "response": "What is fructose and its effects on the body?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-123", "query-text": "how citrus might help keep your hands warm", "response": "Benefits of using citrus to keep hands warm", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1236", "query-text": "galactosemia", "response": "What is galactosemia and its symptoms?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1249", "query-text": "genetic manipulation", "response": "What is genetic manipulation and its implications?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1262", "query-text": "global burden of disease study", "response": "Latest findings from the global burden of disease study", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1275", "query-text": "goji berries", "response": "Benefits of goji berries", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1288", "query-text": "grapes", "response": "Types of grapes", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1299", "query-text": "growth promoters", "response": "What are some natural growth promoters for plants?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1309", "query-text": "halibut", "response": "Halibut recipes", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1320", "query-text": "harvard physicians ’ study ii", "response": "Harvard Physicians' Study II details", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-133", "query-text": "starving tumors of their blood supply", "response": "Methods to cut off the blood supply to tumors", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1331", "query-text": "hearing", "response": "What are common causes of hearing loss?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1342", "query-text": "heme iron", "response": "What is heme iron and its sources?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1353", "query-text": "hernia", "response": "Types of hernias", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1363", "query-text": "hiroshima", "response": "History of Hiroshima", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1374", "query-text": "hormonal dysfunction", "response": "Causes of hormonal dysfunction", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1387", "query-text": "hyperactivity", "response": "Symptoms of hyperactivity", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1398", "query-text": "igf-1", "response": "What is the role of IGF-1 in the body?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1409", "query-text": "industrial toxins", "response": "Common industrial toxins", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1419", "query-text": "insects", "response": "Different types of insects", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1429", "query-text": "iowa women ’ s health study", "response": "Findings from the Iowa Women's Health Study", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-143", "query-text": "are dental x-rays safe ?", "response": "Safety of dental x-rays", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1441", "query-text": "japan", "response": "Traveling to Japan", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1453", "query-text": "junk food", "response": "Unhealthy snack options", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1463", "query-text": "kidney beans", "response": "Different types of beans", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1473", "query-text": "kohlrabi", "response": "What are some recipes using kohlrabi?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1485", "query-text": "lard", "response": "What is lard and how is it used in cooking?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1496", "query-text": "leeks", "response": "Different ways to cook with leeks", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1506", "query-text": "leucine", "response": "Benefits of leucine", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1516", "query-text": "lindane", "response": "Information about lindane", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1527", "query-text": "liver disease", "response": "Types of liver diseases", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-153", "query-text": "how should i take probiotics ?", "response": "Best way to take probiotics", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1537", "query-text": "low-carb diets", "response": "Benefits of a low-carb diet", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1547", "query-text": "lyme disease", "response": "Symptoms of Lyme disease", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1557", "query-text": "magnesium", "response": "Benefits of magnesium", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1568", "query-text": "maple syrup", "response": "Different types of maple syrup", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1579", "query-text": "mastitis", "response": "Symptoms and treatment of mastitis", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1590", "query-text": "medical ethics", "response": "Ethical considerations in the medical field", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1601", "query-text": "memory", "response": "How to improve memory?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1611", "query-text": "mesquite", "response": "Uses of mesquite wood", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1621", "query-text": "mevacor", "response": "Information about Mevacor", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1635", "query-text": "milk", "response": "Different types of milk", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1645", "query-text": "molasses", "response": "Uses of molasses", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-165", "query-text": "breast cancer & alcohol : how much is safe ?", "response": "Effects of alcohol on breast cancer risk", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1656", "query-text": "mouth cancer", "response": "Oral cancer", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1667", "query-text": "muscle health", "response": "Tips for maintaining muscle health", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1679", "query-text": "myelopathy", "response": "What are the symptoms of myelopathy?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1690", "query-text": "national academy of sciences", "response": "Role and functions of the National Academy of Sciences", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1700", "query-text": "native americans", "response": "History and culture of Native Americans", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1710", "query-text": "neurocysticercosis", "response": "What is neurocysticercosis?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1721", "query-text": "nih-aarp study", "response": "Details about the NIH-AARP study", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1731", "query-text": "norovirus", "response": "Symptoms and treatment of norovirus", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1741", "query-text": "nuts", "response": "Different types of nuts", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-175", "query-text": "diet and cellulite", "response": "Tips for reducing cellulite through diet", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1752", "query-text": "okra", "response": "What are some popular dishes made with okra?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1762", "query-text": "oral intraepithelial neoplasia", "response": "Oral dysplasia", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1772", "query-text": "organotins", "response": "What are the uses of organotins?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1784", "query-text": "oxen meat", "response": "What dishes can be made with oxen meat?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1794", "query-text": "panama", "response": "Facts about Panama", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1805", "query-text": "parkinson 's disease", "response": "What are the symptoms of Parkinson's disease?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1817", "query-text": "peanut butter", "response": "Different types of peanut butter", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1827", "query-text": "peoria", "response": "What are some attractions in Peoria, Illinois?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1837", "query-text": "pesticides", "response": "Types of pesticides", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1847", "query-text": "philippines", "response": "Travel guide to the Philippines", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1857", "query-text": "phytic acid", "response": "What is phytic acid and its effects on health?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-186", "query-text": "best treatment for constipation", "response": "Effective treatments for constipation", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1867", "query-text": "pineapples", "response": "Different ways to enjoy pineapples", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1877", "query-text": "plant-based diet", "response": "Benefits of following a plant-based diet", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1887", "query-text": "poisonous plants", "response": "Common poisonous plants", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1897", "query-text": "polypropylene plastic", "response": "What are the uses of polypropylene plastic?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1909", "query-text": "pork", "response": "Different cuts of pork", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1919", "query-text": "poultry workers", "response": "Workers in the poultry industry", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1929", "query-text": "prenatal vitamins", "response": "Best prenatal vitamins to take", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1940", "query-text": "prolactin", "response": "Functions of prolactin", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1950", "query-text": "prunes", "response": "Benefits of eating prunes", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-196", "query-text": "should we avoid titanium dioxide ?", "response": "Is titanium dioxide safe to consume?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1962", "query-text": "pumpkin", "response": "Different ways to cook with pumpkin", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1972", "query-text": "quinine", "response": "Uses and benefits of quinine", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1983", "query-text": "rapamycin", "response": "What is rapamycin used for?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-1995", "query-text": "red tea", "response": "Types of red tea", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2", "query-text": "do cholesterol statin drugs cause breast cancer ?", "response": "Can statin drugs increase the risk of breast cancer?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2009", "query-text": "rhabdomyolysis", "response": "What are the symptoms and treatment for rhabdomyolysis?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2019", "query-text": "rickets", "response": "Symptoms and treatment of rickets", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2030", "query-text": "rutin", "response": "Benefits of rutin", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2040", "query-text": "salmon", "response": "Different ways to cook salmon", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2051", "query-text": "saturated fat", "response": "Foods high in saturated fat", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2061", "query-text": "seafood", "response": "Types of seafood", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-207", "query-text": "avoiding cooked meat carcinogens", "response": "Tips for reducing exposure to carcinogens in cooked meat", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2071", "query-text": "serotonin", "response": "What is serotonin and its functions in the body?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2081", "query-text": "shelf life", "response": "What is the shelf life of [specific product]?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2092", "query-text": "sirtuins", "response": "What are sirtuins and their role in health?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2102", "query-text": "smoking", "response": "Effects of smoking on health", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2113", "query-text": "soil health", "response": "Importance of soil health", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2124", "query-text": "spearmint", "response": "Uses of spearmint", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2134", "query-text": "splenda", "response": "Uses of splenda", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2145", "query-text": "st. john 's wort", "response": "Benefits of St. John's Wort", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2156", "query-text": "stevia", "response": "Benefits of using stevia", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2167", "query-text": "subsidies", "response": "Government subsidies", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-217", "query-text": "plant-based diets for psoriasis", "response": "Benefits of plant-based diets for psoriasis", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2177", "query-text": "sulfur", "response": "Uses and benefits of sulfur", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2187", "query-text": "suppositories", "response": "Types of suppositories", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2197", "query-text": "sweeteners", "response": "Types of natural sweeteners", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2209", "query-text": "taro", "response": "What are some recipes using taro?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2220", "query-text": "tempeh", "response": "What are some ways to cook with tempeh?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2230", "query-text": "thiamine", "response": "What is thiamine and its importance?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2240", "query-text": "titanium dioxide", "response": "Uses and benefits of titanium dioxide", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2250", "query-text": "tongue worm", "response": "What is a tongue worm?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2261", "query-text": "trans fats", "response": "What are trans fats and their effects on health?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-227", "query-text": "increasing muscle strength with fenugreek", "response": "How to improve muscle strength naturally", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2271", "query-text": "tufts", "response": "What is Tufts University known for?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2281", "query-text": "turnips", "response": "Different ways to cook turnips", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2291", "query-text": "ultra-processed foods", "response": "What are examples of ultra-processed foods?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-23", "query-text": "how to reduce exposure to alkylphenols through your diet", "response": "Tips for reducing alkylphenol exposure through diet", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2301", "query-text": "uterine health", "response": "Tips for maintaining uterine health", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2311", "query-text": "veal", "response": "Difference between veal and beef", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2321", "query-text": "veggie chicken", "response": "Plant-based chicken alternatives", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2332", "query-text": "viral infections", "response": "Common viral infections", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2343", "query-text": "vitamin k", "response": "Benefits of vitamin K", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2354", "query-text": "walnut oil", "response": "Uses for walnut oil", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2364", "query-text": "weight gain", "response": "Tips for healthy weight gain", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2375", "query-text": "whiting", "response": "What is the definition of whiting?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-238", "query-text": "how chemically contaminated are we ?", "response": "What are the effects of chemical contamination on our health?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2386", "query-text": "worms", "response": "Types of worms", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2396", "query-text": "yale", "response": "Yale University", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2408", "query-text": "zoloft", "response": "Information about Zoloft", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2430", "query-text": "preventing brain loss with b vitamins ?", "response": "Benefits of B vitamins for preventing brain loss", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2440", "query-text": "more than an apple a day : combating common diseases", "response": "Preventing common diseases through healthy habits", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2450", "query-text": "are organic foods safer ?", "response": "Are organic foods healthier than non-organic foods?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2460", "query-text": "diabetes as a disease of fat toxicity", "response": "Connection between diabetes and fat toxicity", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2470", "query-text": "is milk good for our bones ?", "response": "Benefits of milk for bone health", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-248", "query-text": "treating an enlarged prostate with diet", "response": "Natural remedies for enlarged prostate", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2480", "query-text": "preventing ulcerative colitis with diet", "response": "Dietary tips for preventing ulcerative colitis", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2490", "query-text": "the actual benefit of diet vs. drugs", "response": "Comparison of the benefits of diet and drugs", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2500", "query-text": "the saturated fat studies : buttering up the public", "response": "Studies on the impact of saturated fat on health", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2510", "query-text": "coffee and artery function", "response": "Effects of coffee on artery function", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2520", "query-text": "caloric restriction vs. plant-based diets", "response": "Comparison between caloric restriction and plant-based diets", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2530", "query-text": "infectobesity : adenovirus 36 and childhood obesity", "response": "Connection between adenovirus 36 and childhood obesity", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2540", "query-text": "does cholesterol size matter ?", "response": "Is the size of cholesterol particles important?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2550", "query-text": "barriers to heart disease prevention", "response": "Common barriers to heart disease prevention", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2560", "query-text": "childhood constipation and cow ’ s milk", "response": "Effects of cow's milk on childhood constipation", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2570", "query-text": "diabetics should take their pulses", "response": "Why is it important for diabetics to monitor their pulses?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2580", "query-text": "academy of nutrition and dietetics conflicts of interest", "response": "Academy of Nutrition and Dietetics policies on conflicts of interest", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-259", "query-text": "optimal phytosterol dose and source", "response": "Recommended phytosterol dosage and best sources", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2590", "query-text": "do vegetarians get enough protein ?", "response": "Is it possible for vegetarians to meet their protein needs?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2600", "query-text": "eggs and arterial function", "response": "Effects of eggs on arterial function", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2610", "query-text": "treating asthma with plants vs. supplements ?", "response": "Comparison of using plants versus supplements for treating asthma", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2620", "query-text": "phytates for the treatment of cancer", "response": "Use of phytates in cancer treatment", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2630", "query-text": "alkylphenol endocrine disruptors and allergies", "response": "Effects of alkylphenol endocrine disruptors on allergies", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2640", "query-text": "chicken salmonella thanks to meat industry lawsuit", "response": "Impact of salmonella outbreaks in the meat industry", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2650", "query-text": "turmeric curcumin and osteoarthritis", "response": "Benefits of turmeric curcumin for osteoarthritis", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2660", "query-text": "how long to detox from fish before pregnancy ?", "response": "How long should I detox from fish before pregnancy?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2670", "query-text": "is caramel color carcinogenic ?", "response": "Is caramel color safe to consume?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2680", "query-text": "counteracting the effects of dioxins through diet", "response": "Reducing dioxin exposure through dietary changes", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2690", "query-text": "chronic headaches and pork tapeworms", "response": "Symptoms of pork tapeworm infection", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-270", "query-text": "is caffeinated tea really dehydrating ?", "response": "Does drinking caffeinated tea cause dehydration?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2700", "query-text": "heart disease starts in childhood", "response": "Prevention of heart disease starting in childhood", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2710", "query-text": "artificial food colors and adhd", "response": "Effects of artificial food colors on ADHD", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2720", "query-text": "keeping your hands warm with citrus", "response": "Using citrus to keep hands warm", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2730", "query-text": "anti-angiogenesis : cutting off tumor supply lines", "response": "Understanding anti-angiogenesis in cancer treatment", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2740", "query-text": "cancer risk from ct scan radiation", "response": "Dangers of radiation from CT scans", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2750", "query-text": "preventing the common cold with probiotics ?", "response": "Benefits of using probiotics to prevent the common cold", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2760", "query-text": "eating healthy on a budget", "response": "Tips for eating healthy on a budget", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2770", "query-text": "flaxseeds & breast cancer survival : clinical evidence", "response": "Clinical evidence on the relationship between flaxseeds and breast cancer survival", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2780", "query-text": "do fruit & nut bars cause weight gain ?", "response": "Do fruit & nut bars contribute to weight gain?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2790", "query-text": "titanium dioxide & inflammatory bowel disease", "response": "Potential similar query: Effects of titanium dioxide on inflammatory bowel disease", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-280", "query-text": "mercury testing recommended before pregnancy", "response": "Importance of mercury testing before pregnancy", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2800", "query-text": "prolonged liver function enhancement from broccoli", "response": "Long-term benefits of broccoli on liver function", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2810", "query-text": "apple juice may be worse than sugar water", "response": "Comparison between apple juice and sugar water", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2820", "query-text": "preventing strokes with diet", "response": "Tips for preventing strokes through diet", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2830", "query-text": "neurobiology of artificial sweeteners", "response": "Research on the neurobiology of artificial sweeteners", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2840", "query-text": "benefits of fenugreek seeds", "response": "Health benefits of fenugreek seeds", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2850", "query-text": "more antibiotics in white meat or dark meat ?", "response": "Antibiotic levels in white meat vs. dark meat", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2860", "query-text": "bpa plastic and male sexual dysfunction", "response": "Effects of BPA plastic on male sexual health", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2870", "query-text": "filled full of lead", "response": "What are the dangers of lead poisoning?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2880", "query-text": "the answer to the pritikin puzzle", "response": "Solution to the Pritikin puzzle", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2890", "query-text": "to snack or not to snack ?", "response": "Benefits of snacking vs. not snacking", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2900", "query-text": "boosting good bacteria in the colon without probiotics", "response": "Natural ways to promote good bacteria in the colon", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-291", "query-text": "stool size and breast cancer risk", "response": "Relationship between stool size and breast cancer risk", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2910", "query-text": "optimal phytosterol dose", "response": "Recommended dosage of phytosterols", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2920", "query-text": "human neurotransmitters in plants", "response": "Do plants have neurotransmitters like humans?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2930", "query-text": "kiwifruit for irritable bowel syndrome", "response": "Benefits of kiwifruit for irritable bowel syndrome", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2940", "query-text": "dietary treatment of crohn 's disease", "response": "Dietary recommendations for managing Crohn's disease", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2950", "query-text": "unsafe at any feed", "response": "Book \"Unsafe at Any Speed\" by Ralph Nader", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2960", "query-text": "pharmacists versus health food store employees : who gives better advice ?", "response": "Comparison between advice from pharmacists and health food store employees", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2970", "query-text": "preventing cataracts with diet", "response": "Tips for preventing cataracts through diet", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2981", "query-text": "cheese mites and maggots", "response": "How to prevent cheese mites and maggots", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-2991", "query-text": "cholesterol and lower back pain", "response": "Effects of cholesterol on lower back pain", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-3001", "query-text": "epic findings on lymphoma", "response": "Major research discoveries on lymphoma", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-3014", "query-text": "sometimes the enzyme myth is true", "response": "Is the enzyme myth about digestion true?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-3026", "query-text": "vitamin c-enriched bacon", "response": "Foods high in vitamin C", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-3037", "query-text": "out of the lab onto the track", "response": "Transitioning from the lab to the track", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-3053", "query-text": "dragon 's blood", "response": "Dragon's blood uses", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-3063", "query-text": "better than goji berries", "response": "Alternative to goji berries", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-307", "query-text": "vitamin d : shedding some light on the new recommendations", "response": "Exploring the new recommendations for vitamin D", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-3074", "query-text": "how to help prevent abdominal aortic aneurysms", "response": "Tips for preventing abdominal aortic aneurysms", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-3085", "query-text": "the difficulty of arriving at a vitamin d recommendation", "response": "Challenges in establishing a recommended daily intake of vitamin D", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-3097", "query-text": "amyloid and apple juice", "response": "Effects of amyloid on apple juice", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-3116", "query-text": "dietary guidelines : from dairies to berries", "response": "What are the dietary guidelines for including dairies and berries in your diet?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-3131", "query-text": "are avocados good for you ?", "response": "Benefits of eating avocados", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-3141", "query-text": "relieving yourself of excess estrogen", "response": "Ways to naturally reduce excess estrogen levels", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-3151", "query-text": "too much iodine can be as bad as too little", "response": "Effects of excess iodine in the body", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-3161", "query-text": "is milk and mucus a myth ?", "response": "Does consuming milk cause mucus production?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-3171", "query-text": "convergence of evidence", "response": "Significance of converging evidence", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-3181", "query-text": "is dragon fruit good for you ?", "response": "Benefits of eating dragon fruit", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-3191", "query-text": "is distilled fish oil toxin-free ?", "response": "Is distilled fish oil safe to consume?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-320", "query-text": "breast cancer and diet", "response": "Impact of diet on breast cancer prevention", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-3201", "query-text": "acne & cancer connection", "response": "Is there a link between acne and cancer?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-3211", "query-text": "overdosing on greens", "response": "What happens if you consume too many greens?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-3221", "query-text": "dietary theory of alzheimer 's", "response": "Explanation of the dietary theory of Alzheimer's", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-3231", "query-text": "meat & multiple myeloma", "response": "Effects of meat consumption on multiple myeloma", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-3241", "query-text": "apthous ulcer mystery solved", "response": "Causes and treatments for apthous ulcers", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-3251", "query-text": "epic study", "response": "Effective study techniques", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-3261", "query-text": "update on herbalife ®", "response": "Latest news on Herbalife ®", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-3271", "query-text": "saturated fat & cancer progression", "response": "Relationship between saturated fat intake and cancer progression", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-3281", "query-text": "aluminum in vaccines vs. food", "response": "Comparison of aluminum content in vaccines and food", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-3292", "query-text": "are multivitamins good for you ?", "response": "Benefits of taking multivitamins", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-33", "query-text": "what ’ s driving america ’ s obesity problem ?", "response": "Causes of the obesity epidemic in America", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-3302", "query-text": "fish fog", "response": "What causes fishy smell in fog?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-3312", "query-text": "sexually transmitted fish toxin", "response": "What are the dangers of consuming fish toxins?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-332", "query-text": "can antioxidant-rich spices counteract the effects of a high-fat meal ?", "response": "Do antioxidant-rich spices help with digestion after a high-fat meal?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-3322", "query-text": "veggies vs. cancer", "response": "Benefits of eating vegetables for cancer prevention", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-3332", "query-text": "alcohol risks vs. benefits", "response": "Comparison of risks and benefits of consuming alcohol", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-3342", "query-text": "is coconut milk good for you ?", "response": "Benefits of coconut milk", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-3352", "query-text": "boosting heart nerve control", "response": "Improving heart rate variability", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-3362", "query-text": "kuna indian secret", "response": "Secrets of the Kuna Indian tribe", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-3372", "query-text": "the healthiest sweetener", "response": "What are the healthiest natural sweeteners?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-3382", "query-text": "are artificial colors bad for you ?", "response": "Are artificial colors harmful to your health?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-3392", "query-text": "healthiest airplane beverage", "response": "Best healthy drinks to order on an airplane", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-3402", "query-text": "antioxidant content of 300 foods", "response": "List of foods with high antioxidant content", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-3412", "query-text": "plant vs. cow calcium", "response": "Differences between plant-based and cow-based calcium sources", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-3422", "query-text": "vitamin supplements worth taking", "response": "Which vitamin supplements are beneficial to take?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-3432", "query-text": "healthy chocolate milkshakes", "response": "Healthy chocolate smoothie recipes", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-344", "query-text": "dioxins stored in our own fat may increase diabetes risk", "response": "Effects of dioxins stored in fat on diabetes risk", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-3442", "query-text": "the healthiest vegetables", "response": "Top 10 healthiest vegetables", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-3452", "query-text": "bowel movement frequency", "response": "How often should you have a bowel movement?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-3462", "query-text": "olive oil and artery function", "response": "Effects of olive oil on artery function", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-3472", "query-text": "how doctors responded to being named a leading killer", "response": "Impact of doctors being named a leading killer", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-358", "query-text": "didn 't another study show carnitine was good for the heart ?", "response": "Is carnitine beneficial for heart health according to recent studies?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-371", "query-text": "any update on the scary in vitro avocado data ?", "response": "Latest information on the concerning in vitro avocado research", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-383", "query-text": "what do you think of dr. jenkins ' take on paleolithic diets ?", "response": "Opinion on Dr. Jenkins' perspective on paleolithic diets", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-395", "query-text": "what about pepper plus turmeric in v8 juice ?", "response": "Benefits of adding pepper and turmeric to V8 juice", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-407", "query-text": "is annatto food coloring safe ?", "response": "Safety of annatto food coloring", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-418", "query-text": "fresh fruit versus frozen--which is better ?", "response": "Fresh fruit vs frozen fruit - which is healthier?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-430", "query-text": "are krill oil supplements better than fish oil capsules ?", "response": "Comparison between krill oil supplements and fish oil capsules", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-44", "query-text": "who should be careful about curcumin ?", "response": "Who should avoid or be cautious with curcumin?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-441", "query-text": "is apple cider vinegar good for you ?", "response": "Benefits of apple cider vinegar", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-457", "query-text": "how can you believe in any scientific study ?", "response": "How to evaluate the credibility of a scientific study?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-468", "query-text": "is vitamin d3 ( cholecalciferol ) preferable to d2 ( ergocalciferol ) ?", "response": "Which form of vitamin D is better: D3 (cholecalciferol) or D2 (ergocalciferol)?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-478", "query-text": "accidents", "response": "Common causes of accidents", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-488", "query-text": "adenovirus 36", "response": "Information about adenovirus 36", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-499", "query-text": "african-american", "response": "African American culture and history", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-510", "query-text": "airport scanners", "response": "Types of airport scanners", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-520", "query-text": "alli", "response": "What is alli used for?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-531", "query-text": "alternative medicine", "response": "Types of alternative medicine", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-541", "query-text": "american dental association", "response": "American Dental Association website", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-551", "query-text": "amnesia", "response": "Symptoms of amnesia", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-56", "query-text": "foods for glaucoma", "response": "Diet recommendations for glaucoma", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-561", "query-text": "aneurysm", "response": "Causes and symptoms of an aneurysm", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-571", "query-text": "anisakis", "response": "What is anisakis and how does it affect humans?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-583", "query-text": "antinutrients", "response": "What are antinutrients and their effects on health?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-593", "query-text": "apnea", "response": "What are the symptoms of apnea?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-603", "query-text": "arkansas", "response": "Facts about Arkansas", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-613", "query-text": "ascorbic acid", "response": "Benefits of ascorbic acid", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-623", "query-text": "atkins diet", "response": "Low-carb diet like Atkins", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-634", "query-text": "avocados", "response": "Different ways to use avocados", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-645", "query-text": "bagels", "response": "Different types of bagels", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-660", "query-text": "beans", "response": "Different types of beans", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-671", "query-text": "benzene", "response": "What is benzene used for?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-68", "query-text": "what is actually in chicken nuggets ?", "response": "Ingredients in chicken nuggets", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-681", "query-text": "betel nuts", "response": "What are the health effects of betel nuts?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-691", "query-text": "bioavailability", "response": "What is bioavailability?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-701", "query-text": "black raspberries", "response": "Difference between black raspberries and blackberries", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-711", "query-text": "blood clots", "response": "Symptoms of blood clots", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-721", "query-text": "bmaa", "response": "What is BMAA and its effects?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-731", "query-text": "bone fractures", "response": "Types of bone fractures", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-741", "query-text": "bph", "response": "What is benign prostatic hyperplasia (BPH)?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-751", "query-text": "brca genes", "response": "Explanation of BRCA genes", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-761", "query-text": "breast pain", "response": "Causes of breast pain", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-771", "query-text": "bronchiolitis obliterans", "response": "What are the symptoms of bronchiolitis obliterans?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-78", "query-text": "what do meat purge and cola have in common ?", "response": "Commonalities between meat purge and cola", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-782", "query-text": "bush administration", "response": "Presidential administration of George W. Bush", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-792", "query-text": "cadaverine", "response": "What is cadaverine and its uses?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-806", "query-text": "caloric restriction", "response": "Benefits of caloric restriction", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-817", "query-text": "canker sores", "response": "How to treat canker sores", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-827", "query-text": "carcinogens", "response": "What are common carcinogens to avoid?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-838", "query-text": "carrageenan", "response": "What is carrageenan and its uses?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-850", "query-text": "cauliflower", "response": "Different ways to cook cauliflower", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-860", "query-text": "center for food safety", "response": "What is the Center for Food Safety?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-872", "query-text": "chanterelle mushrooms", "response": "Different types of mushrooms", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-882", "query-text": "chernobyl", "response": "Information about the Chernobyl disaster", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-892", "query-text": "chickpeas", "response": "Recipes using chickpeas", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-902", "query-text": "chlorophyll", "response": "Functions and benefits of chlorophyll", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-91", "query-text": "chronic headaches and pork parasites", "response": "Effects of pork consumption on chronic headaches", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-913", "query-text": "cinnamon", "response": "Benefits of using cinnamon", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-924", "query-text": "cocaine", "response": "Effects of cocaine", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-934", "query-text": "coffee", "response": "Different types of coffee beverages", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-946", "query-text": "coma", "response": "What are the causes and symptoms of a coma?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-956", "query-text": "cooking methods", "response": "Different cooking methods", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-966", "query-text": "cortisol", "response": "What is cortisol and its effects on the body?", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-977", "query-text": "crib death", "response": "Sudden Infant Death Syndrome (SIDS)", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-987", "query-text": "cumin", "response": "Recipes using cumin", "metadata": {"model": "gpt"}}
+{"query-id": "PLAIN-997", "query-text": "czechoslovakia", "response": "Czech Republic and Slovakia", "metadata": {"model": "gpt"}}

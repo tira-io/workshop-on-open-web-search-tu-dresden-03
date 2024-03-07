@@ -1,0 +1,50 @@
+{"query-id": "1", "query-text": "Ferroportin-1 in humans", "response": ["Ferroportin-1 in animals?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "2", "query-text": "Generating transgenic mice", "response": ["Transgenic mice are a genetically modified animal that has been created by inserting a foreign gene into the animal's genome."], "metadata": {"model": "flan-ul2"}}
+{"query-id": "3", "query-text": "Time course for gene expression in mouse kidney", "response": ["Time course for gene expression in human kidney?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "4", "query-text": "Gene expression profiles for kidney in mice", "response": ["Gene expression profiles for kidney in humans?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "5", "query-text": "Protocols for isolating cell nuclei", "response": ["How do you isolate nuclei from cells?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "6", "query-text": "FancD2", "response": ["FancD3D2S2D2S2D2S2D2S2D2S2D2S2D2S2D2S2D2S2D2S2D2S2D2S2D2S2D2S2D2S2D2S2D2S2D2S2D2S2D2S2D2S2D2S2D2S2D2S2D2S2D2S2D2S2D2S2D2S2D2S2D2S2D2S2D2S2D2S2D2S2D2S2D2S2D2S2D2S2D2S2D2S2D2S2D2S2D2S2D2S2D2S2D2S2D2S2D2S"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "7", "query-text": "DNA repair and oxidative stress", "response": ["DNA repair mechanisms in oxidative stress."], "metadata": {"model": "flan-ul2"}}
+{"query-id": "8", "query-text": "Correlation between DNA repair pathways and skin cancer", "response": ["What is the correlation between dna repair pathways and cancer?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "9", "query-text": "mutY", "response": ["mutY atoms??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "10", "query-text": "NEIL1", "response": ["neil johnson tv show"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "11", "query-text": "Carcinogenesis and hairless mice", "response": ["Hairless dog breeds???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "12", "query-text": "Genes regulated by Smad4", "response": ["Genes regulated by smad5"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "13", "query-text": "Role of TGFB in angiogenesis in skin", "response": ["Role of TGFB in angiogenesis in vascular tissue"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "14", "query-text": "Expression or Regulation of TGFB in HNSCC cancers", "response": ["Expression or Regulation of TGFB in ovarian cancer"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "15", "query-text": "ATPase and apoptosis", "response": ["ATPase and apoptosis pathway"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "16", "query-text": "AAA proteins", "response": ["What are the functions of AAA proteins? What are their subunits?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "17", "query-text": "DO1 antibody", "response": ["DO1A antibody blotted with DO1A protein."], "metadata": {"model": "flan-ul2"}}
+{"query-id": "18", "query-text": "Gis4", "response": ["gis4 downloads.com."], "metadata": {"model": "flan-ul2"}}
+{"query-id": "19", "query-text": "Comparison of Promoters of GAL1 and SUC1", "response": ["Comparison of promoters of SUC1"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "20", "query-text": "Substrate modification by ubiquitin", "response": ["Ubiquitin-like protein modification"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "21", "query-text": "Role of p63 and p73 in relation to DNA damage", "response": ["Role of p63 and p73 in relation to dna replication"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "22", "query-text": "Relative response of p53 family members to agents causing single-stranded versus double-stranded DNA breaks", "response": ["Relative response of p53 family members to agents causing single-stranded versus double-stranded DNA breaks with or without a p53 mutation"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "23", "query-text": "Saccharomyces cerevisiae proteins involved in ubiquitin system", "response": ["List of ubiquitin system proteins in Saccharomyces cerevisiae"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "24", "query-text": "Mouse peptidoglycan recognition proteins (PGRP)", "response": ["Peptidoglycan recognition proteins (PGRP)"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "25", "query-text": "Cause of scleroderma", "response": ["What are the causes of scleroderma?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "26", "query-text": "Function of BUB2/BFA1 in the process of cytokinesis", "response": ["Function of BUB2/BFA1 in cell division"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "27", "query-text": "Role of autophagy in apoptosis", "response": ["Autophagy in apoptosis"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "28", "query-text": "Proteases that function in both apoptosis and autophagy cell death", "response": ["How do proteases function in apoptosis?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "29", "query-text": "Phenotypes of gyrA mutations", "response": ["Phenotypes of gyrA gene"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "30", "query-text": "Regulatory targets of the Nkx gene family members", "response": ["Regulatory targets of the nkx gene family members"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "31", "query-text": "TOR signaling in neurofibromatosis", "response": ["TOR signaling in psoriasis"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "32", "query-text": "Xenograft animal models of tumorogenesis", "response": ["Xenografting animal model of AIDS"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "33", "query-text": "Mice, mutant strains, and Histoplasmosis", "response": ["What is the definition of histoplasmosis?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "34", "query-text": "Gene products of Cryptococcus important to fungal survival", "response": ["Cryptococcus neoformans"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "35", "query-text": "WD40 repeat-containing proteins", "response": ["WD40 repeat domain proteins?/ref>"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "36", "query-text": "RAB3A", "response": ["rab3a molecule?|rab3a molecule formula|rab3a molecule structure"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "37", "query-text": "PAM", "response": ["PAMs in utah"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "38", "query-text": "Risk factors for stroke", "response": ["What are the risk factors for stroke?|What are the risk factors for a stroke?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "39", "query-text": "Hypertension", "response": ["Hypertension in adults. What is the treatment?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "40", "query-text": "Antigens expressed by lung epithelial cells", "response": ["Antigens expressed by human bronchial epithelial cells"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "41", "query-text": "Mutations in the Cystic Fibrosis conductance regulator gene", "response": ["Mutations in the Cystic Fibrosis Transmembrane Conductance Regulator gene"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "42", "query-text": "Genes altered by chromosome translocations", "response": ["Genes involved in chromosome translocation"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "43", "query-text": "Sleeping Beauty", "response": ["Sleeping Beauty (1912 film)?|Sleeping Beauty (1912 film)?|Sleeping Beauty (1912 film)?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "44", "query-text": "Proteins involved in the nerve growth factor pathway", "response": ["What protein is involved in the nerve growth factor pathway?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "45", "query-text": "Mental Health Wellness-1", "response": ["Mental health wellness-2?|mental health wellness-3?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "46", "query-text": "RSK2", "response": ["RSK2 gene expression in hippocampus"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "47", "query-text": "Human gene BCL-2 antagonists and inhibitors", "response": ["BCL-2 gene and its activation in human"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "48", "query-text": "Human homologues of C. elegans UNC genes", "response": ["Human homologues of C. elegans UNC genes"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "49", "query-text": "Glyphosate tolerance gene sequence", "response": ["Glyphosate tolerance gene sequence of sorghum"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "50", "query-text": "Low temperature protein expression in E. coli", "response": ["Low temperature protein expression in mammalian cells"], "metadata": {"model": "flan-ul2"}}

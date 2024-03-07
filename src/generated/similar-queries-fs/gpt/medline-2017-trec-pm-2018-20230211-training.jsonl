@@ -1,0 +1,50 @@
+{"query-id": "1", "query-text": "melanoma BRAF (V600E) 64-year-old male", "response": "Treatment options for melanoma BRAF (V600E) 64-year-old male", "metadata": {"model": "gpt"}}
+{"query-id": "2", "query-text": "melanoma BRAF (V600K) 54-year-old male", "response": "Treatment options for melanoma with BRAF (V600K) mutation in a 54-year-old male", "metadata": {"model": "gpt"}}
+{"query-id": "3", "query-text": "melanoma BRAF (V600R) 80-year-old male", "response": "Treatment options for melanoma BRAF (V600R) in elderly patients", "metadata": {"model": "gpt"}}
+{"query-id": "4", "query-text": "melanoma BRAF (K601E) 38-year-old male", "response": "Melanoma treatment options for a 38-year-old male with BRAF (K601E) mutation", "metadata": {"model": "gpt"}}
+{"query-id": "5", "query-text": "melanoma BRAF (V600E), PTEN loss of function 57-year-old male", "response": "Melanoma treatment options for a 57-year-old male with BRAF (V600E) mutation and PTEN loss of function", "metadata": {"model": "gpt"}}
+{"query-id": "6", "query-text": "melanoma BRAF (V600E), NRAS (Q61R) 67-year-old male", "response": "Treatment options for melanoma BRAF (V600E), NRAS (Q61R) in elderly patients", "metadata": {"model": "gpt"}}
+{"query-id": "7", "query-text": "melanoma BRAF amplification 61-year-old male", "response": "Treatment options for melanoma with BRAF amplification in a 61-year-old male", "metadata": {"model": "gpt"}}
+{"query-id": "8", "query-text": "melanoma NRAS (Q61R) 63-year-old female", "response": "Melanoma NRAS mutation in a 63-year-old female", "metadata": {"model": "gpt"}}
+{"query-id": "9", "query-text": "melanoma NRAS (Q61L) 34-year-old female", "response": "Melanoma NRAS (Q61L) in young females", "metadata": {"model": "gpt"}}
+{"query-id": "10", "query-text": "melanoma KIT (L576P) 65-year-old female", "response": "Treatment options for melanoma with KIT (L576P) mutation in a 65-year-old female", "metadata": {"model": "gpt"}}
+{"query-id": "11", "query-text": "melanoma KIT (L576P), KIT amplification 56-year-old female", "response": "Treatment options for melanoma with KIT (L576P) mutation in a 56-year-old female", "metadata": {"model": "gpt"}}
+{"query-id": "12", "query-text": "melanoma KIT (K642E) 62-year-old female", "response": "Melanoma treatment options for KIT (K642E) mutation in a 62-year-old female", "metadata": {"model": "gpt"}}
+{"query-id": "13", "query-text": "melanoma KIT (N822Y) 39-year-old female", "response": "Melanoma treatment options for a 39-year-old female with KIT (N822Y) mutation", "metadata": {"model": "gpt"}}
+{"query-id": "14", "query-text": "melanoma KIT amplification 66-year-old female", "response": "Melanoma treatment options for a 66-year-old female", "metadata": {"model": "gpt"}}
+{"query-id": "15", "query-text": "melanoma NF1 truncation 70-year-old male", "response": "Melanoma treatment options for NF1 truncation in older male", "metadata": {"model": "gpt"}}
+{"query-id": "16", "query-text": "melanoma NTRK1 rearrangement 60-year-old male", "response": "NTRK1 rearrangement melanoma in older male", "metadata": {"model": "gpt"}}
+{"query-id": "17", "query-text": "melanoma TP53 loss of function 72-year-old male", "response": "Melanoma treatment options for a 72-year-old male with TP53 loss of function", "metadata": {"model": "gpt"}}
+{"query-id": "18", "query-text": "melanoma tumor cells with >50% membranous PD-L1 expression 48-year-old female", "response": "Melanoma tumor cells with high PD-L1 expression in a 48-year-old female", "metadata": {"model": "gpt"}}
+{"query-id": "19", "query-text": "melanoma tumor cells negative for PD-L1 expression 73-year-old male", "response": "PD-L1 expression in melanoma tumor cells in older patients", "metadata": {"model": "gpt"}}
+{"query-id": "20", "query-text": "melanoma high tumor mutational burden 86-year-old female", "response": "Melanoma treatment options for elderly female with high tumor mutational burden", "metadata": {"model": "gpt"}}
+{"query-id": "21", "query-text": "melanoma extensive tumor infiltrating lymphocytes 49-year-old male", "response": "Melanoma treatment options for a 49-year-old male with extensive tumor infiltrating lymphocytes", "metadata": {"model": "gpt"}}
+{"query-id": "22", "query-text": "melanoma no tumor infiltrating lymphocytes 74-year-old female", "response": "Melanoma treatment options for 74-year-old female without tumor infiltrating lymphocytes", "metadata": {"model": "gpt"}}
+{"query-id": "23", "query-text": "melanoma PTEN loss of function 68-year-old male", "response": "Melanoma PTEN loss of function in elderly male", "metadata": {"model": "gpt"}}
+{"query-id": "24", "query-text": "melanoma APC loss of function 47-year-old male", "response": "Melanoma APC gene mutation in 47-year-old male", "metadata": {"model": "gpt"}}
+{"query-id": "25", "query-text": "melanoma high serum LDH levels 69-year-old female", "response": "Significance of high serum LDH levels in 69-year-old female with melanoma", "metadata": {"model": "gpt"}}
+{"query-id": "26", "query-text": "colorectal cancer NRAS 49-year-old male", "response": "Colorectal cancer screening guidelines for a 49-year-old male", "metadata": {"model": "gpt"}}
+{"query-id": "27", "query-text": "medullary thyroid carcinoma RET 45-year-old female", "response": "Medullary thyroid carcinoma genetic mutations 45-year-old female", "metadata": {"model": "gpt"}}
+{"query-id": "28", "query-text": "neuroblastoma ALK 4-year-old female", "response": "Neuroblastoma treatment options for a 4-year-old female", "metadata": {"model": "gpt"}}
+{"query-id": "29", "query-text": "esophageal cancer EGFR 67-year-old male", "response": "Treatment options for esophageal cancer in a 67-year-old male with EGFR mutation", "metadata": {"model": "gpt"}}
+{"query-id": "30", "query-text": "lung cancer ROS1 71-year-old female", "response": "Treatment options for ROS1-positive lung cancer in a 71-year-old female", "metadata": {"model": "gpt"}}
+{"query-id": "31", "query-text": "head and neck squamous cell carcinoma CDKN2A 64-year-old male", "response": "Treatment options for head and neck squamous cell carcinoma in a 64-year-old male", "metadata": {"model": "gpt"}}
+{"query-id": "32", "query-text": "leukemia ABL1 4-year-old female", "response": "Leukemia diagnosis in a 4-year-old female", "metadata": {"model": "gpt"}}
+{"query-id": "33", "query-text": "gastric cancer EGFR 60-year-old female", "response": "Treatment options for EGFR-positive gastric cancer in a 60-year-old female", "metadata": {"model": "gpt"}}
+{"query-id": "34", "query-text": "sarcoma MDM2 78-year-old female", "response": "MDM2 sarcoma in elderly female", "metadata": {"model": "gpt"}}
+{"query-id": "35", "query-text": "breast cancer CDKN2A 73-year-old female", "response": "Breast cancer genetic mutations in older women", "metadata": {"model": "gpt"}}
+{"query-id": "36", "query-text": "lung cancer ERBB2 49-year-old female", "response": "Lung cancer treatment options for a 49-year-old female with ERBB2 mutation", "metadata": {"model": "gpt"}}
+{"query-id": "37", "query-text": "non-small cell carcinoma MET 68-year-old male", "response": "Non-small cell carcinoma treatment options for a 68-year-old male", "metadata": {"model": "gpt"}}
+{"query-id": "38", "query-text": "cholangiocarcinoma IDH1 50-year-old male", "response": "Cholangiocarcinoma treatment options for a 50-year-old male", "metadata": {"model": "gpt"}}
+{"query-id": "39", "query-text": "anaplastic large cell lymphoma ALK 18-year-old male", "response": "Anaplastic large cell lymphoma ALK treatment options for 18-year-old male", "metadata": {"model": "gpt"}}
+{"query-id": "40", "query-text": "breast cancer ERBB2 56-year-old female", "response": "Breast cancer treatment options for ERBB2 positive 56-year-old female", "metadata": {"model": "gpt"}}
+{"query-id": "41", "query-text": "papillary thyroid carcinoma NTRK1 46-year-old female", "response": "Diagnosis of papillary thyroid carcinoma with NTRK1 gene fusion in a 46-year-old female", "metadata": {"model": "gpt"}}
+{"query-id": "42", "query-text": "glioblastoma CDK6 84-year-old male", "response": "Treatment options for glioblastoma in elderly male", "metadata": {"model": "gpt"}}
+{"query-id": "43", "query-text": "basal cell carcinoma PTCH1 56-year-old female", "response": "Basal cell carcinoma treatment options for a 56-year-old female", "metadata": {"model": "gpt"}}
+{"query-id": "44", "query-text": "glioma BRAF 82-year-old male", "response": "Treatment options for glioma in an 82-year-old male", "metadata": {"model": "gpt"}}
+{"query-id": "45", "query-text": "thyroid cancer BRAF 40-year-old female", "response": "Thyroid cancer treatment options for a 40-year-old female", "metadata": {"model": "gpt"}}
+{"query-id": "46", "query-text": "lung cancer FGFR1 57-year-old male", "response": "Treatment options for lung cancer in a 57-year-old male with FGFR1 mutation", "metadata": {"model": "gpt"}}
+{"query-id": "47", "query-text": "prostate cancer PTEN 70-year-old male", "response": "Prostate cancer treatment options for a 70-year-old male with PTEN mutation", "metadata": {"model": "gpt"}}
+{"query-id": "48", "query-text": "adenoid cystic carcinoma KIT 58-year-old female", "response": "Adenoid cystic carcinoma treatment options for a 58-year-old female", "metadata": {"model": "gpt"}}
+{"query-id": "49", "query-text": "acute myeloid leukemia IDH1 1-year-old male", "response": "Acute myeloid leukemia treatment options for 1-year-old male", "metadata": {"model": "gpt"}}
+{"query-id": "50", "query-text": "acute myeloid leukemia FLT3 13-year-old male", "response": "Acute myeloid leukemia treatment options for 13-year-old male with FLT3 mutation", "metadata": {"model": "gpt"}}

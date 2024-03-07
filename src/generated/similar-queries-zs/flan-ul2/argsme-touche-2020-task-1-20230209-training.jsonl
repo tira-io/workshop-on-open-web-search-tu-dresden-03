@@ -1,0 +1,49 @@
+{"query-id": "1", "query-text": "Should teachers get tenure?", "response": ["How long do teachers get tenure?|How long do teachers get tenure?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "2", "query-text": "Is vaping with e-cigarettes safe?", "response": ["Is vaping bad for you? | What are the risks?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "3", "query-text": "Should insider trading be allowed?", "response": ["What is insider trading? How is it done?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "4", "query-text": "Should corporal punishment be used in schools?", "response": ["Should corporal punishment be used in schools? | Should corporal punishment be used in schools?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "5", "query-text": "Should social security be privatized?", "response": ["Should social security be privatized? Why or why not?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "6", "query-text": "Is a college education worth it?", "response": ["How much does a college education cost?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "7", "query-text": "Should felons who have completed their sentence be allowed to vote?", "response": ["Should felons who have completed their sentence be allowed to vote?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "8", "query-text": "Should abortion be legal?", "response": ["Should abortion be legal in the U.S.?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "9", "query-text": "Should students have to wear school uniforms?", "response": ["What is the dress code for a high school?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "10", "query-text": "Should any vaccines be required for children?", "response": ["What are the most important vaccines for children?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "11", "query-text": "Should performance-enhancing drugs be accepted in sports?", "response": ["Should performance-enhancing drugs be banned in sports?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "12", "query-text": "Should birth control pills be available over the counter?", "response": ["Should birth control pills be available over the counter?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "13", "query-text": "Can alternative energy effectively replace fossil fuels?", "response": ["What are some alternative energy sources? What are some examples of alternative energy?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "14", "query-text": "Is sexual orientation determined at birth?", "response": ["What is sexual orientation? What is asexual orientation?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "15", "query-text": "Should animals be used for scientific or commercial testing?", "response": ["What are the main arguments against using animals in research?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "16", "query-text": "Should prescription drugs be advertised directly to consumers?", "response": ["What are some of the benefits of advertising drugs directly to consumers?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "17", "query-text": "Should recreational marijuana be legal?", "response": ["What are the pros and cons of legalizing marijuana?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "18", "query-text": "Should churches remain tax-exempt?", "response": ["Should the government ban homeopathy? Why or why not?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "19", "query-text": "Should gay marriage be legal?", "response": ["Should gay marriage be legal?|Should gay marriage be legal?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "20", "query-text": "Is drinking milk healthy for humans?", "response": ["Is drinking milk good for your skin?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "21", "query-text": "Is human activity primarily responsible for global climate change?", "response": ["How do scientists determine if global climate change is caused by humans?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "22", "query-text": "Is a two-state solution an acceptable solution to the Israeli-Palestinian conflict?", "response": ["What is the two-state solution? What is the two-state solution?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "23", "query-text": "Should euthanasia or physician-assisted suicide be legal?", "response": ["Should physician-assisted suicide be legal?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "24", "query-text": "Does lowering the federal corporate income tax rate create jobs?", "response": ["What is the corporate tax rate in the United States?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "26", "query-text": "Do standardized tests improve education?", "response": ["What are the best ways to improve education?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "27", "query-text": "Should more gun control laws be enacted?", "response": ["Should gun control laws be enacted?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "28", "query-text": "Should prostitution be legal?", "response": ["Should prostitution be legal? Why or why not?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "29", "query-text": "Should the government allow illegal immigrants to become citizens?", "response": ["What is the best way to deal with illegal immigration?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "30", "query-text": "Should adults have the right to carry a concealed handgun?", "response": ["Should adults have the right to carry a concealed handgun?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "31", "query-text": "Is obesity a disease?", "response": ["Is obesity a disease? What are the causes of obesity?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "32", "query-text": "Do electronic voting machines improve the voting process?", "response": ["How do electronic voting machines work? What is the process?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "33", "query-text": "Should people become vegetarian?", "response": ["Why should I become a vegetarian?|Why should I become a vegan?|Why should I become a raw foodist?|Why should I become a vegan?|Why should I become a vegetarian?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "34", "query-text": "Are social networking sites good for our society?", "response": ["What are some good social networking sites??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "35", "query-text": "Do violent video games contribute to youth violence?", "response": ["Do violent video games cause violent behavior? Do violent video games cause a violent society?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "36", "query-text": "Is golf a sport?", "response": ["Golf is a sport? What sport?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "37", "query-text": "Is cell phone radiation safe?", "response": ["How much radiation does a cell phone emit?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "38", "query-text": "Should marijuana be a medical option?", "response": ["Should marijuana be legalized? if yes, for what?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "39", "query-text": "Should the federal minimum wage be increased?", "response": ["What is the minimum wage in the US?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "40", "query-text": "Should the death penalty be allowed?", "response": ["Should the death penalty be abolished?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "41", "query-text": "Should student loan debt be easier to discharge in bankruptcy?", "response": ["Should student loan debt be discharged in bankruptcy?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "42", "query-text": "Should fighting be allowed in hockey?", "response": ["Should fighting be allowed in football?|Is fighting in football necessary?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "43", "query-text": "Should bottled water be banned?", "response": ["Why is bottled water so expensive?|Why is bottled water so expensive?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "44", "query-text": "Should election day be a national holiday?", "response": ["What is the national holiday for the United States?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "45", "query-text": "Should the penny stay in circulation?", "response": ["Should the penny be abolished? | Should the penny be abolished?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "46", "query-text": "Should net neutrality be restored?", "response": ["What is net neutrality?|What is net neutrality?|What is net neutrality?|What is net neutrality.?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "47", "query-text": "Is homework beneficial?", "response": ["Does homework help or harm? Why? How?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "48", "query-text": "Should the voting age be lowered?", "response": ["Should the voting age be lowered to 16?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "49", "query-text": "Should body cameras be mandatory for police?", "response": ["What are the pros and cons of body cameras for police?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "50", "query-text": "Should everyone get a universal basic income?", "response": ["What are the pros and cons of a universal basic income?"], "metadata": {"model": "flan-ul2"}}

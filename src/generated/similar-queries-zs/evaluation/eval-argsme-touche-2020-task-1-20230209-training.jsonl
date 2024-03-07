@@ -1,0 +1,12 @@
+{"name":"BM25","ndcg_cut.10":0.2989361727,"recall_1000":0.8772274918,"dataset":"argsme-touche-2020-task-1-20230209-training","model":"flan-ul2"}
+{"name":"BM25+RM3","ndcg_cut.10":0.3195659467,"recall_1000":0.8828105561,"dataset":"argsme-touche-2020-task-1-20230209-training","model":"flan-ul2"}
+{"name":"BM25+KL","ndcg_cut.10":0.3190059697,"recall_1000":0.8855486098,"dataset":"argsme-touche-2020-task-1-20230209-training","model":"flan-ul2"}
+{"name":"BM25+Q2E\/ZS","ndcg_cut.10":0.3021962954,"recall_1000":0.873858607,"dataset":"argsme-touche-2020-task-1-20230209-training","model":"flan-ul2"}
+{"name":"BM25","ndcg_cut.10":0.2989361727,"recall_1000":0.8772274918,"dataset":"argsme-touche-2020-task-1-20230209-training","model":"llama"}
+{"name":"BM25+RM3","ndcg_cut.10":0.3195659467,"recall_1000":0.8828105561,"dataset":"argsme-touche-2020-task-1-20230209-training","model":"llama"}
+{"name":"BM25+KL","ndcg_cut.10":0.3190059697,"recall_1000":0.8855486098,"dataset":"argsme-touche-2020-task-1-20230209-training","model":"llama"}
+{"name":"BM25+Q2E\/ZS","ndcg_cut.10":0.3906606854,"recall_1000":0.884875862,"dataset":"argsme-touche-2020-task-1-20230209-training","model":"llama"}
+{"name":"BM25","ndcg_cut.10":0.2989361727,"recall_1000":0.8772274918,"dataset":"argsme-touche-2020-task-1-20230209-training","model":"gpt"}
+{"name":"BM25+RM3","ndcg_cut.10":0.3195659467,"recall_1000":0.8828105561,"dataset":"argsme-touche-2020-task-1-20230209-training","model":"gpt"}
+{"name":"BM25+KL","ndcg_cut.10":0.3190059697,"recall_1000":0.8855486098,"dataset":"argsme-touche-2020-task-1-20230209-training","model":"gpt"}
+{"name":"BM25+Q2E\/ZS","ndcg_cut.10":0.3747032074,"recall_1000":0.8827409645,"dataset":"argsme-touche-2020-task-1-20230209-training","model":"gpt"}
