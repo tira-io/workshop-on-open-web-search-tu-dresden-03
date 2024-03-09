@@ -1,0 +1,50 @@
+{"query-id": "51", "query-text": "horse hooves", "response": ["are horses born with hooves?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "52", "query-text": "avp", "response": ["avp world series results?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "53", "query-text": "discovery channel store", "response": ["what channel is discovery channel on? &lt;b&gt;...&lt;/b&gt;"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "54", "query-text": "president of the united states", "response": ["who was the president of the united states in 1912?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "55", "query-text": "iron", "response": ["can be used to make ironing board?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "56", "query-text": "uss yorktown charleston sc", "response": ["what is the name of the uss yorktown?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "57", "query-text": "ct jobs", "response": ["ct job openings? ct jobs in ny?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "58", "query-text": "penguins", "response": ["are penguins a bird?|are penguins a mammal?|are penguins endangered?|are penguins a mammal?|are penguins a bird?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "59", "query-text": "how to build a fence", "response": ["how to build a 5 ft fence?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "60", "query-text": "bellevue", "response": ["bellevue washington??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "61", "query-text": "worm", "response": ["is a type of???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "62", "query-text": "texas border patrol", "response": ["texas border patrol mug shot?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "63", "query-text": "flushing", "response": ["how to flush a toilet??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "64", "query-text": "moths", "response": ["are there any moths that can fly?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "65", "query-text": "korean language", "response": ["how do you say the alphabet in korean?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "66", "query-text": "income tax return online", "response": ["how do you file your taxes?|how do you file your taxes online?|how do you file income tax?|how do you file income tax return?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "67", "query-text": "vldl levels", "response": ["what is a good vldl level?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "68", "query-text": "pvc", "response": ["is a type of plastic??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "69", "query-text": "sewing instructions", "response": ["how to make a sling?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "70", "query-text": "to be or not to be that is the question", "response": ["what does to be or not to be mean?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "71", "query-text": "living in india", "response": ["what is the cost of living in india?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "72", "query-text": "the sun", "response": ["shines on the moon?|what is the moon made of?|where does the moon come from?|what does the moon look like?|what makes the moon?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "73", "query-text": "neil young", "response": ["who does neil young play in the song?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "74", "query-text": "kiwi", "response": ["what is the national animal of new zealand?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "75", "query-text": "tornadoes", "response": ["how do tornadoes form?|where do tornadoes form?|where are tornadoes?|where can tornadoes form?|where are tornadoes most?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "76", "query-text": "raised gardens", "response": ["how to build raised garden beds?|how to build raised garden beds?|how to build raised garden beds?|how to build raised garden beds?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "77", "query-text": "bobcat", "response": ["what is the name of a bobcat?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "78", "query-text": "dieting", "response": ["is it possible to lose weight without dieting?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "79", "query-text": "voyager", "response": ["what is the name of the voyager spacecraft?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "80", "query-text": "keyboard reviews", "response": ["best keyboard for laptops?|keyboard reviews?|keyboard reviews uk?|keyboard reviews pc?|keyboard reviews uk?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "81", "query-text": "afghanistan", "response": ["where is afghanistan?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "82", "query-text": "joints", "response": ["can be replaced by artificial joints?|what are artificial joints?|what are the uses of artificial joints?|what are artificial joints made of?|what are artificial joints used for?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "83", "query-text": "memory", "response": ["has a short life span?|what is memory?|how does memory work?|how long does memory last?|how does memory loss occur?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "84", "query-text": "continental plates", "response": ["what is the name of the continental plate?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "85", "query-text": "milwaukee journal sentinel", "response": ["what time does the milwaukee journal sentinel come out?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "86", "query-text": "bart sf", "response": ["how to use bart???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "87", "query-text": "who invented music", "response": ["Who invented music?|Who invented music?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "88", "query-text": "forearm pain", "response": ["what causes forearm pain?|what causes forearm pain?|what causes forearm pain?|what causes forearm pain?|what causes forearm pain?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "89", "query-text": "ocd", "response": ["what is ocd?|what is the cause of ocd?|what is the treatment for ocd?|what is ocd?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "90", "query-text": "mgb", "response": ["is a cpu? what is mb?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "91", "query-text": "er tv show", "response": ["er tv show?|er tv show?|er tv show?|er tv show?|er tv show?|er tv show?|er tv show?|er tv show?|er tv show?|er tv show?|er tv show?|er tv show?|er tv show?|er tv show?|er tv show?|er tv show?|er tv show?|er tv show?|er tv show?|er tv show?|er tv show?|er tv show?|er tv show?|er tv show?|er tv show?|er tv show?|er tv show?|er tv show?|er "], "metadata": {"model": "flan-ul2"}}
+{"query-id": "92", "query-text": "the wall", "response": ["what is the wall?|what is the wall?|what is the wall?|what is the wall?|what is the wall?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "93", "query-text": "raffles", "response": ["how to play raffles?|how to win a raffle?|how to win a raffle?|how to win a raffle?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "94", "query-text": "titan", "response": ["is the movie titanic good?|titan is the movie good?|titan is the movie good or bad?|titan is the movie good or bad?|titan is the movie good or bad?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "95", "query-text": "earn money at home", "response": ["earn money online from home?|earn extra money from home?|how to earn extra money from home?|earn money online from home?|earn money from home?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "96", "query-text": "rice", "response": ["can be eaten after a meal? and how?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "97", "query-text": "south africa", "response": ["what is the capital of south africa?|what country is south africa in?|what is the capital of south africa?|what ia the capital of south africa?|what is the capital city of south africa?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "98", "query-text": "sat", "response": ["name of the sats paper?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "99", "query-text": "satellite", "response": ["satellite tv channels?|satellite tv channel?|satellite tv channel list?|satellite tv channel programming?|satellite tv channel guide?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "100", "query-text": "rincon puerto rico", "response": ["puerto rico weather today?"], "metadata": {"model": "flan-ul2"}}

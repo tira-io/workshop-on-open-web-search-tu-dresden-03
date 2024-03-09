@@ -1,0 +1,51 @@
+{"query-id": "1", "query-text": "cranberries urinary tract infections", "response": ["cranberry juice urinary tract infection"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "2", "query-text": "acupuncture insomnia", "response": ["acupuncture for back pain??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "3", "query-text": "acupuncture epilepsy", "response": ["acupuncture for stuttering"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "4", "query-text": "honey wound", "response": ["honey on wounds???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "5", "query-text": "acupuncture migraine", "response": ["acupuncture for pain relief??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "6", "query-text": "amygdalin laetrile cancer", "response": ["amygdalin laetrile treatment"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "7", "query-text": "aspirin vascular dementia", "response": ["aspirin and dementia risk?|aspirin and dementia|aspirin and vascular dementia|aspirin and vascular disease"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "8", "query-text": "melatonin jet lag", "response": ["What time should I take melatonin to avoid jet lag?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "9", "query-text": "ear drops remove ear wax", "response": ["what are ear drops used for??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "10", "query-text": "gene therapy sickle cell", "response": ["sickle cell disease gene therapy?|sickle cell disease gene therapy?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "11", "query-text": "exercise lower back pain", "response": ["lower back pain relief exercise???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "12", "query-text": "circumcision hiv", "response": ["circumcision and hiv infection risk?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "13", "query-text": "antidepressants low-back pain", "response": ["antidepressants for mild depression?|what is antidepressant?|antidepressants for low back pain?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "14", "query-text": "breathing exercises kids with asthma", "response": ["breathing exercises for asthma patients???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "15", "query-text": "probiotics bacterial vaginosis", "response": ["what are the signs of bacterial vaginosis?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "16", "query-text": "magnesium muscle cramps", "response": ["muscle cramps charlie horses?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "17", "query-text": "lumbar supports lower back pain", "response": ["lower back pain treatment backache relief backache"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "18", "query-text": "electrical stimulation male urinary incontinence", "response": ["electrical stimulation for prostate cancer?|electrical stimulation for prostate cancer?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "19", "query-text": "honey children cough", "response": ["cough honey for children?|honey for cough?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "20", "query-text": "steroids spinal cord injury", "response": ["spinal cord marrow transplantation recovery time"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "21", "query-text": "acupuncture vascular dementia", "response": ["acupuncture for vascular dementia??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "22", "query-text": "hydroxyzine generalized anxiety disorder", "response": ["hydroxyzine for ocd"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "23", "query-text": "insulin gestational diabetes", "response": ["gestational diabetes and weight loss?|gestational diabetes and weight gain?|gestational diabetes and weight loss?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "24", "query-text": "yoga epilepsy", "response": ["epilepsy yoga poses for beginners?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "25", "query-text": "fish oil ulcerative colitis", "response": ["fish oil and ulcerative colitis?|fish oil and ulcerative colitis?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "26", "query-text": "vaccine common cold", "response": ["what is the vaccine for the common cold?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "27", "query-text": "antibiotics children wet cough", "response": ["how do you treat a wet cough?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "28", "query-text": "antibiotics whooping cough", "response": ["What is the medication for whooping cough?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "29", "query-text": "antibiotics children pneumonia", "response": ["how long do antibiotics take to work for pneumonia?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "30", "query-text": "aloe vera wounds", "response": ["aloe vera gel??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "31", "query-text": "exercise hot flashes night sweats menopause", "response": ["hot flashes menopause?n"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "32", "query-text": "ginkgo biloba tinnitus", "response": ["ginkgo biloba and tinnitus"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "33", "query-text": "hypnotherapy quit smoking", "response": ["how to quit smoking hypnosis?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "34", "query-text": "exercises for female incontinence", "response": ["Exercises to build muscle mass??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "35", "query-text": "valerian anxiety disorder", "response": ["valerian anxiety treatment?|valerian anxiety treatment?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "36", "query-text": "dental sealants", "response": ["dental sealant dentists near me?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "37", "query-text": "laxatives hemorrhoids", "response": ["how to get rid of hemorrhoids"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "38", "query-text": "traction lower back pain", "response": ["back pain relief traction device??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "39", "query-text": "muscle relaxants back pain", "response": ["what are the best muscle relaxants?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "40", "query-text": "cinnamon diabetes", "response": ["cinnamon and blood sugar levels???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "41", "query-text": "benzos alcohol withdrawal", "response": ["alcohol withdrawal symptoms?|alcohol withdrawal"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "42", "query-text": "probiotics eczema", "response": ["probiotics for rosacea treatment"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "43", "query-text": "compression stockings varicose veins", "response": ["what are compression stockings for?|what are compression stockings?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "44", "query-text": "vitamins epilepsy", "response": ["vitamin for epilepsy in children?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "45", "query-text": "caffeine asthma", "response": ["caffeine and asthma attack???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "46", "query-text": "feverfew migraines", "response": ["feverfew for headaches?|feverfew for migraines?|feverfew for headache?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "47", "query-text": "insoles back pain", "response": ["what is the best insole for back pain?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "48", "query-text": "acupuncture asthma", "response": ["acupuncture for hayfever?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "49", "query-text": "sulfasalazine rheumatoid arthritis", "response": ["sulfasalazine rheumatoid arthritis"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "50", "query-text": "surgery obesity", "response": ["obesity and surgery?|obesity and surgery?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "51", "query-text": "dehumidifiers asthma", "response": ["what is the best dehumidifier for asthma?"], "metadata": {"model": "flan-ul2"}}

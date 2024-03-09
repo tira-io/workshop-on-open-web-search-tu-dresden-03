@@ -1,0 +1,12 @@
+{"name":"BM25","ndcg_cut.10":0.280900312,"recall_1000":0.5919721047,"dataset":"medline-2017-trec-pm-2017-20230211-training","model":"flan-ul2"}
+{"name":"BM25+RM3","ndcg_cut.10":0.3050825013,"recall_1000":0.6046582452,"dataset":"medline-2017-trec-pm-2017-20230211-training","model":"flan-ul2"}
+{"name":"BM25+KL","ndcg_cut.10":0.3020649499,"recall_1000":0.6233148881,"dataset":"medline-2017-trec-pm-2017-20230211-training","model":"flan-ul2"}
+{"name":"BM25+Q2E\/ZS","ndcg_cut.10":0.2789136276,"recall_1000":0.5915769204,"dataset":"medline-2017-trec-pm-2017-20230211-training","model":"flan-ul2"}
+{"name":"BM25","ndcg_cut.10":0.280900312,"recall_1000":0.5919721047,"dataset":"medline-2017-trec-pm-2017-20230211-training","model":"llama"}
+{"name":"BM25+RM3","ndcg_cut.10":0.3050825013,"recall_1000":0.6046582452,"dataset":"medline-2017-trec-pm-2017-20230211-training","model":"llama"}
+{"name":"BM25+KL","ndcg_cut.10":0.3020649499,"recall_1000":0.6233148881,"dataset":"medline-2017-trec-pm-2017-20230211-training","model":"llama"}
+{"name":"BM25+Q2E\/ZS","ndcg_cut.10":0.302430655,"recall_1000":0.6252821442,"dataset":"medline-2017-trec-pm-2017-20230211-training","model":"llama"}
+{"name":"BM25","ndcg_cut.10":0.280900312,"recall_1000":0.5919721047,"dataset":"medline-2017-trec-pm-2017-20230211-training","model":"gpt"}
+{"name":"BM25+RM3","ndcg_cut.10":0.3050825013,"recall_1000":0.6046582452,"dataset":"medline-2017-trec-pm-2017-20230211-training","model":"gpt"}
+{"name":"BM25+KL","ndcg_cut.10":0.3020649499,"recall_1000":0.6233148881,"dataset":"medline-2017-trec-pm-2017-20230211-training","model":"gpt"}
+{"name":"BM25+Q2E\/ZS","ndcg_cut.10":0.342622675,"recall_1000":0.6398035057,"dataset":"medline-2017-trec-pm-2017-20230211-training","model":"gpt"}

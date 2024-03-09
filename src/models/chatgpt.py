@@ -7,9 +7,9 @@ from tqdm import tqdm
 class ChatGPTWrapper(Layout):
 
     def __init__(self, max_len, temperature, name):
-        # TODO Remove API KEY
         super().__init__(name)
-        self.client = OpenAI(api_key='...')
+#        self.client = OpenAI(api_key='...')
+        self.client = OpenAI() # expects key in environment: OPENAI_API_KEY=<your_key_here>
         self.max_len = max_len
         self.temperature = temperature
 

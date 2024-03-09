@@ -1,0 +1,50 @@
+{"query-id": "1", "query-text": "What is the difference between sex and love?", "response": "What are the differences between romantic love and platonic love?", "metadata": {"model": "llama"}}
+{"query-id": "2", "query-text": "Which is better, a laptop or a desktop?", "response": "What are the pros and cons of laptops versus desktops?", "metadata": {"model": "llama"}}
+{"query-id": "3", "query-text": "Which is better, Canon or Nikon?", "response": "Camera brands comparison: Canon vs Nikon, which is better for photography?", "metadata": {"model": "llama"}}
+{"query-id": "4", "query-text": "What are the best dish detergents?", "response": "Top-rated dishwasher detergents for effective cleaning", "metadata": {"model": "llama"}}
+{"query-id": "5", "query-text": "What are the best cities to live in?", "response": "Best cities to live in for quality of life?", "metadata": {"model": "llama"}}
+{"query-id": "6", "query-text": "What is the longest river in the U.S.?", "response": "What is the length of the Mississippi River?", "metadata": {"model": "llama"}}
+{"query-id": "7", "query-text": "Which is healthiest: coffee, green tea or black tea and why?", "response": "What are the health benefits of each type of tea and which one is the healthiest?", "metadata": {"model": "llama"}}
+{"query-id": "8", "query-text": "What are the advantages and disadvantages of PHP over Python and vice versa?", "response": "Advantages and disadvantages of PHP over Python and vice versa?", "metadata": {"model": "llama"}}
+{"query-id": "9", "query-text": "Why is Linux better than Windows?", "response": "What are the advantages of using Linux over Windows?", "metadata": {"model": "llama"}}
+{"query-id": "10", "query-text": "How to sleep better?", "response": "Tips for better sleep", "metadata": {"model": "llama"}}
+{"query-id": "11", "query-text": "Should I buy an LCD TV or a plasma TV?", "response": "Differences between LCD and plasma TVs.", "metadata": {"model": "llama"}}
+{"query-id": "12", "query-text": "Train or plane? Which is the better choice?", "response": "Which is faster, train or plane?", "metadata": {"model": "llama"}}
+{"query-id": "13", "query-text": "What is the highest mountain on Earth?", "response": "What is the highest peak in the world?", "metadata": {"model": "llama"}}
+{"query-id": "14", "query-text": "Should one prefer Chinese medicine or Western medicine?", "response": "What are the differences between Chinese and Western medicine?", "metadata": {"model": "llama"}}
+{"query-id": "15", "query-text": "What are the best washing machine brands?", "response": "Top-rated washing machine brands?", "metadata": {"model": "llama"}}
+{"query-id": "16", "query-text": "Should I buy or rent?", "response": "Pros and cons of buying versus renting a home.", "metadata": {"model": "llama"}}
+{"query-id": "17", "query-text": "Do you prefer cats or dogs, and why?", "response": "What are the key characteristics of a cat or dog person?", "metadata": {"model": "llama"}}
+{"query-id": "18", "query-text": "What is the better way to grill outdoors: gas or charcoal?", "response": "Best way to grill outdoors: gas or charcoal?", "metadata": {"model": "llama"}}
+{"query-id": "19", "query-text": "Which is better, MAC or PC?", "response": "What are the advantages and disadvantages of using MAC or PC?", "metadata": {"model": "llama"}}
+{"query-id": "20", "query-text": "What is better: to use a brush or a sponge?", "response": "Advantages and disadvantages of using a brush versus a sponge for cleaning.", "metadata": {"model": "llama"}}
+{"query-id": "21", "query-text": "Which is better, Linux or Microsoft?", "response": "Comparison of Linux and Microsoft operating systems.", "metadata": {"model": "llama"}}
+{"query-id": "22", "query-text": "Which is better, Pepsi or Coke?", "response": "Comparing Pepsi and Coke, which is the better choice?", "metadata": {"model": "llama"}}
+{"query-id": "23", "query-text": "What is better, Google search or Yahoo search?", "response": "Compare Google and Yahoo search engines.", "metadata": {"model": "llama"}}
+{"query-id": "24", "query-text": "Which one is better, Netflix or Blockbuster?", "response": "Which streaming service is better, Netflix or Amazon Prime?", "metadata": {"model": "llama"}}
+{"query-id": "25", "query-text": "Which browser is better, Internet Explorer or Firefox?", "response": "Comparison of Internet Explorer and Firefox browsers.", "metadata": {"model": "llama"}}
+{"query-id": "26", "query-text": "Which is a better vehicle: BMW or Audi?", "response": "What are the key differences between BMW and Audi vehicles?", "metadata": {"model": "llama"}}
+{"query-id": "27", "query-text": "Which one is better, an electric stove or a gas stove?", "response": "Advantages and disadvantages of electric stove vs gas stove.", "metadata": {"model": "llama"}}
+{"query-id": "28", "query-text": "What planes are best, Boeing or Airbus?", "response": "Comparison of Boeing and Airbus airplanes.", "metadata": {"model": "llama"}}
+{"query-id": "29", "query-text": "Which is better, Disneyland or Disney World?", "response": "How do Disneyland and Disney World compare in terms of attractions, atmosphere, and overall experience?", "metadata": {"model": "llama"}}
+{"query-id": "30", "query-text": "Should I buy an Xbox or a PlayStation?", "response": "Comparing Xbox and PlayStation, which is better?", "metadata": {"model": "llama"}}
+{"query-id": "31", "query-text": "Which has more caffeine, coffee or tea?", "response": "What are the differences between coffee and tea in terms of caffeine content?", "metadata": {"model": "llama"}}
+{"query-id": "32", "query-text": "Which is better, LED or LCD Reception Displays?", "response": "What are the differences between LED and LCD displays in terms of picture quality, energy consumption, and cost?", "metadata": {"model": "llama"}}
+{"query-id": "33", "query-text": "What is better: ASP or PHP?", "response": "Which is better: Python or JavaScript for web development?", "metadata": {"model": "llama"}}
+{"query-id": "34", "query-text": "What is better for the environment, a real or a fake Christmas tree?", "response": "Is buying a real or a fake Christmas tree better for the environment?", "metadata": {"model": "llama"}}
+{"query-id": "35", "query-text": "Do you prefer tampons or pads?", "response": "What are the pros and cons of using tampons versus pads for menstrual care?", "metadata": {"model": "llama"}}
+{"query-id": "36", "query-text": "What IDE is better for Java: NetBeans or Eclipse?", "response": "Which IDE is better for Java development: IntelliJ IDEA or Eclipse?", "metadata": {"model": "llama"}}
+{"query-id": "37", "query-text": "Is OpenGL better than Direct3D in terms of portability to different platforms?", "response": "Which is more platform-agnostic: OpenGL or Direct3D?", "metadata": {"model": "llama"}}
+{"query-id": "38", "query-text": "What are the differences between MySQL and PostgreSQL in performance?", "response": "What are the key differences in performance between MySQL and PostgreSQL?", "metadata": {"model": "llama"}}
+{"query-id": "39", "query-text": "Is Java code more readable than code written in Scala?", "response": "What are the differences in readability between Java and Scala code?", "metadata": {"model": "llama"}}
+{"query-id": "40", "query-text": "Which operating system has better performance: Windows 7 or Windows 8?", "response": "How does Windows 8 compare to Windows 7 in terms of performance?", "metadata": {"model": "llama"}}
+{"query-id": "41", "query-text": "Which smartphone has a better battery life: Xperia or iPhone?", "response": "Comparing battery life of Xperia and iPhone, which one lasts longer?", "metadata": {"model": "llama"}}
+{"query-id": "42", "query-text": "Which four wheel truck is better: Ford or Toyota?", "response": "What are the key differences between Ford and Toyota's four wheel trucks?", "metadata": {"model": "llama"}}
+{"query-id": "43", "query-text": "Should I prefer a Leica camera over Nikon for portrait photographs?", "response": "Nikon vs. Leica camera for portrait photography: Which is better?", "metadata": {"model": "llama"}}
+{"query-id": "44", "query-text": "Which company has a larger capitalization: Apple or Microsoft?", "response": "Compare the market capitalization of Apple and Microsoft.", "metadata": {"model": "llama"}}
+{"query-id": "45", "query-text": "Which laptop has a better durability: HP or Dell?", "response": "How do HP and Dell laptops compare in terms of durability?", "metadata": {"model": "llama"}}
+{"query-id": "46", "query-text": "Which beverage has more calories per glass: beer or cider?", "response": "Calorie count of beer vs cider.", "metadata": {"model": "llama"}}
+{"query-id": "47", "query-text": "Is admission rate in Stanford higher than that of MIT?", "response": "What is the admission rate for Stanford University compared to other top universities?", "metadata": {"model": "llama"}}
+{"query-id": "48", "query-text": "Is pasta healthier than pizza?", "response": "Which is healthier, pasta or pizza?", "metadata": {"model": "llama"}}
+{"query-id": "49", "query-text": "Which city is more expensive to live in: San Francisco or New York?", "response": "Which city is more expensive to live in: New York City or London?", "metadata": {"model": "llama"}}
+{"query-id": "50", "query-text": "Whose salary is higher: basketball or soccer players?", "response": "Which sport has higher paid players: basketball or soccer?", "metadata": {"model": "llama"}}

@@ -1,0 +1,12 @@
+{"name":"BM25","ndcg_cut.10":0.1764768843,"recall_1000":0.7053274372,"dataset":"longeval-train-20230513-training","model":"flan-ul2"}
+{"name":"BM25+RM3","ndcg_cut.10":0.1686466305,"recall_1000":0.7219695486,"dataset":"longeval-train-20230513-training","model":"flan-ul2"}
+{"name":"BM25+KL","ndcg_cut.10":0.1729510677,"recall_1000":0.7230939409,"dataset":"longeval-train-20230513-training","model":"flan-ul2"}
+{"name":"BM25+Q2E\/ZS","ndcg_cut.10":0.1526524332,"recall_1000":0.7009691219,"dataset":"longeval-train-20230513-training","model":"flan-ul2"}
+{"name":"BM25","ndcg_cut.10":0.1764768843,"recall_1000":0.7053274372,"dataset":"longeval-train-20230513-training","model":"llama"}
+{"name":"BM25+RM3","ndcg_cut.10":0.1686466305,"recall_1000":0.7219695486,"dataset":"longeval-train-20230513-training","model":"llama"}
+{"name":"BM25+KL","ndcg_cut.10":0.1729510677,"recall_1000":0.7230939409,"dataset":"longeval-train-20230513-training","model":"llama"}
+{"name":"BM25+Q2E\/ZS","ndcg_cut.10":0.1359890038,"recall_1000":0.6718220495,"dataset":"longeval-train-20230513-training","model":"llama"}
+{"name":"BM25","ndcg_cut.10":0.1764768843,"recall_1000":0.7053274372,"dataset":"longeval-train-20230513-training","model":"gpt"}
+{"name":"BM25+RM3","ndcg_cut.10":0.1686466305,"recall_1000":0.7219695486,"dataset":"longeval-train-20230513-training","model":"gpt"}
+{"name":"BM25+KL","ndcg_cut.10":0.1729510677,"recall_1000":0.7230939409,"dataset":"longeval-train-20230513-training","model":"gpt"}
+{"name":"BM25+Q2E\/ZS","ndcg_cut.10":0.167345723,"recall_1000":0.705689637,"dataset":"longeval-train-20230513-training","model":"gpt"}

@@ -1,0 +1,225 @@
+{"query-id": "1", "query-text": "Electoral College", "response": ["what does the electoral college do?? what is the electoral college?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "2", "query-text": "Ireland consular information sheet", "response": ["ireland consular information? sheet?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "3", "query-text": "Citizen attitudes toward prairie dogs", "response": ["Citizen attitudes toward wolves?| Citizen attitudes toward snakes?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "4", "query-text": "JPL stardust comet wild", "response": ["jpl stardust?, jpl stardust pictures?, jpl stardust mission?, jpl stardust facts?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "5", "query-text": "American music", "response": ["american music awards?????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "6", "query-text": "Philadelphia streets", "response": ["what street is philadelphia on?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "7", "query-text": "Togo embassy", "response": ["ghana embassy togo? ghana embassy london? ghana embassy in paris?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "8", "query-text": "Philippines", "response": ["list of countries and territories by population?|list of countries and territories by population"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "9", "query-text": "Baltimore", "response": ["is the capital of? or the capital of maryland?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "10", "query-text": "well water contamination", "response": ["what is the best way to clean contaminated water?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "11", "query-text": "Pileated woodpecker", "response": ["what kind of woodpecker is this?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "12", "query-text": "oil petroleum resources", "response": ["what are the natural resources of venezuela?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "13", "query-text": "Eruption of Mount St. Helens", "response": ["what is Mount St. Helens?|what is the name of mount st. helens?|what is the name of mount st. helens?|where is mount st. helens?|when did mount st. helens erupt?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "14", "query-text": "Club drugs", "response": ["what are the best club drugs??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "15", "query-text": "welfare reform", "response": ["what are the welfare reforms?|what are the welfare reforms?|what are the welfare reforms?|what are the welfare reforms in america?|what are the welfare reforms in kansas?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "16", "query-text": "Sandhill cranes and the Platte river", "response": ["what are sandhill cranes?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "17", "query-text": "Secure linux", "response": ["linux system administration? linux system?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "18", "query-text": "Copyright basics", "response": ["what is copyright law?|what is copyright protection?|what is copyright protection?|what is copyright?|what is copyrighted?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "19", "query-text": "toxic waste", "response": ["how do you dispose of toxic waste?|how do you dispose of toxic waste?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "20", "query-text": "Tuskegee airmen observance", "response": ["tuskegee airmen?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "21", "query-text": "substance abuse", "response": ["what are the signs of substance abuse?|what are the signs of drug abuse?|what are the signs of alcohol abuse?|what are the signs of drug abuse?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "22", "query-text": "National atlas maps", "response": ["national geographic atlas? maps? atlas?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "23", "query-text": "Iraq Kuwait threat history", "response": ["iraq kuwait war?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "24", "query-text": "child care", "response": ["how to find child care?|child care?|children care?|child care center?|child care jobs?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "25", "query-text": "History of Phoenix Symbol", "response": ["What is the meaning of the phoenix symbol?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "26", "query-text": "The White House President Bush's cabinet", "response": ["what is the white house?|what color is the white house?|what is the white house?|what is the white house address?|what is the white house phone number?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "27", "query-text": "OPM New Retirees", "response": ["opm retirement benefits? opm retiree?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "28", "query-text": "FDA 2002 press releases", "response": ["2002 fda press releases? fda press releases?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "29", "query-text": "Grand canyon monitoring and research center", "response": ["grand canyon research center???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "30", "query-text": "HIV/AIDS", "response": ["what is syphilis?|what is syphilis?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "31", "query-text": "origin of the universe", "response": ["what is the origin of the universe?|what is the origin of the universe?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "32", "query-text": "A history of American agriculture", "response": ["agriculture in the united states today?|agriculture in the united states today?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "33", "query-text": "teen pregnancy", "response": ["what is the average age of pregnancy?|what is the average age of teen pregnancy?|what is the average age of a first pregnancy?|what is the average age of a second pregnancy?|what is the average age of a third pregnancy?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "34", "query-text": "NTP Herbal medicine factsheet", "response": ["what is herbal medicine?|what is herbal medicine used for?|what is herbal medicine used for?|what is herbal medicine used for?|what is herbal medicine used for?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "35", "query-text": "Religious Freedom amendment", "response": ["religious freedom amendment?|what is the religious freedom amendment?|what is the religious freedom amendment?|what is the religious freedom amendment?|what does the religious freedom amendment mean?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "36", "query-text": "the arts in education", "response": ["arts education institute?|arts education institute?|arts education institutes?|arts education institute?|arts education institutes?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "37", "query-text": "magnetism", "response": ["is electromagnetism a property of?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "38", "query-text": "Ohio dams and locks", "response": ["dams in ohio?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "39", "query-text": "Child support enforcement cost/benefit", "response": ["how much money will i get in child support?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "40", "query-text": "public school standards of performance", "response": ["public school standards?|public school standards of performance?|public school standards?|public school standards?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "41", "query-text": "historic preservation", "response": ["what is historic preservation?|what is historic preservation?|what is historic preservation in hawaii?|what is historic preservation in texas?|what is historic preservation in florida?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "42", "query-text": "Sibir Air anatomy of a disaster", "response": ["saturn s-l15 rocket?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "43", "query-text": "Vehicle registration California", "response": ["Where can I find information on vehicle registration?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "44", "query-text": "Dash combination diet", "response": ["dr. oz combination diet?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "45", "query-text": "faith-based initiatives", "response": ["what is faith-based initiative?|faith-based initiatives|faith-based initiatives in the united states|faith-based initiatives united states|faith-based initiatives in iran"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "46", "query-text": "Local drinking water", "response": ["water filtration system?|water filtration systems?|water filter system?|water filter system?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "47", "query-text": "medical residency", "response": ["what is the best medical residency?|what is the best medical residency?|what is a medical residency?|what is a medical residency in the united states?|what is a medical residency in the united states?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "48", "query-text": "federal and state statistics", "response": ["federal and state unemployment statistics???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "49", "query-text": "FCC consumer bureau", "response": ["what is the fcc consumer bureau?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "50", "query-text": "money laundering", "response": ["how is money laundering detected?|what is money laundering?|how is money laundering prevented?|what is the process of money laundering?|what are the symptoms of money laundering?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "51", "query-text": "Consumer food advice", "response": ["consumer advice on cling film?|consumer advice on cling film?|consumer advice on cling film?|consumer advice on cling film?|consumer advice on cling film?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "52", "query-text": "Monterey Bay national marine sanctuary", "response": ["california state parks?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "53", "query-text": "telecommuting", "response": ["can you telecommute?|telecommuting|telecommuting jobs|telecommuting jobs for moms|telecommuting jobs for stay-at-home moms"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "54", "query-text": "Food and Drug Administration", "response": ["food and drug administration fda?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "55", "query-text": "Budget process in the U.S. department of education", "response": ["How much does the U.S. Department of Education spend each year?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "56", "query-text": "Kudzu invasive species", "response": ["invasive species of plants in florida?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "57", "query-text": "religious belief", "response": ["what is the belief system of the buddhists?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "58", "query-text": "automobile emissions vehicle pollution", "response": ["automobile emissions canada?, automobile emissions usa?, automobile emissions australia?, automobile emissions california?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "59", "query-text": "Health resources and services administration", "response": ["health administration jobs? health administration degree? health administration jobs?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "60", "query-text": "Plant hardiness zones", "response": ["what plant hardiness zone is wyoming?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "61", "query-text": "Cosmology peebles turner", "response": ["cosmologist peebles? cosmologist john peebles?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "62", "query-text": "FirstGov for Kids computers", "response": ["what is the kids computer program??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "63", "query-text": "art museums", "response": ["list of museums in london?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "64", "query-text": "Cell phone radiation", "response": ["cell phone radiation dangers? how much radiation?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "65", "query-text": "California art council", "response": ["what is the council of art??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "66", "query-text": "intelligence analysis", "response": ["intelligence analyst job description?? intelligence analyst job description?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "67", "query-text": "State local gateway", "response": ["state gateway id?? state local gateway?? state local gateway name??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "68", "query-text": "women's health binge eating disorders", "response": ["what are the symptoms of binge eating disorder?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "69", "query-text": "Mono basin national forest, lake", "response": ["map of california national forest?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "70", "query-text": "Social security office locator", "response": ["social security office locator idaho"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "71", "query-text": "Duck identification guide", "response": ["ducks identification?|ducks identification guide|duck identification guide|ducks identification guide|ducks identification guide|ducks identification guide|ducks identification guide|ducks identification guide|ducks identification guide|ducks identification guide|ducks identification guide|ducks identification guide|ducks identification guide|ducks identification guide|ducks identification guide|ducks identification guide|ducks identification guide|ducks identification guide|ducks identification guide|ducks identification guide|ducks identification guide|ducks identification guide|ducks identification guide|ducks identification guide|ducks identification guide|ducks identification guide|ducks identification guide|ducks identification guide|ducks identification guide|ducks identification guide|ducks identification guide|ducks identification guide|ducks identification guide|ducks"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "72", "query-text": "Edy's Ice cream recall", "response": ["Edy's ice cream recall?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "73", "query-text": "solar flares", "response": ["what is a solar flare?|what causes solar flares?|what is a solar flare?|what causes solar flares?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "74", "query-text": "skin cancer", "response": ["what are the causes of skin cancer?|what are the symptoms of skin cancer?|what are the causes of skin cancer?|what are the symptoms of skin cancer?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "75", "query-text": "NOAA Fisheries Northwest Region", "response": ["NOAA Fisheries Southwest Region?, NOAA Fisheries Northwest Region?, NOAA Fisheries Southeast Region?, NOAA Fisheries Northeast Region?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "76", "query-text": "Streamline your FHA mortgage", "response": ["what is fha mortgage insurance?|fha mortgage rates|fha loan|fha mortgage calculator|fha loan interest"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "77", "query-text": "HCFA Manuals", "response": ["hcfa manuals? hcfa manuals?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "78", "query-text": "US Antarctic program Antarctic sciences section", "response": ["antarctic science journal? antarctic science conference? antarctic science and technology program?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "79", "query-text": "international trade", "response": ["international trade statistics?????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "80", "query-text": "Department of Labor's wage and hour division", "response": ["u.s. department of labor's wage and hour division?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "81", "query-text": "mosquito control", "response": ["how to get rid of mosquitoes?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "82", "query-text": "1000 most popular given names births 2000", "response": ["2000 most popular given names???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "83", "query-text": "NSA Home for kids", "response": ["nsa kids? what is nsa?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "84", "query-text": "National Institute on Alcohol Abuse and Alcoholism homepage", "response": ["niaaa homepage? alcohol?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "85", "query-text": "International parental child abduction", "response": ["international child abduction? i.c.a.?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "86", "query-text": "California state auditor", "response": ["who is the california state auditor?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "87", "query-text": "chronic pain", "response": ["what is chronic pain?|what is chronic pain treatment?|what is chronic pain?|what is chronic pain syndrome?|what is chronic pain syndrome?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "88", "query-text": "Frank Lloyd Wright", "response": ["who designed the frank lloyd wright house?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "89", "query-text": "CDC Rabies homepage", "response": ["cdc rabies vaccine?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "90", "query-text": "Healthy homes and lead hazard control", "response": ["what is the lead hazard control act?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "91", "query-text": "OPM Dual employment", "response": ["opm dual employment requirements? what are the requirements?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "92", "query-text": "DOE illness compensation", "response": ["atomic bomb illness? : atomic bomb illness?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "93", "query-text": "Head start home", "response": ["head start program??????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "94", "query-text": "Florida Keys Marine sanctuary", "response": ["florida keys marine sanctuary? what is the florida keys marine sanctuary?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "95", "query-text": "Flu in the United States", "response": ["What is the most common flu in the United States?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "96", "query-text": "the planet mars", "response": ["how far away is mars from earth?|how far is mars from earth?|how far is mars from earth?|how far is mars from earth?|how far is mars from earth?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "97", "query-text": "UFOs", "response": ["what is the best ufo movie?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "98", "query-text": "Mine Safety and Health Administration", "response": ["name a safety and health agency??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "99", "query-text": "salmon", "response": ["can i eat raw? what are the health benefits?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "100", "query-text": "Stable isotopes and bird migration", "response": ["What is the most important isotope of carbon?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "101", "query-text": "migrant farm workers", "response": ["migrant worker? migrant worker? migrant worker?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "102", "query-text": "diet and nutrition and weight management", "response": ["what is the best diet for weight loss?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "103", "query-text": "vanity license plates", "response": ["what are vanity license plates?|what are vanity license plates?|what are vanity license plates?|what are vanity license plates?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "104", "query-text": "space exploration", "response": ["what are the benefits of space exploration?|what are the benefits of space exploration?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "105", "query-text": "Presidential rank merit awards for federal employees", "response": ["presidential citations for federal employees? | presidential citations for federal employees?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "106", "query-text": "National gambling impact study commission", "response": ["nevada gambling impact study?|nevada gambling impact study?|nevada gambling impact study?|nevada gambling impact study?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "107", "query-text": "small business", "response": ["what is the best business to start?|small business ideas?|small business opportunities?|small business ideas for women?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "108", "query-text": "Panic disorder NIMH", "response": ["nimh panic disorder? nimh panic disorder? nimh panic disorder?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "109", "query-text": "Mojave Desert Ecology", "response": ["what are some facts about the mojave desert?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "110", "query-text": "FEMA victims disaster information", "response": ["fema disaster information for?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "111", "query-text": "species identification", "response": ["identification of a species??n"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "112", "query-text": "Oak Ridge Tennessee DOE", "response": ["what is the oak ridge tennessee school district?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "113", "query-text": "Fermilab Flora Fauna", "response": ["fermilab flora fauna?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "114", "query-text": "Laguna Canyon landslide", "response": ["landslide near santa monica"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "115", "query-text": "information security", "response": ["what is information security management?|what is information security?|what is information security?|what is information security job?|what is information security?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "116", "query-text": "FAFSA", "response": ["application deadline?|fafsa deadline?|fafsa application?|fafsa deadline?|fafsa application?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "117", "query-text": "San Diego water supply", "response": ["san diego water supply to homes?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "118", "query-text": "California board of corrections", "response": ["california board of education?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "119", "query-text": "Groundhog day Punxsutawney", "response": ["groundhog day? Punxsutawney Phil?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "120", "query-text": "St. Paul sidewalk snow shoveling ordnance", "response": ["st. paul sidewalk snow shoveling?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "121", "query-text": "identity theft", "response": ["what is identity theft?|identity theft?|how do you know if you are being identity stolen?|what is identity theft?|what is identity theft?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "122", "query-text": "White House fellowships", "response": ["what is the white house fellowship?|what is the white house fellowship?|what does a white house fellowship?|what is the white house fellowship?|what does the white house fellowship pay?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "123", "query-text": "Cave exploring lesson plan", "response": ["cave exploring video?, cave exploring tv show, cave exploring video, cave exploring tv show, cave exploring video?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "124", "query-text": "Detailed information on humpback whale", "response": ["what is the largest whale?|what is the largest whale in the world?|what is the largest whale in the world?|what is the largest whale in the world?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "125", "query-text": "english as a second language", "response": ["what is the best way to learn a second language?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "126", "query-text": "Trademark FAQ", "response": ["trademarks and copyrights? what is the difference?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "127", "query-text": "GPS", "response": ["is used for? *? *? *? *?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "128", "query-text": "Planetary balloon program", "response": ["planetary balloon launch? planetary balloon program? planetary balloon project? planetary balloon mission?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "129", "query-text": "NODC coastal water temp", "response": ["NODC coastal water temp nj?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "130", "query-text": "Bay Area Terrorism hazards", "response": ["terrorism san francisco?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "131", "query-text": "Persian gulf war veterans and Lou Gehrig's disease", "response": ["What is a disease that has a name that sounds like Lou Gehrig's?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "132", "query-text": "Food illness reporting", "response": ["what is the food illness reporting system?|food illness reporting system|food illness reporting system|food illness reporting system|food illness reporting system"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "133", "query-text": "human genome research", "response": ["what is the human genome???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "134", "query-text": "national parks", "response": ["u.s. national parks??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "135", "query-text": "Laura Welch Bush", "response": ["who is laura bush?|laura bush president?|laura bush family?|laura bush husband?|laura bush president?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "136", "query-text": "career information", "response": ["what is a career in information technology?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "137", "query-text": "maps, mapping, cartography", "response": ["map of the world?, map of the world in 1850?, map of the world in 1850?, map of the world in 1850?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "138", "query-text": "Risks of tattoos and permanent makeup", "response": ["How much does it cost to get a tattoo?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "139", "query-text": "poetry readings and poems online", "response": ["poetry readings online?|poetry readings online?|poetry readings online free?|poetry readings online?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "140", "query-text": "Natural Resources Conservation Service", "response": ["what is the nrcs?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "141", "query-text": "international monetary fund", "response": ["what is imf?|imf govt?|imf govt.|imf govt. org.|imf govt. org"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "142", "query-text": "HEV program homepage", "response": ["honda hybrid vehicle? honda hybrid car?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "143", "query-text": "FEMA for kids hurricane facts", "response": ["hurricane facts for kids?|hurricane facts for kids?|hurricane facts for kids?|hurricane facts for kids?|hurricane facts for kids?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "144", "query-text": "California Tahoe conservancy", "response": ["california lake tahoe snow?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "145", "query-text": "National Fallen firefighters memorial", "response": ["what is the memorial for fallen firefighters?|fallen firefighters memorial day?|fallen firefighters memorial day in ny?|fallen firefighters memorial day in vegas?|fallen firefighters memorial day in nj?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "146", "query-text": "astrobiology", "response": ["what is astrobiology?|what is astrobiology?|what is astrobiology?|what is astrobiology definition?|what is astrobiology?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "147", "query-text": "Hearing and Balance How loud is too loud?", "response": ["How loud is too loud? What causes hearing loss?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "148", "query-text": "low-income housing", "response": ["houston housing options low income?|houston housing options low income?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "149", "query-text": "National science bowl", "response": ["what is the national science bowl?|what is the national science bowl?|what is the national science bowl?|what is the national science bowl?|what is the national science bowl?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "150", "query-text": "Snake bite first aid", "response": ["what to do to a spider bite?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "151", "query-text": "Institutions and universities in fuel cell research", "response": ["What are the top universities for fuel cell research?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "152", "query-text": "bioengineered foods crops", "response": ["what are biotech crops?|what are biotech crops?|what are biotech crops?|what are biotech crops?|what are biotech crops?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "153", "query-text": "technology transfer", "response": ["physics of technology???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "154", "query-text": "Kids Now by state", "response": ["state of california?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "155", "query-text": "federal government outsourcing", "response": ["what does the government outsource?|what does the government outsource to?|what does the government outsource?|what does the government outsource to?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "156", "query-text": "CPSC Recalls", "response": ["cpsc recalls infant car seats"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "157", "query-text": "federal grant programs", "response": ["what are federal grant programs?|what are the federal grant programs?|what are the federal grant programs for college students?|what are the federal grant programs for women?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "158", "query-text": "Ethics, congress representatives", "response": ["congress representatives for texas?| congress representatives for texas?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "159", "query-text": "Tax-cut deja-voo-doo", "response": [": : When will the Bush tax cuts expire? : :"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "160", "query-text": "scholarship programs", "response": ["what are the best scholarships for a freshman?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "161", "query-text": "Worst tornado outbreak on record", "response": ["The worst tornado outbreak in the United States?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "162", "query-text": "FDA cleared medical devices", "response": ["medical devices made in china???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "163", "query-text": "bioterrorism", "response": ["what is the definition of bioterrorism?|what is the definition of bioterrorism?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "164", "query-text": "winter weather safety", "response": ["how to stay safe in cold weather?|how to keep warm in cold weather?|how to stay warm in cold weather?|how to keep warm in cold weather?|how to keep warm in cold weather?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "165", "query-text": "national laboratories", "response": ["what are the names of the national laboratories?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "166", "query-text": "Art in white house", "response": ["what is in the white house??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "167", "query-text": "after-school programs", "response": ["what are after school programs?|what are after school programs?|what are after school programs for teens?|what are after school programs for gifted?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "168", "query-text": "Maryland Rural development", "response": ["md rural development???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "169", "query-text": "how to save energy", "response": ["how to save energy in a house?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "170", "query-text": "science fairs and competitions", "response": ["what are the best science fair projects??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "171", "query-text": "Agricultural research service", "response": ["agrc cds"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "172", "query-text": "FCC Freedom of Information act", "response": ["fcc freedom of information act?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "173", "query-text": "Internet business cards", "response": ["internet business card templates? free? free business cards?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "174", "query-text": "Keeping cholesterol under control", "response": ["how do you control your cholesterol?|what foods can help?|what are good foods?|what is good for high cholesterol?|what foods are good for your cholesterol?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "175", "query-text": "Social security benefits application", "response": ["social security number?? social security number?? social security number?? social security number?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "176", "query-text": "hurricanes", "response": ["category 3 hurricanes? what are they?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "177", "query-text": "minority business", "response": ["minority owned business?|what are minority owned businesses?|what does minority owned business mean?|what is a minority owned business?|what are minority owned businesses?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "178", "query-text": "recycling", "response": ["how do you recycle?|how do you recycle aluminum?|how do you recycle glass?|how do you recycle plastic?|how do you recycle paper?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "179", "query-text": "GPO subscriptions catalog", "response": ["what is gpo subscriptions?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "180", "query-text": "Greenwich Mean Time", "response": ["what time is it now? gmt"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "181", "query-text": "AHRQ clinical practice guidelines", "response": ["AHRQ clinical practice guidelines? :"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "182", "query-text": "Federal consumer information center scams", "response": ["federal consumer protection agency? | federal consumer protection agency job? | federal consumer protection agency scams? | federal consumer protection agency office?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "183", "query-text": "Near earth asteroids", "response": ["what is the name of the largest asteroid?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "184", "query-text": "No child left behind", "response": ["what is no child left behind?|no child left behind in texas?|no child left behind in america?|no child left behind in u.s. history?|no child left behind"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "185", "query-text": "estuary conservation", "response": ["conservation biology?????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "186", "query-text": "Piglet, anti-inflammatory", "response": ["piglet, anti-inflammatory, piglet, anti-inflammatory"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "187", "query-text": "Backyard bird habitat", "response": ["bird habitat for sale?|bird habitat for sale near me?|bird habitat for sale near nyc?|bird habitat for sale in nc?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "188", "query-text": "Why study comets?", "response": ["What are the advantages of studying comets?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "189", "query-text": "homeopathic medicine", "response": ["how does homeopathy work?|what is homeopathy?|what is homeopathy?|what is homeopathic medicine?|what is homeopathic treatment?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "190", "query-text": "Children's butterfly site life cycle page", "response": ["bumblebee life cycle? | bumblebee life cycle?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "191", "query-text": "coral reef systems", "response": ["coral reef system?????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "192", "query-text": "drunk driving", "response": ["how high can you get? | what is the legal blood alcohol level?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "193", "query-text": "Dinosaurs fact and fiction", "response": ["what are the facts about dinosaurs?|fact or fiction?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "194", "query-text": "cigarettes, nicotine, health", "response": ["what are the health risks of nicotine? how does it affect your body?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "195", "query-text": "FirstGov workers", "response": ["gov. uk workers strike?|government workers strike?|first gov. uk workers strike?|first government workers strike?|first government workers strike?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "196", "query-text": "New York City employee pension", "response": ["new york city employee pension plan?|new york city employee pension plan?|new york city employee pension plan?|new york city employee pension plan?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "197", "query-text": "Vietnam War", "response": ["who won the vietnam war?&lt;b&gt;...&lt;/b&gt;"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "198", "query-text": "Acupuncture effectiveness", "response": ["what is acupuncture used for? what is acupuncture used for?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "199", "query-text": "ADHD clinical trials", "response": ["adhd clinical trials dr. oz"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "200", "query-text": "maritime trade", "response": ["what is a maritime disaster?|maritime disasters|maritime|maritime disaster|maritime disasters|maritime"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "201", "query-text": "Social security inspector general", "response": ["irs inspector general? irs inspector general salary?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "202", "query-text": "Farm service agency online", "response": ["farm service agency texas? farm service agency nebraska?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "203", "query-text": "Art in embassies exhibitions", "response": ["oscars? art? oscars? oscars?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "204", "query-text": "endangered species", "response": ["endangered species list??????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "205", "query-text": "State department bureau intelligence research", "response": ["u.s. department of state?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "206", "query-text": "Bird monitoring in North America", "response": ["bird monitoring in europe? e?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "207", "query-text": "annual parades", "response": ["what are some annual parades in chicago?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "208", "query-text": "The Bill of Rights, Amendments I-X", "response": ["The Bill of Rights, Amendments I-X?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "209", "query-text": "radon", "response": ["how to test radon?|what is radon?|how much radon is in the air?|what is radon gas?|how much radon is in the air?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "210", "query-text": "California state parks jobs", "response": ["job opportunities in california state parks?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "211", "query-text": "National conference on advances in cholesterol management", "response": ["conference on cholesterol?|conference on cholesterol management?|conference on cholesterol management?|conference on cholesterol management?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "212", "query-text": "National mediation board", "response": ["mediation board? iowa? board?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "213", "query-text": "School bus recalls", "response": ["recalled school bus seats?, recalls on school bus seats?, recalls on school bus seats?, recalls on school bus seats?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "214", "query-text": "Local area unemployment statistics home", "response": ["local area unemployment statistics???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "215", "query-text": "NIH video cast", "response": ["nih videocasts? nih videocasts list?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "216", "query-text": "WINDandSEA", "response": ["what is wind and sea???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "217", "query-text": "Astronaut biographies", "response": ["astronaut biographies?s?astronaut biographies?s?astronaut biographies?s?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "218", "query-text": "MedWatch", "response": ["what is medwatch?????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "219", "query-text": "West Indian manatee information", "response": ["what is the name of a manatee?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "220", "query-text": "Wildfires USGS Wildland fire research", "response": ["wildfires california?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "221", "query-text": "homeland security", "response": ["what is the department of homeland security?|what is the department of homeland security?|what is the department of homeland security website?|what is the department of homeland security headquarters?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "222", "query-text": "Home equity credit lines", "response": ["credit card with no annual fee? how much?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "223", "query-text": "Wright Brothers history", "response": ["what did the wright brothers invent?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "224", "query-text": "York county", "response": ["york county ny map? york county ny gis? york county ny census? york county ny population?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "225", "query-text": "Japanese surrender document", "response": ["what did the japanese surrender?"], "metadata": {"model": "flan-ul2"}}

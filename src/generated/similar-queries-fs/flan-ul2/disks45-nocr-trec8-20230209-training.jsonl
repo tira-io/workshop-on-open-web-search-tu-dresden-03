@@ -1,0 +1,50 @@
+{"query-id": "401", "query-text": "foreign minorities, Germany", "response": ["minorities in germany?|what are the minorities in germany?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "402", "query-text": "behavioral genetics", "response": ["genetics and behavior? what is behavioral genetics?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "403", "query-text": "osteoporosis", "response": ["osteoporosis symptoms in men and women"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "404", "query-text": "Ireland, peace talks", "response": ["peace talks in iraq?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "405", "query-text": "cosmic events", "response": ["cosmic events 2017????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "406", "query-text": "Parkinson's disease", "response": ["What is the cause of Parkinson's disease?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "407", "query-text": "poaching, wildlife preserves", "response": ["poaching, hunting, wildlife preserves, u.s."], "metadata": {"model": "flan-ul2"}}
+{"query-id": "408", "query-text": "tropical storms", "response": ["tropical storm irene 2015?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "409", "query-text": "legal, Pan Am, 103", "response": ["legal, Pan Am, 103?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "410", "query-text": "Schengen agreement", "response": ["Schengen visa application?rr"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "411", "query-text": "salvaging, shipwreck, treasure", "response": ["salvaging a shipwreck for treasure"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "412", "query-text": "airport security", "response": ["airport security checkpoints?|airport security checkpoints?|airport security?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "413", "query-text": "steel production", "response": ["steel production in china?nwhat are the steel production in china?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "414", "query-text": "Cuba, sugar, exports", "response": ["Cuba and sugar?sugar exports?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "415", "query-text": "drugs, Golden Triangle", "response": ["drugs in the golden triangle?nwhat is the golden triangle?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "416", "query-text": "Three Gorges Project", "response": ["Three Gorges Dam Project?nn"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "417", "query-text": "creativity", "response": ["creativity vs. intelligence??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "418", "query-text": "quilts, income", "response": ["quilts, income by state??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "419", "query-text": "recycle, automobile tires", "response": ["how to recycle automobile tires?|recycle automobile tires?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "420", "query-text": "carbon monoxide poisoning", "response": ["carbon monoxide poisoning symptoms?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "421", "query-text": "industrial waste disposal", "response": ["industrial waste management company in india?|industrial waste management company in india?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "422", "query-text": "art, stolen, forged", "response": ["forged, stolen, art??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "423", "query-text": "Milosevic, Mirjana Markovic", "response": ["Mirjana Markovi-Milosevi"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "424", "query-text": "suicides", "response": ["suicide in the usa?|suicide in the united states?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "425", "query-text": "counterfeiting money", "response": ["how do you counterfeit money?|counterfeiting money?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "426", "query-text": "law enforcement, dogs", "response": ["law enforcement dog????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "427", "query-text": "UV damage, eyes", "response": ["UV damage, skin???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "428", "query-text": "declining birth rates", "response": ["what is the birth rate in europe?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "429", "query-text": "Legionnaires' disease", "response": ["What are the symptoms of Legionnaires' disease?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "430", "query-text": "killer bee attacks", "response": ["how do killer bees attack?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "431", "query-text": "robotic technology", "response": ["robotics technology development company?|robotics technology development company?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "432", "query-text": "profiling, motorists, police", "response": ["motorists, police, profiling, racial"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "433", "query-text": "Greek, philosophy, stoicism", "response": ["Greek, philosophy, stoicism, stoicism"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "434", "query-text": "Estonia, economy", "response": ["Economy of Estonia????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "435", "query-text": "curbing population growth", "response": ["curbing population growth in the world?|curbing population growth in the world?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "436", "query-text": "railway accidents", "response": ["railway accidents in india???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "437", "query-text": "deregulation, gas, electric", "response": ["what is the best electric and gas company?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "438", "query-text": "tourism, increase", "response": ["tourism, increase in kerala?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "439", "query-text": "inventions, scientific discoveries", "response": ["inventions and discoveries in science??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "440", "query-text": "child labor", "response": ["child labor in china???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "441", "query-text": "Lyme disease", "response": ["Lyme disease symptoms???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "442", "query-text": "heroic acts", "response": ["heroic deeds of the civil war"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "443", "query-text": "U.S., investment, Africa", "response": ["africa, investment, u.s."], "metadata": {"model": "flan-ul2"}}
+{"query-id": "444", "query-text": "supercritical fluids", "response": ["supercritical fluid extraction of cbd"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "445", "query-text": "women clergy", "response": ["women bishops in the church of england"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "446", "query-text": "tourists, violence", "response": ["violence against tourists?|violence against tourists?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "447", "query-text": "Stirling engine", "response": ["Stirling cycle engine?nWhy?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "448", "query-text": "ship losses", "response": ["ship wrecks?nwhat is the worst ship loss ever?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "449", "query-text": "antibiotics ineffectiveness", "response": ["antibiotics effectiveness????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "450", "query-text": "King Hussein, peace", "response": ["King Hussein of Jordan?|King Hussein of Jordan?"], "metadata": {"model": "flan-ul2"}}

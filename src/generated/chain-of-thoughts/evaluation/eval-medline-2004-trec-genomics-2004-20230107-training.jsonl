@@ -1,0 +1,12 @@
+{"name":"BM25","ndcg_cut.10":0.3442189559,"recall_1000":0.448865718,"dataset":"medline-2004-trec-genomics-2004-20230107-training","model":"flan-ul2"}
+{"name":"BM25+RM3","ndcg_cut.10":0.3457806391,"recall_1000":0.4887149942,"dataset":"medline-2004-trec-genomics-2004-20230107-training","model":"flan-ul2"}
+{"name":"BM25+KL","ndcg_cut.10":0.3530647594,"recall_1000":0.5009702994,"dataset":"medline-2004-trec-genomics-2004-20230107-training","model":"flan-ul2"}
+{"name":"BM25+CoT","ndcg_cut.10":0.3497207037,"recall_1000":0.4516661758,"dataset":"medline-2004-trec-genomics-2004-20230107-training","model":"flan-ul2"}
+{"name":"BM25","ndcg_cut.10":0.3442189559,"recall_1000":0.448865718,"dataset":"medline-2004-trec-genomics-2004-20230107-training","model":"llama"}
+{"name":"BM25+RM3","ndcg_cut.10":0.3457806391,"recall_1000":0.4887149942,"dataset":"medline-2004-trec-genomics-2004-20230107-training","model":"llama"}
+{"name":"BM25+KL","ndcg_cut.10":0.3530647594,"recall_1000":0.5009702994,"dataset":"medline-2004-trec-genomics-2004-20230107-training","model":"llama"}
+{"name":"BM25+CoT","ndcg_cut.10":0.3190049749,"recall_1000":0.4569153624,"dataset":"medline-2004-trec-genomics-2004-20230107-training","model":"llama"}
+{"name":"BM25","ndcg_cut.10":0.3442189559,"recall_1000":0.448865718,"dataset":"medline-2004-trec-genomics-2004-20230107-training","model":"gpt"}
+{"name":"BM25+RM3","ndcg_cut.10":0.3457806391,"recall_1000":0.4887149942,"dataset":"medline-2004-trec-genomics-2004-20230107-training","model":"gpt"}
+{"name":"BM25+KL","ndcg_cut.10":0.3530647594,"recall_1000":0.5009702994,"dataset":"medline-2004-trec-genomics-2004-20230107-training","model":"gpt"}
+{"name":"BM25+CoT","ndcg_cut.10":0.3414102777,"recall_1000":0.4694670011,"dataset":"medline-2004-trec-genomics-2004-20230107-training","model":"gpt"}
