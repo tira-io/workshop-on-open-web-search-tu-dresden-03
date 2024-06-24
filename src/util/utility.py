@@ -36,6 +36,7 @@ def read_queries(exp_name, model_name, dset_name):
 
 def get_all_datasets():
     return [
+        'ir-acl-anthology-20240504-training', 'ir-acl-anthology-topics-leipzig-20240423-test', 'ir-acl-anthology-topics-koeln-20240614-test', 'ir-acl-anthology-topics-augsburg-20240525_0-test',
         'msmarco-passage-trec-dl-2019-judged-20230107-training',
         'msmarco-passage-trec-dl-2020-judged-20230107-training', 'longeval-long-september-20230513-training',
         'longeval-short-july-20230513-training', 'longeval-train-20230513-training',
@@ -50,6 +51,7 @@ def get_all_datasets():
 
 def get_all_all_datasets():
     return [
+        'ir-acl-anthology-20240504-training', 'ir-acl-anthology-topics-leipzig-20240423-test', 'ir-acl-anthology-topics-koeln-20240614-test', 'ir-acl-anthology-topics-augsburg-20240525_0-test',
         'antique-test-20230107-training', 'argsme-touche-2021-task-1-20230209-training', 'argsme-touche-2020-task-1-20230209-training',
         'clueweb09-en-trec-web-2009-20230107-training', 'clueweb09-en-trec-web-2010-20230107-training', 'clueweb09-en-trec-web-2011-20230107-training',
         'clueweb09-en-trec-web-2012-20230107-training', 'clueweb12-touche-2020-task-2-20230209-training', 'clueweb12-touche-2021-task-2-20230209-training',
