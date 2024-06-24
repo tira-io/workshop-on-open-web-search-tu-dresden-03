@@ -5,11 +5,11 @@ from tqdm import tqdm
 import pandas as pd
 
 tira = Client()
-approach = 'ir-lab-sose-2024/tu-dresden-03/qe-llama-sq-fs'
+approach = 'ir-lab-sose-2024/tu-dresden-03/qe-llama-sq-zs'
 dataset_ids = ['ir-acl-anthology-20240504-training', 'ir-acl-anthology-topics-leipzig-20240423-test', 'ir-acl-anthology-topics-koeln-20240614-test', 'ir-acl-anthology-topics-augsburg-20240525_0-test']
 
 for dataset_id in tqdm(dataset_ids):
-    path = Path('generated') / 'similar-queries-fs'/ 'llama'
+    path = Path('generated') / 'similar-queries-zs'/ 'llama'
     run_file = path / f'{dataset_id}.jsonl'
 
     df = pd.read_json(run_file, lines=True)
