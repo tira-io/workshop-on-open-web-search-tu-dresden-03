@@ -6,13 +6,13 @@ from util.utility import save_query
 
 
 class FlanUL2Wrapper(Layout):
-    def __init__(self, min_len, max_len, temperature, name):
+    def __init__(self, min_len, max_len, temperature, name, modelpath):
         super().__init__(name)
         self.min_len = min_len
         self.max_len = max_len
         self.temperature = temperature
 
-        self.model = T5ForConditionalGeneration.from_pretrained("google/flan-ul2", device_map="auto", load_in_8bit=True)
+        self.model = T5ForConditionalGeneration.from_pretrained(modelpath, device_map="auto", load_in_8bit=True)
         self.tokenizer = AutoTokenizer.from_pretrained("google/flan-ul2")
 
     def process_query(self, prompt):
