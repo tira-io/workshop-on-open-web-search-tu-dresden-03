@@ -1,0 +1,13 @@
+{"query-id": "1", "query-text": "event extraction using convolutional neural networks", "response": "How to implement event extraction with convolutional neural networks?", "metadata": {"model": "gpt"}}
+{"query-id": "2", "query-text": "similarity metrics for event extraction from social media", "response": "Methods for event extraction from social media", "metadata": {"model": "gpt"}}
+{"query-id": "3", "query-text": "event extraction from cab traces", "response": "Extracting events from cab traces", "metadata": {"model": "gpt"}}
+{"query-id": "4", "query-text": "multimodal zero shot learning", "response": "What is multimodal zero shot learning and how does it work?", "metadata": {"model": "gpt"}}
+{"query-id": "5", "query-text": "self supervised image retrieval methods", "response": "Self-supervised image retrieval techniques", "metadata": {"model": "gpt"}}
+{"query-id": "6", "query-text": "multimodal large language models", "response": "Exploring multimodal large language models", "metadata": {"model": "gpt"}}
+{"query-id": "7", "query-text": "multi hop question answering using retrieval augmented generation", "response": "Approaches for multi-hop question answering with retrieval-augmented generation", "metadata": {"model": "gpt"}}
+{"query-id": "8", "query-text": "sequence to sequence models for table question answering", "response": "Implementing sequence to sequence models for table-based question answering", "metadata": {"model": "gpt"}}
+{"query-id": "9", "query-text": "weakly supervised table semantic parsing", "response": "Weakly supervised semantic parsing for tables", "metadata": {"model": "gpt"}}
+{"query-id": "10", "query-text": "relevance aware diversity metrics", "response": "What are some diversity metrics for measuring relevance awareness?", "metadata": {"model": "gpt"}}
+{"query-id": "11", "query-text": "coordination between small and large language models", "response": "How do small and large language models work together?", "metadata": {"model": "gpt"}}
+{"query-id": "12", "query-text": "cross lingual information retrieval", "response": "Cross-lingual information retrieval techniques", "metadata": {"model": "gpt"}}
+{"query-id": "13", "query-text": "knowledge graph construction and utilization in nlp", "response": "Applications of knowledge graphs in natural language processing", "metadata": {"model": "gpt"}}

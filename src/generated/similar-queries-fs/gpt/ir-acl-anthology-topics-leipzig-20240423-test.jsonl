@@ -1,0 +1,47 @@
+{"query-id": "1", "query-text": "pagerank algorithm construction", "response": "How does the pagerank algorithm work?", "metadata": {"model": "gpt"}}
+{"query-id": "2", "query-text": "tokenization multilingual challenge", "response": "Challenges of multilingual tokenization", "metadata": {"model": "gpt"}}
+{"query-id": "3", "query-text": "enhancing semantic search accuracy", "response": "Improving semantic search accuracy", "metadata": {"model": "gpt"}}
+{"query-id": "4", "query-text": "crawling techniques overview", "response": "Overview of web crawling techniques", "metadata": {"model": "gpt"}}
+{"query-id": "5", "query-text": "detecting query ambiguity", "response": "How to identify ambiguous queries", "metadata": {"model": "gpt"}}
+{"query-id": "6", "query-text": "log information for analysing metadata of search engine user behaviour", "response": "Analyzing metadata of search engine user behavior", "metadata": {"model": "gpt"}}
+{"query-id": "7", "query-text": "decrease search time retrieval system", "response": "Improving search time in retrieval systems", "metadata": {"model": "gpt"}}
+{"query-id": "8", "query-text": "impact of query expansion techniques on search performance", "response": "Evaluating the impact of query expansion techniques on search performance", "metadata": {"model": "gpt"}}
+{"query-id": "9", "query-text": "retrieval system ranking", "response": "How to improve retrieval system ranking", "metadata": {"model": "gpt"}}
+{"query-id": "10", "query-text": "most efficient retrieval models", "response": "Comparison of efficient retrieval models", "metadata": {"model": "gpt"}}
+{"query-id": "11", "query-text": "personalized results in retrieval systems", "response": "Customized search results in information retrieval systems", "metadata": {"model": "gpt"}}
+{"query-id": "12", "query-text": "AI's impact on search engine effectiveness", "response": "The impact of AI on search engine performance", "metadata": {"model": "gpt"}}
+{"query-id": "13", "query-text": "information retrieval approaches", "response": "Different approaches to information retrieval", "metadata": {"model": "gpt"}}
+{"query-id": "14", "query-text": "retrieval system speed", "response": "How to improve retrieval system speed", "metadata": {"model": "gpt"}}
+{"query-id": "15", "query-text": "retrieval systems indexing methods to optimize search precision", "response": "Optimizing search precision in retrieval systems with indexing methods", "metadata": {"model": "gpt"}}
+{"query-id": "16", "query-text": "ranking functions", "response": "Understanding ranking functions", "metadata": {"model": "gpt"}}
+{"query-id": "17", "query-text": "AI-driven Web Crawling", "response": "Web scraping using AI", "metadata": {"model": "gpt"}}
+{"query-id": "18", "query-text": "Content Relevance Detection on Webpages", "response": "How to detect relevant content on webpages", "metadata": {"model": "gpt"}}
+{"query-id": "19", "query-text": "Optimal Crawler for Genre Detection", "response": "Best crawler for genre classification", "metadata": {"model": "gpt"}}
+{"query-id": "20", "query-text": "Formulating Optimal Searches for Specific Topics in Scientific Papers", "response": "Tips for conducting effective searches in scientific papers", "metadata": {"model": "gpt"}}
+{"query-id": "21", "query-text": "Link Analysis in Information Retrieval", "response": "Explanation of link analysis in information retrieval", "metadata": {"model": "gpt"}}
+{"query-id": "22", "query-text": "query expansion techniques effectiveness", "response": "Assessing the effectiveness of query expansion techniques", "metadata": {"model": "gpt"}}
+{"query-id": "23", "query-text": "Influence of social media on political opinions and elections", "response": "Impact of social media on political views and election outcomes", "metadata": {"model": "gpt"}}
+{"query-id": "24", "query-text": "Use of stemming and lemmatisation in retrieval systems", "response": "Importance of stemming and lemmatization in information retrieval systems", "metadata": {"model": "gpt"}}
+{"query-id": "25", "query-text": "Reliability of information from user-generated content", "response": "Trustworthiness of user-generated content", "metadata": {"model": "gpt"}}
+{"query-id": "26", "query-text": "Use and application of AI", "response": "What are the uses and applications of Artificial Intelligence (AI)?", "metadata": {"model": "gpt"}}
+{"query-id": "27", "query-text": "retrieval models bm25 disadvantages", "response": "Limitations of BM25 retrieval models", "metadata": {"model": "gpt"}}
+{"query-id": "28", "query-text": "query-by-example retrieval of music", "response": "How to search for music using query-by-example retrieval", "metadata": {"model": "gpt"}}
+{"query-id": "29", "query-text": "cross language information retrieval", "response": "Methods for cross language information retrieval", "metadata": {"model": "gpt"}}
+{"query-id": "30", "query-text": "advancements in user interaction", "response": "Recent developments in user interaction technologies", "metadata": {"model": "gpt"}}
+{"query-id": "31", "query-text": "retrieval system multiple languages challenges", "response": "Challenges of implementing a retrieval system for multiple languages", "metadata": {"model": "gpt"}}
+{"query-id": "32", "query-text": "discerning LLM-written texts from human-written texts", "response": "Differentiating between LLM-generated texts and human-written texts", "metadata": {"model": "gpt"}}
+{"query-id": "33", "query-text": "Neuroscience and brain-computer interfaces", "response": "Exploring the intersection of neuroscience and brain-computer interfaces", "metadata": {"model": "gpt"}}
+{"query-id": "34", "query-text": "effectiveness supervised and unsupervised learning in NLP", "response": "Comparison of supervised and unsupervised learning in NLP", "metadata": {"model": "gpt"}}
+{"query-id": "35", "query-text": "bm25 algorithm effectiveness", "response": "Evaluating the effectiveness of the BM25 algorithm", "metadata": {"model": "gpt"}}
+{"query-id": "36", "query-text": "Image and Video Retrieval", "response": "Methods for image and video retrieval", "metadata": {"model": "gpt"}}
+{"query-id": "37", "query-text": "Entity Recognition in Web Documents", "response": "Techniques for entity recognition in web documents", "metadata": {"model": "gpt"}}
+{"query-id": "38", "query-text": "histroy of information retrieval", "response": "History of information retrieval", "metadata": {"model": "gpt"}}
+{"query-id": "39", "query-text": "query length influence on retrieval", "response": "Does the length of a query affect search results?", "metadata": {"model": "gpt"}}
+{"query-id": "40", "query-text": "temporal document summarization in information retrieval systems", "response": "Temporal document summarization techniques in information retrieval systems", "metadata": {"model": "gpt"}}
+{"query-id": "41", "query-text": "how to evaluate a user interface of a retrieval system", "response": "Methods for evaluating user interfaces in retrieval systems", "metadata": {"model": "gpt"}}
+{"query-id": "42", "query-text": "Modifications in Deep Learning Architectures", "response": "Changes in Deep Learning Models", "metadata": {"model": "gpt"}}
+{"query-id": "43", "query-text": "knowledge graph construction", "response": "Techniques for building a knowledge graph", "metadata": {"model": "gpt"}}
+{"query-id": "44", "query-text": "fake news detection techniques", "response": "Methods for detecting fake news", "metadata": {"model": "gpt"}}
+{"query-id": "45", "query-text": "recommendation systems using collaborative filtering", "response": "Implementation of collaborative filtering in recommendation systems", "metadata": {"model": "gpt"}}
+{"query-id": "46", "query-text": "text summarization techniques", "response": "Methods for summarizing text", "metadata": {"model": "gpt"}}
+{"query-id": "47", "query-text": "Deep learning approaches for Information Retrieval", "response": "Advanced deep learning techniques for Information Retrieval", "metadata": {"model": "gpt"}}
