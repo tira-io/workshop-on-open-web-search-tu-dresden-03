@@ -26,8 +26,8 @@ if __name__ == '__main__':
     else:
         print("Running main.py unparallelized (start from ./parallel.sh if there are more GPUs to use)")
 
-    flan_model = None #FlanUL2Wrapper(min_len=10, max_len=200, temperature=0.5, name="flan-ul2")
-    llama_model = None #Llama2Wrapper(min_len=10, max_len=200, temperature=1.1, name="llama", modelpath="/beegfs/ws/1/s9037008-ir-hackaton-queries/models/llama2-7b-chat-pytorch")
+    flan_model = FlanUL2Wrapper(min_len=10, max_len=200, temperature=0.5, name="flan-ul2", modelpath="/mnt/ceph/storage/corpora/corpora-thirdparty/corpora-model-weights/tu-dresden-wows-hackathon/flan-ul2/")
+    llama_model = None # Llama2Wrapper(min_len=10, max_len=200, temperature=1.1, name="llama", modelpath="/mnt/ceph/storage/corpora/corpora-thirdparty/corpora-model-weights/tu-dresden-wows-hackathon/llama2-7b-chat-pytorch")
     chatgpt_model = ChatGPTWrapper(max_len=200, temperature=0.5, name="gpt")
 
     chain_of_thoughts = ChainOfThoughts(long_name="chain-of-thoughts", short_name="CoT", flan=flan_model, llama=llama_model, gpt=chatgpt_model, dsets=dset_list)

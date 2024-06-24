@@ -1,0 +1,47 @@
+{"query-id": "1", "query-text": "pagerank algorithm construction", "response": ["what is the pagerank algorithm? how does it work?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "2", "query-text": "tokenization multilingual challenge", "response": ["multilingual tokenization challenge wpc"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "3", "query-text": "enhancing semantic search accuracy", "response": ["what is the function of semantic search? how does it work?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "4", "query-text": "crawling techniques overview", "response": ["what are the various web crawling techniques?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "5", "query-text": "detecting query ambiguity", "response": ["Detecting ambiguity in a query"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "6", "query-text": "log information for analysing metadata of search engine user behaviour", "response": ["What are the log files of a search engine?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "7", "query-text": "decrease search time retrieval system", "response": ["decrease search time for a website?|decrease search time for a website?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "8", "query-text": "impact of query expansion techniques on search performance", "response": ["query expansion techniques in search engine??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "9", "query-text": "retrieval system ranking", "response": ["what is the best search engine??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "10", "query-text": "most efficient retrieval models", "response": ["what is the most efficient retrieval model?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "11", "query-text": "personalized results in retrieval systems", "response": ["what is the meaning of personalized results?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "12", "query-text": "AI's impact on search engine effectiveness", "response": ["What are some of the most effective search engine algorithms?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "13", "query-text": "information retrieval approaches", "response": ["information retrieval techniques???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "14", "query-text": "retrieval system speed", "response": ["what is the speed of the retrieval system?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "15", "query-text": "retrieval systems indexing methods to optimize search precision", "response": ["What are some good indexing methods to optimize search precision?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "16", "query-text": "ranking functions", "response": ["what are ranking functions?nwhat are some examples?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "17", "query-text": "AI-driven Web Crawling", "response": ["What is the best AI-driven web crawler?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "18", "query-text": "Content Relevance Detection on Webpages", "response": ["How can I find the relevance of a web page?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "19", "query-text": "Optimal Crawler for Genre Detection", "response": ["What is the best crawler for detecting the genre of a webpage?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "20", "query-text": "Formulating Optimal Searches for Specific Topics in Scientific Papers", "response": ["How do I find scientific papers on a specific topic?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "21", "query-text": "Link Analysis in Information Retrieval", "response": ["Information retrieval systems?nWhat are some examples of information retrieval systems?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "22", "query-text": "query expansion techniques effectiveness", "response": ["query expansion techniques examples?|query expansion techniques?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "23", "query-text": "Influence of social media on political opinions and elections", "response": ["What is the influence of social media on politics?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "24", "query-text": "Use of stemming and lemmatisation in retrieval systems", "response": ["What is the use of stemming?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "25", "query-text": "Reliability of information from user-generated content", "response": ["How reliable is user generated content? How can I tell?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "26", "query-text": "Use and application of AI", "response": ["What are the uses of AI? What are some examples?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "27", "query-text": "retrieval models bm25 disadvantages", "response": ["Disadvantages of the BM25"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "28", "query-text": "query-by-example retrieval of music", "response": ["query by example for music?|query by example for music?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "29", "query-text": "cross language information retrieval", "response": ["cross language information retrieval model?n"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "30", "query-text": "advancements in user interaction", "response": ["advancements in user interfaces??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "31", "query-text": "retrieval system multiple languages challenges", "response": ["challenges of multiple languages in information retrieval?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "32", "query-text": "discerning LLM-written texts from human-written texts", "response": ["What is a way to discern LLM written texts from human written texts?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "33", "query-text": "Neuroscience and brain-computer interfaces", "response": ["Neuroscience and psychology?|Neuroscience and psychiatry?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "34", "query-text": "effectiveness supervised and unsupervised learning in NLP", "response": ["What is the difference between supervised and unsupervised learning?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "35", "query-text": "bm25 algorithm effectiveness", "response": ["effectiveness of bm25 algorithm?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "36", "query-text": "Image and Video Retrieval", "response": ["Image Retrieval and Analysis?|Image Retrieval and Analysis?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "37", "query-text": "Entity Recognition in Web Documents", "response": ["Entity recognition in html documents? How to recognize entities in html documents?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "38", "query-text": "histroy of information retrieval", "response": ["History of information retrieval???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "39", "query-text": "query length influence on retrieval", "response": ["query length influence on search engine results??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "40", "query-text": "temporal document summarization in information retrieval systems", "response": ["temporal document summarization in information retrieval"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "41", "query-text": "how to evaluate a user interface of a retrieval system", "response": ["how do you evaluate a user interface?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "42", "query-text": "Modifications in Deep Learning Architectures", "response": ["Deep Learning Architectures: An Introduction to Deep Learning Architectures"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "43", "query-text": "knowledge graph construction", "response": ["knowledge graph query language?|knowledge graph query language?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "44", "query-text": "fake news detection techniques", "response": ["fake news sites?????"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "45", "query-text": "recommendation systems using collaborative filtering", "response": ["collaborative filtering example?|collaborative filtering examples?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "46", "query-text": "text summarization techniques", "response": ["how to summarize a text?|how to summarize a text?|what are the ways to summarize a text?|what are the techniques to summarize a text?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "47", "query-text": "Deep learning approaches for Information Retrieval", "response": ["Deep learning for information retrieval? How do I get started?"], "metadata": {"model": "flan-ul2"}}

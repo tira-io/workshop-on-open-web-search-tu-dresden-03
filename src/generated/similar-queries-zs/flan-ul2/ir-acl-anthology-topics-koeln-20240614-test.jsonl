@@ -1,0 +1,74 @@
+{"query-id": "1", "query-text": "accuracy of symptom searching on online platforms", "response": ["What are some good online medical symptom checkers?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "2", "query-text": "application of zipf s law in information retrieval", "response": ["application of zipf's law??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "3", "query-text": "vector space model in relation to information retrieval", "response": ["What is the vector space model? What is it used for?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "4", "query-text": "different modes of automatic indexing", "response": ["what are the different indexing modes?&lt;br&gt;"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "5", "query-text": "wildcard operators", "response": ["what are wildcard operators? how do you use them?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "6", "query-text": "boolean retrieval in information systems", "response": ["boolean retrieval in information systems?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "7", "query-text": "stemming versus lemmatization", "response": ["what is stemming? what is lemmatization?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "8", "query-text": "machine learning and artificial intelligence in information retrieval", "response": ["artificial intelligence in information retrieval?|artificial intelligence in information retrieval?|artificial intelligence in information retrieval?|artificial intelligence in information retrieval?|artificial intelligence in information retrieval?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "9", "query-text": "difference between database queries and queries in information retrieval", "response": ["What is the difference between a query and a search?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "10", "query-text": "machine learning techniques in information retrieval", "response": ["machine learning in information retrieval??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "11", "query-text": "various factors for determining the relevance of search results in information retrieval", "response": ["What are the various factors for determining the relevance of search results?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "12", "query-text": "personalized information retrieval systems", "response": ["what is information retrieval??what does it do?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "13", "query-text": "pro and contra of boolean queries", "response": ["what are the pro and con of boolean logic?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "14", "query-text": "soundex", "response": ["etymology of sex"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "15", "query-text": "advantages of boolean retrieval", "response": ["what is boolean logic?|what is boolean logic?|what are the advantages of boolean logic?|what are the disadvantages of boolean logic?|what is boolean logic?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "16", "query-text": "the use of boolean retrieval in library catalogues", "response": ["What is a boolean search?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "17", "query-text": "boolean operators and how to use them", "response": ["boolean operator and what it means?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "18", "query-text": "levensthein distance", "response": ["what is levensthein distance?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "19", "query-text": "boolean retrieval effectiveness", "response": ["what is boolean logic??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "20", "query-text": "efficient search algorithms in large amounts of data", "response": ["what are the best algorithms for searching large amounts of data?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "21", "query-text": "boolean operators", "response": ["what are boolean operators??"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "22", "query-text": "improving search engine indexing", "response": ["how to improve search engine indexing?|how to improve search engine ranking?|how to improve search engine ranking?|how to improve search engine ranking?|how to improve search engine ranking?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "23", "query-text": "boolean retrieval in information retrieval", "response": ["What is boolean retrieval?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "24", "query-text": "digital technologies in libraries", "response": ["what are the uses of digital technology?|what are the uses of digital technology?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "25", "query-text": "effects of query length on presicion", "response": ["How do I find the number of results for a particular query?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "26", "query-text": "zipf s law in information science", "response": ["What is Zipf's law of information?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "27", "query-text": "boolean retrieval and information retrieval", "response": ["what is boolean retrieval?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "28", "query-text": "boolean retrieval", "response": ["what is boolean logic?|what is boolean logic?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "29", "query-text": "limits of modern libraries", "response": ["what are the limits of modern technology?|limits of modern technology?|limits of modern science?|limits of modern technology?|limits of modern society?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "30", "query-text": "the use of boolean operators in library systems", "response": ["What is the use of boolean operators in c?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "31", "query-text": "chinese information retrival", "response": ["chinese information retrival?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "32", "query-text": "evaluation of the ranking in search results", "response": ["what are the top 5 search engines?|what are the top 5 search engines in the world?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "33", "query-text": "information retrieval jobs", "response": ["information retrieval system?|what is information retrieval?|what is information retrieval?|what is information retrieval?|what is information retrieval software?|what is information retrieval systems?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "34", "query-text": "how does the boolean retrieval method work", "response": ["how does boolean logic work?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "35", "query-text": "improving document findability through automated indexing by ai", "response": ["improving document findability through automated indexing by ai?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "36", "query-text": "how pooling increases our work efficiency", "response": ["How do I increase my work efficiency?|How do I increase my work efficiency?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "37", "query-text": "boolean algebra", "response": ["boolean algebra boolean algebra boolean algebra boolean algebra boolean algebra"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "38", "query-text": "relevance criteria", "response": ["what is relevance criteria?|what is relevance in a sentence?|what is relevance in a paragraph?|what is relevance in an essay?|what is relevance in a book?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "39", "query-text": "zipf s law", "response": ["what is zipf's law?|what is zipf's law?|what is zipf's law of g?|what is zipf's law of g?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "40", "query-text": "boolean retrieval model", "response": ["what is boolean logic?|what is boolean logic?|what is boolean logic?|what is boolean logic?|what is boolean logic?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "41", "query-text": "indexing in information retrieval systems", "response": ["information retrieval system???"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "42", "query-text": "machine learning in information retrieval", "response": ["what is machine learning?|what is machine learning?|what is machine learning?|what is machine learning?|what is machine learning?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "43", "query-text": "problems of retrieval systems", "response": ["what are the problems with information retrieval systems?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "44", "query-text": "online quizzes", "response": ["what are some good online trivia quizzes?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "45", "query-text": "indexing in information retrieval", "response": ["information retrieval models?|what is information retrieval?|what is information?|what is information?|what is information?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "46", "query-text": "information retrieval techniques", "response": ["information retrieval system?|information retrieval?|information retrieval system?|information retrieval?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "47", "query-text": "l l m and star trek", "response": ["what is the name of the star trek character?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "48", "query-text": "information seeking behavior of recruiters", "response": ["What are the most common job search sites?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "49", "query-text": "evaluation", "response": ["is the same as evaluation? if not, what is the difference?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "50", "query-text": "machine learning in information retrieval", "response": ["information retrieval machine learning?s?s?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "51", "query-text": "artificial intelligence in medical diagnostics", "response": ["artificial intelligence in medical imaging?|artificial intelligence in medical imaging?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "52", "query-text": "automated indexing in scientific digital libraries", "response": ["automated indexing system for digital libraries?&lt;&lt;"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "53", "query-text": "zipf s law and information retrieval", "response": ["what is zipf's law? what is zipf's law of euclidean distribution?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "54", "query-text": "user behavor analysis in information retrival", "response": ["What is the best way to analyze user behavior?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "55", "query-text": "boolean queries", "response": ["23466. boolean query"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "56", "query-text": "fishing in germany", "response": ["germany fishing license?|how to fish in germany?|how to fish in germany?|how to fish in germany?|how to fish in germany?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "57", "query-text": "the history and development of information retrieval", "response": ["What is the history of information retrieval?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "58", "query-text": "zipf s law", "response": ["what is zipf s law?|what is zipf s law of gilbert?|what is zipf s law of lis?|what is zipf s law of gilbert?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "59", "query-text": "automatic indexing", "response": ["search engine? microsoft? google? duckduckgo?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "60", "query-text": "history of information retrieval", "response": ["what is information retrieval?|what is information retrieval?|what is information retrieval system?|what is information retrieval system?|what is information retrieval?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "61", "query-text": "zipf s law", "response": ["what is zipf's law?|what is zipf's law about?|what is zipf's law of g?|what is zipf's law of x?|what is zipf's law of z?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "62", "query-text": "recall and precision", "response": ["recall and precision of a memory? what are they?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "63", "query-text": "the role of user feedback in enhancing search engine relevance", "response": ["What is the role of user feedback in enhancing search engine relevance?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "64", "query-text": "impact of nlp on information retrival", "response": ["what are the effects of nlp?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "65", "query-text": "multimedia in information retrieval", "response": ["what is multimedia retrieval?|what is multimedia information retrieval?|what is multimedia information retrieval?|what is multimedia information retrieval?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "66", "query-text": "comparison of phonetic and conventional indexing methods", "response": ["what is the difference between phonetic and conventional indexing?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "67", "query-text": "social media information retrieval", "response": ["what is social media information retrieval?|what is social media information retrieval?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "68", "query-text": "differences between syntactic and semantic search", "response": ["What are the differences between the syntactic and semantic search engines?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "69", "query-text": "introduction to boolean search in information retrieval", "response": ["What is a good introduction to information retrieval?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "70", "query-text": "semantic search in information retrieval", "response": ["What is the difference between information retrieval and information management?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "71", "query-text": "latent semantic indexing", "response": ["what is latent semantic indexing?|what does latent semantic indexing do?|what is latent semantic indexing used for?|what is latent semantic indexing?|what is latent semantic indexing?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "72", "query-text": "relevance ranking algorithms in ir", "response": ["ir algorithms? ir algorithms?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "73", "query-text": "music structure based vector space retrieval", "response": ["cd rom search engine? cd rom search engine?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "74", "query-text": "advanced information retrieval techniques", "response": ["advanced information retrieval systems?&lt;&lt;&lt;&lt;"], "metadata": {"model": "flan-ul2"}}

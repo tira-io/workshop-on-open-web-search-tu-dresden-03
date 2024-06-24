@@ -1,0 +1,13 @@
+{"query-id": "1", "query-text": "event extraction using convolutional neural networks", "response": ["convolutional neural networks for speech recognition?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "2", "query-text": "similarity metrics for event extraction from social media", "response": ["Similarity metrics for event extraction from social media"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "3", "query-text": "event extraction from cab traces", "response": ["how to get cab traces from a c program?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "4", "query-text": "multimodal zero shot learning", "response": ["zero shot learning of a classifier?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "5", "query-text": "self supervised image retrieval methods", "response": ["Image retrieval in supervised and unsupervised domain"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "6", "query-text": "multimodal large language models", "response": ["large language models for speech recognition?|large language models for speech recognition?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "7", "query-text": "multi hop question answering using retrieval augmented generation", "response": ["multi hop question answering using augmented generation with an example"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "8", "query-text": "sequence to sequence models for table question answering", "response": ["sequence to sequence model for question answering in slq"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "9", "query-text": "weakly supervised table semantic parsing", "response": ["weakly supervised table parsing?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "10", "query-text": "relevance aware diversity metrics", "response": ["relevance aware diversity metric for twitter?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "11", "query-text": "coordination between small and large language models", "response": ["coordination between small and large language models 2016?"], "metadata": {"model": "flan-ul2"}}
+{"query-id": "12", "query-text": "cross lingual information retrieval", "response": ["cross lingual information retrieval system?."], "metadata": {"model": "flan-ul2"}}
+{"query-id": "13", "query-text": "knowledge graph construction and utilization in nlp", "response": ["Knowledge graph construction and utilization in NLP."], "metadata": {"model": "flan-ul2"}}
