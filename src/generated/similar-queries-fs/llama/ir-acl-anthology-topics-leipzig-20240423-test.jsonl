@@ -1,0 +1,47 @@
+{"query-id": "1", "query-text": "pagerank algorithm construction", "response": "How to create a pagerank algorithm?", "metadata": {"model": "llama"}}
+{"query-id": "2", "query-text": "tokenization multilingual challenge", "response": "Multilingual tokenization techniques for natural language processing.", "metadata": {"model": "llama"}}
+{"query-id": "3", "query-text": "enhancing semantic search accuracy", "response": "Improving semantic search accuracy", "metadata": {"model": "llama"}}
+{"query-id": "4", "query-text": "crawling techniques overview", "response": "Overview of web crawling techniques", "metadata": {"model": "llama"}}
+{"query-id": "5", "query-text": "detecting query ambiguity", "response": "Understanding query ambiguity in natural language processing.", "metadata": {"model": "llama"}}
+{"query-id": "6", "query-text": "log information for analysing metadata of search engine user behaviour", "response": "How to log and analyze user behavior of a search engine?", "metadata": {"model": "llama"}}
+{"query-id": "7", "query-text": "decrease search time retrieval system", "response": "How to optimize search engine retrieval system for faster search results.", "metadata": {"model": "llama"}}
+{"query-id": "8", "query-text": "impact of query expansion techniques on search performance", "response": "Evaluation of query expansion techniques on search accuracy", "metadata": {"model": "llama"}}
+{"query-id": "9", "query-text": "retrieval system ranking", "response": "Best ranking algorithms for information retrieval systems?", "metadata": {"model": "llama"}}
+{"query-id": "10", "query-text": "most efficient retrieval models", "response": "Best practices for efficient retrieval models in machine learning.", "metadata": {"model": "llama"}}
+{"query-id": "11", "query-text": "personalized results in retrieval systems", "response": "How to personalize results in information retrieval systems?", "metadata": {"model": "llama"}}
+{"query-id": "12", "query-text": "AI's impact on search engine effectiveness", "response": "What are the potential benefits and drawbacks of using AI in search engines?", "metadata": {"model": "llama"}}
+{"query-id": "13", "query-text": "information retrieval approaches", "response": "Types of information retrieval approaches?", "metadata": {"model": "llama"}}
+{"query-id": "14", "query-text": "retrieval system speed", "response": "How to improve retrieve speed in a system?", "metadata": {"model": "llama"}}
+{"query-id": "15", "query-text": "retrieval systems indexing methods to optimize search precision", "response": "Best practices for optimizing search precision in information retrieval systems.", "metadata": {"model": "llama"}}
+{"query-id": "16", "query-text": "ranking functions", "response": "Function ranking techniques", "metadata": {"model": "llama"}}
+{"query-id": "17", "query-text": "AI-driven Web Crawling", "response": "AI-powered web scraping techniques", "metadata": {"model": "llama"}}
+{"query-id": "18", "query-text": "Content Relevance Detection on Webpages", "response": "How to detect relevance of content on a webpage?", "metadata": {"model": "llama"}}
+{"query-id": "19", "query-text": "Optimal Crawler for Genre Detection", "response": "What are some effective crawlers for genre detection in text?", "metadata": {"model": "llama"}}
+{"query-id": "20", "query-text": "Formulating Optimal Searches for Specific Topics in Scientific Papers", "response": "How to optimize online searches for scientific papers related to a specific topic?", "metadata": {"model": "llama"}}
+{"query-id": "21", "query-text": "Link Analysis in Information Retrieval", "response": "What are the latest research trends in link analysis for information retrieval?", "metadata": {"model": "llama"}}
+{"query-id": "22", "query-text": "query expansion techniques effectiveness", "response": "How does query expansion techniques improve search accuracy?", "metadata": {"model": "llama"}}
+{"query-id": "23", "query-text": "Influence of social media on political opinions and elections", "response": "Impact of social media on political discourse and decision-making", "metadata": {"model": "llama"}}
+{"query-id": "24", "query-text": "Use of stemming and lemmatisation in retrieval systems", "response": "Stemming and lemmatization techniques in information retrieval.", "metadata": {"model": "llama"}}
+{"query-id": "25", "query-text": "Reliability of information from user-generated content", "response": "How can I evaluate the reliability of information from user-generated content?", "metadata": {"model": "llama"}}
+{"query-id": "26", "query-text": "Use and application of AI", "response": "What are some real-world applications and uses of AI technology?", "metadata": {"model": "llama"}}
+{"query-id": "27", "query-text": "retrieval models bm25 disadvantages", "response": "Disadvantages of BM25 retrieval model.", "metadata": {"model": "llama"}}
+{"query-id": "28", "query-text": "query-by-example retrieval of music", "response": "Can you recommend some music similar to [artist/band name]?", "metadata": {"model": "llama"}}
+{"query-id": "29", "query-text": "cross language information retrieval", "response": "How to perform cross-language information retrieval?", "metadata": {"model": "llama"}}
+{"query-id": "30", "query-text": "advancements in user interaction", "response": "Future of user interaction technology", "metadata": {"model": "llama"}}
+{"query-id": "31", "query-text": "retrieval system multiple languages challenges", "response": "Challenges in developing multi-lingual information retrieval systems.", "metadata": {"model": "llama"}}
+{"query-id": "32", "query-text": "discerning LLM-written texts from human-written texts", "response": "How to detect AI-generated texts, including LLMs and other AI-powered language models?", "metadata": {"model": "llama"}}
+{"query-id": "33", "query-text": "Neuroscience and brain-computer interfaces", "response": "Advances in neuroscience and brain-computer interfaces.", "metadata": {"model": "llama"}}
+{"query-id": "34", "query-text": "effectiveness supervised and unsupervised learning in NLP", "response": "Differences between supervised and unsupervised learning in NLP tasks?", "metadata": {"model": "llama"}}
+{"query-id": "35", "query-text": "bm25 algorithm effectiveness", "response": "What is the effectiveness of the BM25 algorithm in search and retrieval?", "metadata": {"model": "llama"}}
+{"query-id": "36", "query-text": "Image and Video Retrieval", "response": "How to perform image and video retrieval?", "metadata": {"model": "llama"}}
+{"query-id": "37", "query-text": "Entity Recognition in Web Documents", "response": "Entity Recognition in Text Documents", "metadata": {"model": "llama"}}
+{"query-id": "38", "query-text": "histroy of information retrieval", "response": "History of search engines and their evolution.", "metadata": {"model": "llama"}}
+{"query-id": "39", "query-text": "query length influence on retrieval", "response": "How does query length affect search results retrieval?", "metadata": {"model": "llama"}}
+{"query-id": "40", "query-text": "temporal document summarization in information retrieval systems", "response": "How to summarize Temporal Documents in IR Systems?", "metadata": {"model": "llama"}}
+{"query-id": "41", "query-text": "how to evaluate a user interface of a retrieval system", "response": "How to assess the usability of a retrieval system's user interface?", "metadata": {"model": "llama"}}
+{"query-id": "42", "query-text": "Modifications in Deep Learning Architectures", "response": "Deep learning architectures modification in recent years.", "metadata": {"model": "llama"}}
+{"query-id": "43", "query-text": "knowledge graph construction", "response": "Topics related to knowledge graph construction include:\n1. Knowledge graph representation and ontologies\n2. Knowledge graph embedding and vector spaces\n3. Knowledge graph semantic search and querying\n4. Knowledge graph data wrangling and preprocessing\n5. Knowledge graph enrichment and completion\n6. Knowledge graph evaluation and performance metric design\n7. Knowledge graph clustering and community detection\n8. Knowledge graph dimensionality reduction and feature selection\n9. Knowledge graph visualization and graphical models\n10. Knowledge graph machine learning and AI applications.", "metadata": {"model": "llama"}}
+{"query-id": "44", "query-text": "fake news detection techniques", "response": "How can I detect fake news on social media?", "metadata": {"model": "llama"}}
+{"query-id": "45", "query-text": "recommendation systems using collaborative filtering", "response": "How can I use collaborative filtering to build a recommendation system?", "metadata": {"model": "llama"}}
+{"query-id": "46", "query-text": "text summarization techniques", "response": "Best text summarization techniques and tools?", "metadata": {"model": "llama"}}
+{"query-id": "47", "query-text": "Deep learning approaches for Information Retrieval", "response": "What are some recent advances in deep learning forInformation Retrieval?", "metadata": {"model": "llama"}}

@@ -1,0 +1,74 @@
+{"query-id": "1", "query-text": "accuracy of symptom searching on online platforms", "response": "How accurate is symptom searching on online platforms?", "metadata": {"model": "llama"}}
+{"query-id": "2", "query-text": "application of zipf s law in information retrieval", "response": "What is the relationship between Zipf's law andinformation retrieval?", "metadata": {"model": "llama"}}
+{"query-id": "3", "query-text": "vector space model in relation to information retrieval", "response": "Vector space models in information retrieval theory", "metadata": {"model": "llama"}}
+{"query-id": "4", "query-text": "different modes of automatic indexing", "response": "What are the different types of indexing methods in SQL?", "metadata": {"model": "llama"}}
+{"query-id": "5", "query-text": "wildcard operators", "response": "Wildcard operators in SQL", "metadata": {"model": "llama"}}
+{"query-id": "6", "query-text": "boolean retrieval in information systems", "response": "What are the best practices for implementing boolean retrieval in information systems?", "metadata": {"model": "llama"}}
+{"query-id": "7", "query-text": "stemming versus lemmatization", "response": "The difference between stemming and lemmatization in natural language processing.", "metadata": {"model": "llama"}}
+{"query-id": "8", "query-text": "machine learning and artificial intelligence in information retrieval", "response": "How is machine learning used in information retrieval?", "metadata": {"model": "llama"}}
+{"query-id": "9", "query-text": "difference between database queries and queries in information retrieval", "response": "What are the differences between database queries and information retrieval queries?", "metadata": {"model": "llama"}}
+{"query-id": "10", "query-text": "machine learning techniques in information retrieval", "response": "What are some key machine learning techniques used in information retrieval?", "metadata": {"model": "llama"}}
+{"query-id": "11", "query-text": "various factors for determining the relevance of search results in information retrieval", "response": "How do search engines determine relevance in search results?", "metadata": {"model": "llama"}}
+{"query-id": "12", "query-text": "personalized information retrieval systems", "response": "Information retrieval systems tailored to individual users", "metadata": {"model": "llama"}}
+{"query-id": "13", "query-text": "pro and contra of boolean queries", "response": "Advantages and disadvantages of using boolean queries in SQL.", "metadata": {"model": "llama"}}
+{"query-id": "14", "query-text": "soundex", "response": "TheSoundex tool", "metadata": {"model": "llama"}}
+{"query-id": "15", "query-text": "advantages of boolean retrieval", "response": "Benefits of Boolean searching?", "metadata": {"model": "llama"}}
+{"query-id": "16", "query-text": "the use of boolean retrieval in library catalogues", "response": "How can boolean retrieval be used in library catalogues to improve search accuracy?", "metadata": {"model": "llama"}}
+{"query-id": "17", "query-text": "boolean operators and how to use them", "response": "What are the different boolean operators and how do I use them in my search?", "metadata": {"model": "llama"}}
+{"query-id": "18", "query-text": "levensthein distance", "response": "Need help understanding Levenshtein distance?", "metadata": {"model": "llama"}}
+{"query-id": "19", "query-text": "boolean retrieval effectiveness", "response": "Effectiveness of Boolean retrieval in information retrieval.", "metadata": {"model": "llama"}}
+{"query-id": "20", "query-text": "efficient search algorithms in large amounts of data", "response": "Best search algorithms for big data?", "metadata": {"model": "llama"}}
+{"query-id": "21", "query-text": "boolean operators", "response": "What are the different boolean operators in logic?", "metadata": {"model": "llama"}}
+{"query-id": "22", "query-text": "improving search engine indexing", "response": "How to improve search engine ranking?", "metadata": {"model": "llama"}}
+{"query-id": "23", "query-text": "boolean retrieval in information retrieval", "response": "Difference between boolean retrieval and non-boolean retrieval in information retrieval?", "metadata": {"model": "llama"}}
+{"query-id": "24", "query-text": "digital technologies in libraries", "response": "Libraries and digital technologies", "metadata": {"model": "llama"}}
+{"query-id": "25", "query-text": "effects of query length on presicion", "response": "How does the length of a search query affect its accuracy?", "metadata": {"model": "llama"}}
+{"query-id": "26", "query-text": "zipf s law in information science", "response": "Information Science Zipf's Law", "metadata": {"model": "llama"}}
+{"query-id": "27", "query-text": "boolean retrieval and information retrieval", "response": "How are Boolean retrieval and information retrieval different?", "metadata": {"model": "llama"}}
+{"query-id": "28", "query-text": "boolean retrieval", "response": "Retrieving data with specific boolean filters.", "metadata": {"model": "llama"}}
+{"query-id": "29", "query-text": "limits of modern libraries", "response": "What are the challenges and limitations of modern libraries?", "metadata": {"model": "llama"}}
+{"query-id": "30", "query-text": "the use of boolean operators in library systems", "response": "Best practices for using boolean operators in cataloging systems", "metadata": {"model": "llama"}}
+{"query-id": "31", "query-text": "chinese information retrival", "response": "Information retrieval techniques in Chinese text", "metadata": {"model": "llama"}}
+{"query-id": "32", "query-text": "evaluation of the ranking in search results", "response": "How to evaluate and improve the ranking of a website in search results?", "metadata": {"model": "llama"}}
+{"query-id": "33", "query-text": "information retrieval jobs", "response": "Top information retrieval jobs", "metadata": {"model": "llama"}}
+{"query-id": "34", "query-text": "how does the boolean retrieval method work", "response": "How does Boolean retrieval work in search engines?", "metadata": {"model": "llama"}}
+{"query-id": "35", "query-text": "improving document findability through automated indexing by ai", "response": "How can AI improve document findability?", "metadata": {"model": "llama"}}
+{"query-id": "36", "query-text": "how pooling increases our work efficiency", "response": "What are the benefits of pooling in terms of increased work efficiency?", "metadata": {"model": "llama"}}
+{"query-id": "37", "query-text": "boolean algebra", "response": "What is the application of boolean algebra in computer science?", "metadata": {"model": "llama"}}
+{"query-id": "38", "query-text": "relevance criteria", "response": "How to set relevance criteria in search engines?", "metadata": {"model": "llama"}}
+{"query-id": "39", "query-text": "zipf s law", "response": "What is Zipf's law in linguistics?", "metadata": {"model": "llama"}}
+{"query-id": "40", "query-text": "boolean retrieval model", "response": "Natural Language Processing (NLP) techniques for text classification", "metadata": {"model": "llama"}}
+{"query-id": "41", "query-text": "indexing in information retrieval systems", "response": "What is inverted indexing in information retrieval systems?", "metadata": {"model": "llama"}}
+{"query-id": "42", "query-text": "machine learning in information retrieval", "response": "machine learning techniques in information retrieval", "metadata": {"model": "llama"}}
+{"query-id": "43", "query-text": "problems of retrieval systems", "response": "Issues with search engines and information retrieval", "metadata": {"model": "llama"}}
+{"query-id": "44", "query-text": "online quizzes", "response": "Quiz websites", "metadata": {"model": "llama"}}
+{"query-id": "45", "query-text": "indexing in information retrieval", "response": "Information retrieval techniques related to indexing.", "metadata": {"model": "llama"}}
+{"query-id": "46", "query-text": "information retrieval techniques", "response": "What are the most common information retrieval techniques used in search engines?", "metadata": {"model": "llama"}}
+{"query-id": "47", "query-text": "l l m and star trek", "response": "Star Trek and law and order", "metadata": {"model": "llama"}}
+{"query-id": "48", "query-text": "information seeking behavior of recruiters", "response": "How do recruiters use technology to find and evaluate job candidates?", "metadata": {"model": "llama"}}
+{"query-id": "49", "query-text": "evaluation", "response": "How to evaluate a project's success?", "metadata": {"model": "llama"}}
+{"query-id": "50", "query-text": "machine learning in information retrieval", "response": "How does machine learning improve information retrieval?", "metadata": {"model": "llama"}}
+{"query-id": "51", "query-text": "artificial intelligence in medical diagnostics", "response": "How is artificial intelligence used in medical diagnostics?", "metadata": {"model": "llama"}}
+{"query-id": "52", "query-text": "automated indexing in scientific digital libraries", "response": "How can I use automated indexing in scientific digital libraries to improve efficiency and discovery?", "metadata": {"model": "llama"}}
+{"query-id": "53", "query-text": "zipf s law and information retrieval", "response": "What is the relationship between Zipf's law and information retrieval?", "metadata": {"model": "llama"}}
+{"query-id": "54", "query-text": "user behavor analysis in information retrival", "response": "What are the techniques used in user behavior analysis for information retrieval?", "metadata": {"model": "llama"}}
+{"query-id": "55", "query-text": "boolean queries", "response": "How to use boolean queries in search engines?", "metadata": {"model": "llama"}}
+{"query-id": "56", "query-text": "fishing in germany", "response": "Best fishing spots in Germany?", "metadata": {"model": "llama"}}
+{"query-id": "57", "query-text": "the history and development of information retrieval", "response": "The history and evolution of information retrieval techniques.", "metadata": {"model": "llama"}}
+{"query-id": "58", "query-text": "zipf s law", "response": "What is Zipf's Law in linguistics?", "metadata": {"model": "llama"}}
+{"query-id": "59", "query-text": "automatic indexing", "response": "How to improve indexing in SQL Server?", "metadata": {"model": "llama"}}
+{"query-id": "60", "query-text": "history of information retrieval", "response": "The evolution of information retrieval technology [or] The history of search engines [or] Early theories and algorithms for information retrieval", "metadata": {"model": "llama"}}
+{"query-id": "61", "query-text": "zipf s law", "response": "Examples of Zipf's law in nature and society?", "metadata": {"model": "llama"}}
+{"query-id": "62", "query-text": "recall and precision", "response": "Difference between recall and precision in machine learning?", "metadata": {"model": "llama"}}
+{"query-id": "63", "query-text": "the role of user feedback in enhancing search engine relevance", "response": "How does user feedback improve search engine relevance?", "metadata": {"model": "llama"}}
+{"query-id": "64", "query-text": "impact of nlp on information retrival", "response": "How does natural language processing (NLP) affect information retrieval?", "metadata": {"model": "llama"}}
+{"query-id": "65", "query-text": "multimedia in information retrieval", "response": "What are some applications of multimedia in information retrieval?", "metadata": {"model": "llama"}}
+{"query-id": "66", "query-text": "comparison of phonetic and conventional indexing methods", "response": "Difference between phonetic and conventional indexing methods", "metadata": {"model": "llama"}}
+{"query-id": "67", "query-text": "social media information retrieval", "response": "How can I retrieve information from social media platforms?", "metadata": {"model": "llama"}}
+{"query-id": "68", "query-text": "differences between syntactic and semantic search", "response": "What are the key differences between syntactic and semantic search techniques in natural language processing?", "metadata": {"model": "llama"}}
+{"query-id": "69", "query-text": "introduction to boolean search in information retrieval", "response": "How to use boolean search operators in information retrieval?", "metadata": {"model": "llama"}}
+{"query-id": "70", "query-text": "semantic search in information retrieval", "response": "What is semantic search in information retrieval and how does it work?", "metadata": {"model": "llama"}}
+{"query-id": "71", "query-text": "latent semantic indexing", "response": "What is latent semantic analysis (LSA)?", "metadata": {"model": "llama"}}
+{"query-id": "72", "query-text": "relevance ranking algorithms in ir", "response": "algorithms for document relevance ranking in information retrieval.", "metadata": {"model": "llama"}}
+{"query-id": "73", "query-text": "music structure based vector space retrieval", "response": "vector space model for music information retrieval", "metadata": {"model": "llama"}}
+{"query-id": "74", "query-text": "advanced information retrieval techniques", "response": "Information retrieval techniques for advanced users", "metadata": {"model": "llama"}}

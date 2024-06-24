@@ -1,0 +1,13 @@
+{"query-id": "1", "query-text": "event extraction using convolutional neural networks", "response": "How to use convolutional neural networks for event extraction?", "metadata": {"model": "llama"}}
+{"query-id": "2", "query-text": "similarity metrics for event extraction from social media", "response": "event extraction metrics for social media analysis", "metadata": {"model": "llama"}}
+{"query-id": "3", "query-text": "event extraction from cab traces", "response": "How to extract events from Call Detail Records (CDRs)?", "metadata": {"model": "llama"}}
+{"query-id": "4", "query-text": "multimodal zero shot learning", "response": "What is multi-modal zero-shot learning?", "metadata": {"model": "llama"}}
+{"query-id": "5", "query-text": "self supervised image retrieval methods", "response": "Best self-supervised image retrieval algorithms", "metadata": {"model": "llama"}}
+{"query-id": "6", "query-text": "multimodal large language models", "response": "How do multimodal large language models work? What are their capabilities and limitations?", "metadata": {"model": "llama"}}
+{"query-id": "7", "query-text": "multi hop question answering using retrieval augmented generation", "response": "How can I use retrieval-augmented generation for multi-hop question answering?", "metadata": {"model": "llama"}}
+{"query-id": "8", "query-text": "sequence to sequence models for table question answering", "response": "Table question answering techniques using sequence to sequence models.", "metadata": {"model": "llama"}}
+{"query-id": "9", "query-text": "weakly supervised table semantic parsing", "response": "How to perform weakly supervised table semantic parsing?", "metadata": {"model": "llama"}}
+{"query-id": "10", "query-text": "relevance aware diversity metrics", "response": "What are some effective methods for evaluating the diversity of a dataset?", "metadata": {"model": "llama"}}
+{"query-id": "11", "query-text": "coordination between small and large language models", "response": "How to coordinate small and large language models in natural language processing tasks?", "metadata": {"model": "llama"}}
+{"query-id": "12", "query-text": "cross lingual information retrieval", "response": "How to perform cross-lingual information retrieval?", "metadata": {"model": "llama"}}
+{"query-id": "13", "query-text": "knowledge graph construction and utilization in nlp", "response": "How can knowledge graph construction and utilization be applied in natural language processing (NLP)?", "metadata": {"model": "llama"}}
