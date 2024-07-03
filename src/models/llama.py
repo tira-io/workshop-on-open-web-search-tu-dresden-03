@@ -11,13 +11,13 @@ from util.utility import save_query
 
 
 class Llama2Wrapper(Layout):
-    def __init__(self, min_len, max_len, temperature, name, modelpath="../models/llama2-7b-chat-pytorch", **kwargs):
+    def __init__(self, min_len, max_len, temperature, name, model_name_or_path, tokenizer_name_or_path, **kwargs):
         super().__init__(name)
         self.min_len = min_len
         self.max_len = max_len
         self.temperature = temperature
-        self.tokenizer = LlamaTokenizerFast.from_pretrained(modelpath, use_default_system_prompt=False)
-        self.model = LlamaForCausalLM.from_pretrained(modelpath, torch_dtype=bfloat16, device_map="auto", load_in_4bit=True)
+        self.tokenizer = LlamaTokenizerFast.from_pretrained(tokenizer_name_or_path, use_default_system_prompt=False)
+        self.model = LlamaForCausalLM.from_pretrained(model_name_or_path, torch_dtype=bfloat16, device_map="auto", load_in_4bit=True)
         # self.sysprompt = "Answer the following query. Be short and concise, 50 words at max. Answer in full sentences."
         # self.prompt = "<s>[INST] <<SYS>>\n" + self.sysprompt + "\n<</SYS>>\n\n"
 
@@ -74,40 +74,19 @@ class Llama2Wrapper(Layout):
                 print("\n[" + " " * (math.ceil(math.log10(len(queries)) - 1) - math.floor(math.log10(idx + 1))) + str(idx+1) + "/" + str(len(queries)) + "]", end=" ")
                 output = self.process_query(q.text, prompttype=experiment, show_output=show_output)
                 save_query(exp_name=exp_name, model_name=self.name, dset_name=dset_name, query=q, response=output)
+                yield {"query_id": query.query_id, f"{exp_name}-expansion": output}
         else:
             for q in queries:
                 output = self.process_query(q.text, prompttype=experiment, show_output=show_output)
                 save_query(exp_name=exp_name, model_name=self.name, dset_name=dset_name, query=q, response=output)
+                yield {"query_id": query.query_id, f"{exp_name}-expansion": output}
 
     def chain_of_thoughts(self, queries, dset_name):
-        self.process_queries(queries, exp_name="chain-of-thoughts", dset_name=dset_name, experiment="cot", show_output=False)
+        yield from self.process_queries(queries, exp_name="chain-of-thoughts", dset_name=dset_name, experiment="cot", show_output=False)
 
     def similar_queries_fs(self, queries, dset_name):
-        self.process_queries(queries, exp_name="similar-queries-fs", dset_name=dset_name, experiment="fs", show_output=False)
+        yield from self.process_queries(queries, exp_name="similar-queries-few-shot", dset_name=dset_name, experiment="fs", show_output=False)
 
     def similar_queries_zs(self, queries, dset_name):
-        self.process_queries(queries, exp_name="similar-queries-zs", dset_name=dset_name, experiment="zs", show_output=False)
+        yield from self.process_queries(queries, exp_name="similar-queries-zero-shot", dset_name=dset_name, experiment="zs", show_output=False)
 
-    def extract_keywords(self):
-        with open("msmarco-passage-trec-dl-2019-judged-20230107-training.jsonl", "r") as f:
-            responses = [json.loads(line)["response"] for line in f.readlines()]
-
-        input = "<s>[INST] <<SYS>>\n" + "Extract 10 relevant keywords from the following document. Also think of 10 other relevant keywords. List your keywords comma-separated." + "\n<</SYS>>\n\n"
-        input += responses[0] + " [/INST]"
-        input, num_input_tokens = self.tokenize_and_count(input)
-        output = self.model.generate(**input, max_new_tokens=200, pad_token_id=self.tokenizer.eos_token_id, do_sample=True, temperature=5.1, num_return_sequences=3)
-        print(output)
-        output0 = self.tokenizer.decode(output[0][num_input_tokens:], skip_special_tokens=True).strip()
-        output1 = self.tokenizer.decode(output[1][num_input_tokens:], skip_special_tokens=True).strip()
-        output2 = self.tokenizer.decode(output[2][num_input_tokens:], skip_special_tokens=True).strip()
-
-        print("\nResponse: " + "\n".join([output0, output1, output2]))
-
-    def vary_queries(self, queries):
-        for q in queries:
-            input = "<s>[INST] <<SYS>>\n" + "Assume the following as a query in a natural language retrieval system. Operate in 2 steps: First, write a list of relevant terms. Second, formulate one query with the terms." + "\n<</SYS>>\n\n"
-            input += q.text + " [/INST]"
-            input, num_input_tokens = self.tokenize_and_count(input)
-            output = self.model.generate(**input, max_new_tokens=200, pad_token_id=self.tokenizer.eos_token_id, do_sample=True, temperature=1.1, num_return_sequences=1)
-            output = self.tokenizer.decode(output[0][num_input_tokens:], skip_special_tokens=True).strip()
-            print("\nQuery: " + q.text + "\nResponse: " + output)

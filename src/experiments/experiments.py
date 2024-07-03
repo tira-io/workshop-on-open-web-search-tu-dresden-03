@@ -6,7 +6,6 @@ from tqdm import tqdm
 from util.utility import *
 
 tira = Client()
-ensure_pyterrier_is_loaded()
 
 
 class ChainOfThoughts(Layout):

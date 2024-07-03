@@ -1,13 +1,9 @@
-import pyterrier as pt
 import pandas as pd
 from tqdm import tqdm
 
 from tira.third_party_integrations import ensure_pyterrier_is_loaded
 from tira.rest_api_client import Client
 from util.utility import *
-
-tira = Client()
-ensure_pyterrier_is_loaded()
 
 
 class Layout:
@@ -29,6 +25,8 @@ class Layout:
             self.do_evaluation(self.exp_name, model_name)
 
     def do_evaluation(self, exp_name, model_name):
+        import pyterrier as pt
+        ensure_pyterrier_is_loaded()
         eval_dfs = []
         for dset_name in tqdm(self.dsets):
             expanded_queries = Layout.get_as_dict(exp_name, model_name, dset_name)
@@ -61,6 +59,8 @@ class Layout:
 
     # Generates a file for every experiment and dataset (3 models * 4 experiments = 12 lines per file)
     def eval_dataset(self, model_names):
+        import pyterrier as pt
+        ensure_pyterrier_is_loaded()
         print(f"[Layout::eval_dataset] {self.exp_name} is doing evaluation ...")
         for dset_name in tqdm(self.dsets):
             eval_dfs = []
@@ -102,11 +102,14 @@ class Layout:
 
     @staticmethod
     def pyterrier_index_from_tira(dataset):
+        import pyterrier as pt
+        ensure_pyterrier_is_loaded()
         ret = tira.get_run_output('ir-benchmarks/tira-ir-starter/Index (tira-ir-starter-pyterrier)', dataset) + '/index'
         return pt.IndexFactory.of(ret)
 
     @staticmethod
     def get_as_dict(exp_name, model, dset_name):
+        import pyterrier as pt
         json_res = read_queries(exp_name, model, dset_name)
         tokeniser = pt.autoclass("org.terrier.indexing.tokenisation.Tokeniser").getTokeniser()
 

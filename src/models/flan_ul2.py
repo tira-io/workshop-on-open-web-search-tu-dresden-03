@@ -6,14 +6,14 @@ from util.utility import save_query
 
 
 class FlanUL2Wrapper(Layout):
-    def __init__(self, min_len, max_len, temperature, name, modelpath):
+    def __init__(self, min_len, max_len, temperature, name, model_name_or_path, tokenizer_name_or_path):
         super().__init__(name)
         self.min_len = min_len
         self.max_len = max_len
         self.temperature = temperature
 
-        self.model = T5ForConditionalGeneration.from_pretrained(modelpath, device_map="auto", load_in_8bit=True)
-        self.tokenizer = AutoTokenizer.from_pretrained("google/flan-ul2")
+        self.model = T5ForConditionalGeneration.from_pretrained(model_name_or_path, device_map="auto", load_in_8bit=True)
+        self.tokenizer = AutoTokenizer.from_pretrained(tokenizer_name_or_path)
 
     def process_query(self, prompt):
         inputs = self.tokenizer(prompt, return_tensors="pt", padding=True, truncation=True).input_ids.to("cuda")
@@ -33,6 +33,7 @@ class FlanUL2Wrapper(Layout):
             prompt = add_context(query.default_text())
             response = self.process_query(prompt)
             save_query(exp_name="chain-of-thoughts", model_name=self.name, dset_name=dset_name, query=query, response=response)
+            yield {"query_id": query.query_id, "chain-of-thoughts-expansion": response}
 
     def similar_queries_fs(self, queries, dset_name):
         def add_context(q):
@@ -54,6 +55,7 @@ class FlanUL2Wrapper(Layout):
             prompt = add_context(query.default_text())
             response = self.process_query(prompt)
             save_query(exp_name="similar-queries-fs", model_name=self.name, dset_name=dset_name, query=query, response=response)
+            yield {"query_id": query.query_id, "similar-queries-few-shot-expansion": response}
 
     def similar_queries_zs(self, queries, dset_name):
         def add_context(q):
@@ -65,3 +67,5 @@ class FlanUL2Wrapper(Layout):
             prompt = add_context(query.default_text())
             response = self.process_query(prompt)
             save_query(exp_name="similar-queries-zs", model_name=self.name, dset_name=dset_name, query=query, response=response)
+            yield {"query_id": query.query_id, "similar-queries-zero-shot-expansion": response}
+
