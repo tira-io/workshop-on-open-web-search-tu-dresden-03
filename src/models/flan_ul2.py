@@ -19,7 +19,7 @@ class FlanUL2Wrapper(Layout):
         inputs = self.tokenizer(prompt, return_tensors="pt", padding=True, truncation=True).input_ids.to("cuda")
         output = self.model.generate(inputs, do_sample=True, min_length=self.min_len, max_length=self.max_len,
                                      temperature=self.temperature)
-        return self.tokenizer.batch_decode(output, skip_special_tokens=True)
+        return self.tokenizer.batch_decode(output, skip_special_tokens=True)[0]
 
     def chain_of_thoughts(self, queries, dset_name):
         def add_context(q):

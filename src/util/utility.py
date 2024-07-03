@@ -9,7 +9,7 @@ def save_query(exp_name, model_name, dset_name, query, response):
     if not os.path.exists(path):
         os.makedirs(path)
 
-    with jsonlines.open(f'{path}/{dset_name}.jsonl', mode='a') as writer:
+    with jsonlines.open(f'{path}/{dset_name.replace("/", "-")}.jsonl', mode='a') as writer:
         elem = {
             "query-id": query.query_id,
             "query-text": query.default_text(),
