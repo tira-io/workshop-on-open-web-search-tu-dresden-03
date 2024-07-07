@@ -43,9 +43,9 @@ if __name__ == '__main__':
 
     chain_of_thoughts = ChainOfThoughts(long_name="chain-of-thoughts", short_name="CoT", flan=flan_model, llama=llama_model, gpt=chatgpt_model, dsets=dset_list)
     
-    similar_queries_fs = SimilarQueriesFS(long_name="similar-queries-fs", short_name="Q2E/FS", flan=flan_model, llama=llama_model, gpt=chatgpt_model, dsets=dset_list)
+    similar_queries_fs = SimilarQueriesFS(long_name="similar-queries-few-shot", short_name="Q2E/FS", flan=flan_model, llama=llama_model, gpt=chatgpt_model, dsets=dset_list)
 
-    similar_queries_zs = SimilarQueriesZS(long_name="similar-queries-zs", short_name="Q2E/ZS", flan=flan_model, llama=llama_model, gpt=chatgpt_model, dsets=dset_list)
+    similar_queries_zs = SimilarQueriesZS(long_name="similar-queries-zero-shot", short_name="Q2E/ZS", flan=flan_model, llama=llama_model, gpt=chatgpt_model, dsets=dset_list)
 
     results = []
 

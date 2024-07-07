@@ -74,12 +74,12 @@ class Llama2Wrapper(Layout):
                 print("\n[" + " " * (math.ceil(math.log10(len(queries)) - 1) - math.floor(math.log10(idx + 1))) + str(idx+1) + "/" + str(len(queries)) + "]", end=" ")
                 output = self.process_query(q.text, prompttype=experiment, show_output=show_output)
                 save_query(exp_name=exp_name, model_name=self.name, dset_name=dset_name, query=q, response=output)
-                yield {"query_id": query.query_id, f"{exp_name}-expansion": output}
+                yield {"query_id": q.query_id, f"{exp_name}-expansion": output}
         else:
             for q in queries:
                 output = self.process_query(q.text, prompttype=experiment, show_output=show_output)
                 save_query(exp_name=exp_name, model_name=self.name, dset_name=dset_name, query=q, response=output)
-                yield {"query_id": query.query_id, f"{exp_name}-expansion": output}
+                yield {"query_id": q.query_id, f"{exp_name}-expansion": output}
 
     def chain_of_thoughts(self, queries, dset_name):
         yield from self.process_queries(queries, exp_name="chain-of-thoughts", dset_name=dset_name, experiment="cot", show_output=False)
